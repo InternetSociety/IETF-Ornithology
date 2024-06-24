@@ -30,3 +30,5 @@ export PATH="/Users/olaf/.cargo/bin:$PATH"
 ```
 
 The Hind font you have to install through the font install tools of your OS.
+
+Once that is done - you can just run ```mdbook build``` from the root of this directory.
