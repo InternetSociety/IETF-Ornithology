@@ -5,6 +5,7 @@
 
 - [The IETF](./IETF/intro.md)
    - [Birds of a Feather (BOFs)](./IETF/BOFs/intro.md)
+       - [Network Attestation for Secure Routing](./IETF/BOFs/nasr.md)
        - [Workload Identity in Multi System Environments (wimse)](./IETF/BOFs/wimse.md)
        - [New DNS Delegations (deleg)](./IETF/BOFs/deleg.md)
        - [Secure Patterns for Internet CrEdentials (spice)](./IETF/BOFs/spice.md)
