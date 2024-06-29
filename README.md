@@ -32,3 +32,26 @@ export PATH="/Users/olaf/.cargo/bin:$PATH"
 The Hind font you have to install through the font install tools of your OS.
 
 Once that is done - you can just run ```mdbook build``` from the root of this directory.
+
+
+### Tools and conventions
+
+Files are usually created as follows:
+
+
+````
+# The Title of the document
+
+<IETFschedule>  * IETF120: Mon 22 Jul 2024 13:00 - Regency E/F</IETFschedule>
+* [GROUP](https://datatracker.ietf.org/group/group/about/)
+* keywords: keywords, and trigger words.
+
+Description with an indication of elements that may be noteworthy
+
+
+```
+
+
+You can run the AgendaUpdate.py tool to update the agenda information between the <IETFschecule> XML elenments. A quick and dirty approach could be:
+
+``` find src/IETF  -type file  -exec  ./AgendaUpdate.py 120 America/Vancouver {} \;```
