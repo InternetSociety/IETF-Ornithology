@@ -6,6 +6,6 @@ This is not the only curated list for people with other than technical interest 
 
 Earlier we published a Word document with the ornithology. We are now experimenting with a GitHub based curation that is easily compiled into a web page or a PDF document and, more importantly, allows for GitHub based collaboration. 
 
-This version of the Ornithology has been last updated for IETF 120. Times are indicative only. Verify timeslots of interest using the [IETF meeting agenda](https://datatracker.ietf.org/meeting/120/agenda) 
+This version of the Ornithology has been updated for IETF 120. Times are indicative only. Verify time slots of interest using the [IETF meeting agenda](https://datatracker.ietf.org/meeting/120/agenda) 
 
 

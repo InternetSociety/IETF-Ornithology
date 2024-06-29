@@ -1,5 +1,5 @@
 # Registration Protocols Extensions (regext)
-<IETFschedule> * IETF120: Wed 24 Jul 2024 13:00 - Plaza B</IETFschedule>
+* <IETFschedule>IETF120: Wed 24 Jul 2024 13:00 - Plaza B</IETFschedule>
 * [REGEXT](https://datatracker.ietf.org/group/regext/about/)
 * Keywords: DNS, registration data
 

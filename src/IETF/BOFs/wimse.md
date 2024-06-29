@@ -1,6 +1,6 @@
 # Workload Identity in Multi System Environments (wimse)
 
-<IETFschedule> * IETF120: Tue 23 Jul 2024 13:00 - Georgia A</IETFschedule>
+* <IETFschedule>IETF120: Tue 23 Jul 2024 13:00 - Georgia A</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-richer-wimse/)
 * Keywords: Identity, cloud service
 

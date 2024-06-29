@@ -1,5 +1,5 @@
 # Network Attestation for Secure Routing (NASR) 
-<IETFschedule>  * IETF120: Wed 24 Jul 2024 13:00 - Regency C/D</IETFschedule>
+* <IETFschedule>IETF120: Wed 24 Jul 2024 13:00 - Regency C/D</IETFschedule>
 * [BOF Request](https://datatracker.ietf.org/doc/bofreq-liu-nasr/)
 * Keywords: Secure routing, supply chain trust
 

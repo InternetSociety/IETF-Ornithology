@@ -1,5 +1,5 @@
 # Messaging Layer Security (mls)
-<IETFschedule>  * IETF120: Mon 22 Jul 2024 13:00 - Plaza A</IETFschedule>
+* <IETFschedule>IETF120: Mon 22 Jul 2024 13:00 - Plaza A</IETFschedule>
 * [MLS](https://datatracker.ietf.org/group/mls/about/)
 
 

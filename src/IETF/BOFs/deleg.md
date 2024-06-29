@@ -1,5 +1,5 @@
 # New DNS Delegations (deleg)
-<IETFschedule>  * IETF120: Mon 22 Jul 2024 13:00 - Regency C/D</IETFschedule>
+* <IETFschedule>IETF120: Mon 22 Jul 2024 13:00 - Regency C/D</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-arends-deleg-capabilities/)
 * Keywords: DNS, core infrastructure, confidentiality
 

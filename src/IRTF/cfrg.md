@@ -1,5 +1,5 @@
 # Crypto Forum (cfrc)
-<IETFschedule>  * IETF120: Tue 23 Jul 2024 15:30 - Regency A/B</IETFschedule>
+* <IETFschedule>IETF120: Tue 23 Jul 2024 15:30 - Regency A/B</IETFschedule>
 * [CFRG](https://datatracker.ietf.org/group/cfrg/about/)
 
 
