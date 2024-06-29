@@ -70,9 +70,9 @@ try:
         "id"
     ]  # Potential bug: not sure about the first index in the object array
 except HTTPError as http_err:
-    print(f"HTTP error occured wile fetching {datatrackerUrl}: {http_err}")
+    print(f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}")
 except Exception as err:
-    print(f"Other error occured wile fetching {datatrackerUrl}: {err}")
+    print(f"Other error occured wile processing {acronym} and fetching {datatrackerUrl}: {err}")
 
 if not IETFMeetingId:
     exit(1)
@@ -101,9 +101,9 @@ try:
     ]  # Potential bug: not sure about the first index in the object array
 
 except HTTPError as http_err:
-    print(f"HTTP error occured wile fetching {datatrackerUrl}: {http_err}")
+    print(f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}")
 except Exception as err:
-    print(f"Other error occured wile fetching {datatrackerUrl}: {err}")
+    print(f"Other error occured wile processing {acronym}  fetching {datatrackerUrl}: {err}")
 
 if not workgroupId:
     exit(1)
@@ -136,9 +136,9 @@ try:
     schedTimeAssignment = jsonResponse["objects"][0]["assignments"][0]
 
 except HTTPError as http_err:
-    print(f"HTTP error occured wile fetching {datatrackerUrl}: {http_err}")
+    print(f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}")
 except Exception as err:
-    print(f"Other error occured wile fetching {datatrackerUrl}: {err}")
+    print(f"Other error occured wile processing {acronym} and fetching {datatrackerUrl}: {err}")
 
 if schedTimeAssignment == "":
     exit(1)
@@ -164,9 +164,9 @@ try:
     timeSlotURL = jsonResponse["timeslot"]
 
 except HTTPError as http_err:
-    print(f"HTTP error occured wile fetching {datatrackerUrl}: {http_err}")
+    print(f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}")
 except Exception as err:
-    print(f"Other error occured wile fetching {datatrackerUrl}: {err}")
+    print(f"Other error occured wile processing {acronym} and fetching {datatrackerUrl}: {err}")
 
 if timeSlotURL == "":
     exit(1)
@@ -192,9 +192,9 @@ try:
 
 
 except HTTPError as http_err:
-    print(f"HTTP error occured wile fetching {datatrackerUrl}: {http_err}")
+    print(f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}")
 except Exception as err:
-    print(f"Other error occured wile fetching {datatrackerUrl}: {err}")
+    print(f"Other error occured wile processing {acronym} and  fetching {datatrackerUrl}: {err}")
 
 if locationURL == "":
     exit(1)
@@ -222,9 +222,9 @@ try:
     functionalname = jsonResponse["functional_name"]
 
 except HTTPError as http_err:
-    print(f"HTTP error occured wile fetching {datatrackerUrl}: {http_err}")
+    print(f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}")
 except Exception as err:
-    print(f"Other error occured wile fetching {datatrackerUrl}: {err}")
+    print(f"Other error occured wile  processing {acronym} and fetching {datatrackerUrl}: {err}")
 if debug:
     print("Roomname: " + roomname + "(" + functionalname + ")")
 
