@@ -17,8 +17,9 @@ parser = argparse.ArgumentParser(
     description="""
                     Updates the agenda information in the various files..
                     The tool expect the path to end with a filename that equals a working group acronym.
-                    It will look for matching <IETFschedule> XML elements in the file
-                    and fill in agenda details from the IETF datatracker
+                    It will modify the  line with the matching <IETFschedule> XML elements
+                    and fill in agenda details from the IETF datatracker. Note it will delete all data 
+                    in front of the XML tag too.
                     """,
     epilog="""Tool specificly developed for the IETF  Ornmithology.
                       For timezone names see  https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
