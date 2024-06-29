@@ -247,8 +247,8 @@ with open(filepath, "r") as file:
 with open(filepath, "w") as file:
     file.write(
         re.sub(
-            "<IETFschedule>.*</IETFschedule>",
-            "<IETFschedule>  * IETF"
+            ".*<IETFschedule>.*</IETFschedule>",
+            "* <IETFschedule>IETF"
             + meetingnumber
             + ": "
             + localmeetingtime_struct.strftime("%a %d %b %Y %H:%M")
