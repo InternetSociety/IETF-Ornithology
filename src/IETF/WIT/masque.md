@@ -1,5 +1,5 @@
 # Multiplexed Application Substrate over QUIC Encryption (masque)
-
+<IETFschedule>  * IETF120: Tue 23 Jul 2024 15:30 - Regency A/B</IETFschedule>
 * [MASQUE](https://datatracker.ietf.org/group/masque/about/)
 * Keywords: privacy, encryption
 

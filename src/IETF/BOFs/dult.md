@@ -1,6 +1,6 @@
 # Detecting Unwanted Location Trackers (dust)
-
-* [Bof request](https://datatracker.ietf.org/doc/bofreq-eddinger-detecting-unwanted-location-trackers/)
+<IETFschedule>  * IETF120: Tue 23 Jul 2024 09:30 - Regency A/B</IETFschedule>
+* [BoF request](https://datatracker.ietf.org/doc/bofreq-eddinger-detecting-unwanted-location-trackers/)
 * Keywords: privacy, personal safety
 
 
