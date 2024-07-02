@@ -4,12 +4,15 @@ The IETF Ornithology is an effort to allow crowdsourcing the identification of p
 
 You can read the Ornithology through as a [web page](https://internetsociety.github.io/IETF-ornithology/) or as a [PDF](https://internetsociety.github.io/IETF-ornithology/IETF-Ornithology.pdf)
 
+
+## Contributing to this document.
+
 The source for this document can be found in the [src directory](https://github.com/InternetSociety/IETF-Ornithology/tree/main/src) of the 
-[https://github.com/internetsociety/IETF-ornithology/](https://github.com/internetsociety/IETF-ornithology/) repository. Readers are encouraged to contribute. 
+[https://github.com/internetsociety/IETF-ornithology/](https://github.com/internetsociety/IETF-ornithology/) repository. Readers are encouraged to contribute by opening issues, pull requests, or sending mail to the editor.
 
-For local development: The web and PDF version of this document need to be created locally and pushed to the GitHub repository. The web and PDF versions can be created from their source with [mdBook](https://rust-lang.github.io/mdBook/cli/init.html) using the [mdbook-pandoc](https://github.com/max-heller/mdbook-pandoc) extension. This tooling is dependent of having [LuaTeX](https://www.luatex.org/), [pandoc](https://pandoc.org/), and the [Hind-Light font](https://fonts.google.com/specimen/Hind) installed. 
+For local development: The web and PDF version of this document can be created locally. To generate these from their markdow source use [mdBook](https://rust-lang.github.io/mdBook/cli/init.html) with the [mdbook-pandoc](https://github.com/max-heller/mdbook-pandoc) extension. This tooling is dependent on having [LuaTeX](https://www.luatex.org/), [pandoc](https://pandoc.org/), and the [Hind-Light font](https://fonts.google.com/specimen/Hind) installed. 
 
-On OSX you can set up the environment, assuming you installed homebrew, by executing the following commands.
+On OSX you can set up the environment, assuming you installed [homebrew](https://brew.sh/), by executing the following commands.
 
 ``` 
 brew install rust pandoc mdbook mactex
