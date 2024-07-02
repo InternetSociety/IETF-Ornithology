@@ -9,7 +9,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 
-debug = 1
+debug = 0
 
 
 parser = argparse.ArgumentParser(
@@ -48,7 +48,7 @@ else:
         exit(1)
 
 if debug:
-    print(acronym)
+    print(acronym.upper())
 
 
 # Determine IETF meeting ID in Datatrakker
@@ -72,11 +72,11 @@ try:
     ]  # Potential bug: not sure about the first index in the object array
 except HTTPError as http_err:
     print(
-        f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}"
+        f"HTTP error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
     )
 except Exception as err:
     print(
-        f"Other error occured wile processing {acronym} and fetching {datatrackerUrl}: {err}"
+        f"Other error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
     )
 
 if not IETFMeetingId:
@@ -107,11 +107,11 @@ try:
 
 except HTTPError as http_err:
     print(
-        f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}"
+        f"HTTP error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
     )
 except Exception as err:
     print(
-        f"Other error occured wile processing {acronym}  fetching {datatrackerUrl}: {err}"
+        f"Other error occured wile processing {acronym.upper()}  fetching {datatrackerUrl}: {err}"
     )
 
 if not workgroupId:
@@ -145,11 +145,11 @@ try:
     sessionID = jsonResponse["objects"][0]["id"]
 except HTTPError as http_err:
     print(
-        f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}"
+        f"HTTP error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
     )
 except Exception as err:
     print(
-        f"Other error occured wile processing {acronym} and fetching {datatrackerUrl}: {err}"
+        f"Other error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
     )
 
 if sessionID == "":
@@ -193,11 +193,11 @@ try:
 
 except HTTPError as http_err:
     print(
-        f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}"
+        f"HTTP error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
     )
 except Exception as err:
     print(
-        f"Other error occured wile processing {acronym} and fetching {datatrackerUrl}: {err}"
+        f"Other error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
     )
 
  
@@ -219,11 +219,11 @@ try:
 
 except HTTPError as http_err:
     print(
-        f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}"
+        f"HTTP error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
     )
 except Exception as err:
     print(
-        f"Other error occured wile processing {acronym} and fetching {datatrackerUrl}: {err}"
+        f"Other error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
     )
 
 if timeSlotURL == "":
@@ -251,11 +251,11 @@ try:
 
 except HTTPError as http_err:
     print(
-        f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}"
+        f"HTTP error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
     )
 except Exception as err:
     print(
-        f"Other error occured wile processing {acronym} and  fetching {datatrackerUrl}: {err}"
+        f"Other error occured wile processing {acronym.upper()} and  fetching {datatrackerUrl}: {err}"
     )
 
 if locationURL == "":
@@ -285,11 +285,11 @@ try:
 
 except HTTPError as http_err:
     print(
-        f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}"
+        f"HTTP error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
     )
 except Exception as err:
     print(
-        f"Other error occured wile  processing {acronym} and fetching {datatrackerUrl}: {err}"
+        f"Other error occured wile  processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
     )
 if debug:
     print("Roomname: " + roomname + "(" + functionalname + ")")
@@ -297,8 +297,8 @@ if debug:
 # Now we arrived here we can parse our data
 
 print(
-    acronym
-    + "@"
+    acronym.upper()
+    + " @ "
     + meetingnumber
     + ": "
     + localmeetingtime_struct.strftime("%a %d %b %Y %H:%M")
