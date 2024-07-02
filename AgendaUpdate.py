@@ -9,7 +9,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 
-debug = 0
+debug = 1
 
 
 parser = argparse.ArgumentParser(
@@ -18,7 +18,7 @@ parser = argparse.ArgumentParser(
                     Updates the agenda information in the various files..
                     The tool expect the path to end with a filename that equals a working group acronym.
                     It will modify the  line with the matching <IETFschedule> XML elements
-                    and fill in agenda details from the IETF datatracker. Note it will delete all data 
+                    and fill in agenda details from the IETF datatracker. Note it will delete all data
                     in front of the XML tag too.
                     """,
     epilog="""Tool specificly developed for the IETF  Ornmithology.
@@ -71,9 +71,13 @@ try:
         "id"
     ]  # Potential bug: not sure about the first index in the object array
 except HTTPError as http_err:
-    print(f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}")
+    print(
+        f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}"
+    )
 except Exception as err:
-    print(f"Other error occured wile processing {acronym} and fetching {datatrackerUrl}: {err}")
+    print(
+        f"Other error occured wile processing {acronym} and fetching {datatrackerUrl}: {err}"
+    )
 
 if not IETFMeetingId:
     exit(1)
@@ -102,9 +106,13 @@ try:
     ]  # Potential bug: not sure about the first index in the object array
 
 except HTTPError as http_err:
-    print(f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}")
+    print(
+        f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}"
+    )
 except Exception as err:
-    print(f"Other error occured wile processing {acronym}  fetching {datatrackerUrl}: {err}")
+    print(
+        f"Other error occured wile processing {acronym}  fetching {datatrackerUrl}: {err}"
+    )
 
 if not workgroupId:
     exit(1)
@@ -115,7 +123,7 @@ if debug:
 
 # Find the sceduling entry
 # First determine the sechduled time assignment
-schedTimeAssignment = ""
+sessionID = ""
 datatrackerUrl = (
     "https://datatracker.ietf.org/api/v1/meeting/session/?format=json&group="
     + str(workgroupId)
@@ -134,28 +142,73 @@ try:
         print("Entire JSON response")
         print(jsonResponse)
     # workgroupId = jsonResponse["objects"][0]["id"]   # Potential bug: not sure about the first index in the object array
-    schedTimeAssignment = jsonResponse["objects"][0]["assignments"][0]
-
+    sessionID = jsonResponse["objects"][0]["id"]
 except HTTPError as http_err:
-    print(f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}")
+    print(
+        f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}"
+    )
 except Exception as err:
-    print(f"Other error occured wile processing {acronym} and fetching {datatrackerUrl}: {err}")
+    print(
+        f"Other error occured wile processing {acronym} and fetching {datatrackerUrl}: {err}"
+    )
 
-if schedTimeAssignment == "":
+if sessionID == "":
     exit(1)
 
 if debug:
-    print("schedTimeAssignment:" + str(schedTimeAssignment))
+    print("sessionId:" + str(sessionID))
 
-# Get the timeSlotURL
-timeSlotURL = ""
-datatrackerUrl = "https://datatracker.ietf.org" + schedTimeAssignment + "?format=json"
+
+# Determine the most recent                     
+schedTimeAssignmentID = ""
+datatrackerUrl = "https://datatracker.ietf.org/api/v1/meeting/schedtimesessassignment/?format=json&session=" + str(sessionID) + "&limit=30"
 if debug:
     print(datatrackerUrl)
 try:
-    response = requests.get(
-        "https://datatracker.ietf.org" + schedTimeAssignment + "?format=json"
+    response = requests.get(datatrackerUrl)
+    response.raise_for_status()
+    # access JSOn content
+    jsonResponse = response.json()
+    if debug:
+        print("Entire JSON response")
+        print(jsonResponse)
+    schedtimesessassignmentObjects=jsonResponse["objects"]
+
+
+    lastModifiedTime=datetime.strptime(schedtimesessassignmentObjects[0]["modified"], "%Y-%m-%dT%H:%M:%S%z")
+    schedTimeAssignmentID=schedtimesessassignmentObjects[0]["id"]
+    i = 1
+    
+    while i < len(schedtimesessassignmentObjects):
+        
+        newModifiedTime = datetime.strptime(schedtimesessassignmentObjects[i]["modified"], "%Y-%m-%dT%H:%M:%S%z")
+        if lastModifiedTime < newModifiedTime:
+            lastModifiedTime = newModifiedTime
+            schedTimeAssignmentID=schedtimesessassignmentObjects[i]["id"]
+        i+=1
+        if debug:
+            print (str(i)+ " : " + lastModifiedTime.strftime("%a %d %b %Y %H:%M"))
+
+
+
+except HTTPError as http_err:
+    print(
+        f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}"
     )
+except Exception as err:
+    print(
+        f"Other error occured wile processing {acronym} and fetching {datatrackerUrl}: {err}"
+    )
+
+ 
+
+# Get the timeSlotURL
+timeSlotURL = ""
+datatrackerUrl = "https://datatracker.ietf.org/api/v1/meeting/schedtimesessassignment/" + str(schedTimeAssignmentID) + "/?format=json"
+if debug:
+    print(datatrackerUrl)
+try:
+    response = requests.get(datatrackerUrl)
     response.raise_for_status()
     # access JSOn content
     jsonResponse = response.json()
@@ -165,9 +218,13 @@ try:
     timeSlotURL = jsonResponse["timeslot"]
 
 except HTTPError as http_err:
-    print(f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}")
+    print(
+        f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}"
+    )
 except Exception as err:
-    print(f"Other error occured wile processing {acronym} and fetching {datatrackerUrl}: {err}")
+    print(
+        f"Other error occured wile processing {acronym} and fetching {datatrackerUrl}: {err}"
+    )
 
 if timeSlotURL == "":
     exit(1)
@@ -193,9 +250,13 @@ try:
 
 
 except HTTPError as http_err:
-    print(f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}")
+    print(
+        f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}"
+    )
 except Exception as err:
-    print(f"Other error occured wile processing {acronym} and  fetching {datatrackerUrl}: {err}")
+    print(
+        f"Other error occured wile processing {acronym} and  fetching {datatrackerUrl}: {err}"
+    )
 
 if locationURL == "":
     exit(1)
@@ -223,9 +284,13 @@ try:
     functionalname = jsonResponse["functional_name"]
 
 except HTTPError as http_err:
-    print(f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}")
+    print(
+        f"HTTP error occured wile processing {acronym} and fetching {datatrackerUrl}: {http_err}"
+    )
 except Exception as err:
-    print(f"Other error occured wile  processing {acronym} and fetching {datatrackerUrl}: {err}")
+    print(
+        f"Other error occured wile  processing {acronym} and fetching {datatrackerUrl}: {err}"
+    )
 if debug:
     print("Roomname: " + roomname + "(" + functionalname + ")")
 
