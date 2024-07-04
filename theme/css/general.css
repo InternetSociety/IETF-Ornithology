@@ -262,3 +262,9 @@ svg#ISOCLogo  path {
 svg#ISOCShield  path {
   fill: var(--icons); /* changes the color to red */
 }
+
+#last-change {
+    margin-top: 60pt;
+    font-size: 8pt;
+    color: gray;
+}

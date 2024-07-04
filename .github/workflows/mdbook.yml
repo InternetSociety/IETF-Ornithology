@@ -35,7 +35,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      MDBOOK_VERSION: 0.4.37
+      MDBOOK_VERSION: 0.4.40
       MDBOOK_PANDOC_VERSION: 0.6.4
     steps:
       - uses: actions/checkout@v4
@@ -48,6 +48,7 @@ jobs:
       - run: |       
           cargo install --version ${MDBOOK_VERSION} mdbook
           cargo install --version ${MDBOOK_PANDOC_VERSION} mdbook-pandoc
+          cargo install mdbook-last-changed
 
 
       - name: Install pandoc

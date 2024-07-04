@@ -3,7 +3,8 @@ authors = ["Olaf Kolkman (editor)"]
 language = "en"
 multilingual = false
 src = "src"
-title = "The IETF Ornithology"
+title = "Potenential Public Policy Aspects in IETF 120"
+
 
 
 
@@ -12,6 +13,10 @@ title = "The IETF Ornithology"
 git-repository-url = "https://github.com/internetsociety/IETF-ornithology/"
 pdf-download-url = "https://internetsociety.github.io/IETF-ornithology/IETF-Ornithology.pdf"
 
+
+[preprocessor.last-changed]
+command = "mdbook-last-changed"
+renderer = ["html"]
 
 [output.html.print]
 enable = false    # include support for printable output
