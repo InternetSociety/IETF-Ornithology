@@ -11,7 +11,7 @@ title = "Potenential Public Policy Aspects in IETF 120"
 [output.html]
 
 git-repository-url = "https://github.com/internetsociety/IETF-ornithology/"
-pdf-download-url = "https://internetsociety.github.io/IETF-ornithology/IETF-Ornithology.pdf"
+pdf-download-url = "https://internetsociety.github.io/IETF-Ornithology/IETF-Ornithology.pdf"
 
 
 [preprocessor.last-changed]
