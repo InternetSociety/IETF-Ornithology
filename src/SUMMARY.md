@@ -9,7 +9,6 @@
        - [Getting Ready for Energy Efficient Networking](./IETF/BOFs/green.md)
        - [Securely COmmunicating NEtwork PROperties(scone pro)](./IETF/BOFs/sconepro.md)
        - [Network Attestation for Secure Routing](./IETF/BOFs/nasr.md)
-       - [Workload Identity in Multi System Environments (wimse)](./IETF/BOFs/wimse.md)
        - [New DNS Delegations (deleg)](./IETF/BOFs/deleg.md)
 
 
@@ -18,7 +17,7 @@
        - [More Instant Messaging Interoperability (mimi)](./IETF/ART/mimi.md)
        - [Registration Protocols Extensions (regext)](./IETF/ART/regext.md)
        - [Secure Telephony Identity Revisited (stir)](./IETF/ART/stir.md)
-
+       - [Workload Identity in Multi System Environments (wimse)](./IETF/ART/wimse.md)
        
    - [Internet Area](./IETF/INT/intro.md)
         - [Adaptive DNS Discovery (add)](./IETF/INT/add.md)
@@ -30,8 +29,8 @@
        - [Remote ATtestation ProcedureS (rats)](./IETF/SEC/rats.md)
        - [Supply Chain Integrity, Transparency, and Trust (scitt)](./IETF/SEC/scitt.md)
        - [Software Updates for Internet of Things (suit)](./IETF/SEC/suit.md)
-       - [Secure Patterns for Internet CrEdentials (spice)](./IETF/BOFs/spice.md)
-       - [Detecting Unwanted Location Trackers (dust)](./IETF/BOFs/dult.md)
+       - [Secure Patterns for Internet CrEdentials (spice)](./IETF/SEC/spice.md)
+       - [Detecting Unwanted Location Trackers (dust)](./IETF/SEC/dult.md)
 
    - [Web and Internet Transport](./IETF/WIT/intro.md)
        - [Multiplexed Application Substrate over QUIC Encryption (masque)](./IETF/WIT/masque.md)
@@ -44,7 +43,6 @@
 	    - [Global Access to the Internet for All (gaia)](./IRTF/gaia.md)
 	    - [Decentralization of the Internet Research Group (dinrg)](./IRTF/dinrg.md)
 	    - [Research and Analysis of Standard-Setting Processes Proposed Research Group (rasprg)](./IRTF/rasprg.md)
-	    - [Quantum Internet Research Group(qirg)](./IRTF/qirg.md)
 
 - [The IAB](./IAB/intro.md) 
     - [IAB Open](./IAB/iabopen.md)
