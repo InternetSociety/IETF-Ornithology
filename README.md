@@ -39,8 +39,8 @@ The markdown files are created with the working group acronym as their name. The
 ```
 # The Title of the document
 
-<IETFschedule>  * IETF120: Mon 22 Jul 2024 13:00 - Regency E/F</IETFschedule>
-* [GROUP](https://datatracker.ietf.org/group/group/about/)
+<IETFschedule> </IETFschedule>
+* [About GROUP](https://datatracker.ietf.org/group/group/about/)
 * keywords: keywords, and trigger words.
 
 Description with an indication of elements 

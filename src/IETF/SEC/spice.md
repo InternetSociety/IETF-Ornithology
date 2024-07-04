@@ -1,6 +1,6 @@
 # Secure Patterns for Internet CrEdentials (spice)
-* <IETFschedule>IETF120: Mon 22 Jul 2024 09:30 - Regency A/B</IETFschedule>
-* [BoF request](https://datatracker.ietf.org/doc/bofreq-prorock-secure-patterns-for-internet-credentials-spice/)
+* <IETFschedule>IETF120: Thu 25 Jul 2024 17:00 - Regency A/B</IETFschedule>
+* [About SPICE](https://datatracker.ietf.org/group/spice/about//)
 * Keywords: identity, credential, verification, digital public infrastructure
 
 

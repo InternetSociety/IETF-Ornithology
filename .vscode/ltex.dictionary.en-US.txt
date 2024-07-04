@@ -3,3 +3,5 @@ pandoc
 homebrew
 BoF
 BoFs
+DoH
+DoT

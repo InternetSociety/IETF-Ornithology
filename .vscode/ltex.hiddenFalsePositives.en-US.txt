@@ -1,0 +1,1 @@
+{"rule":"ADMIT_ENJOY_VB","sentence":"^\\QA community of stakeholders is seeking input from the IETF around the technical requirements and best practices to allow tracker manufacturers to build location-tracking accessories that will be compatible with unwanted tracking detection and alerts on mobile platforms.\\E$"}

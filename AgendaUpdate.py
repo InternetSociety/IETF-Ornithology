@@ -101,6 +101,9 @@ try:
     if debug:
         print("Entire JSON response")
         print(jsonResponse)
+    if not jsonResponse["objects"]:
+        print (acronym.upper() + " is not a known group" )
+        exit(1)
     workgroupId = jsonResponse["objects"][0][
         "id"
     ]  # Potential bug: not sure about the first index in the object array
@@ -141,6 +144,9 @@ try:
     if debug:
         print("Entire JSON response")
         print(jsonResponse)
+    if not jsonResponse["objects"]:
+        print (acronym.upper() + " likely does not meet at IETF" + meetingnumber )
+        exit(1)
     # workgroupId = jsonResponse["objects"][0]["id"]   # Potential bug: not sure about the first index in the object array
     sessionID = jsonResponse["objects"][0]["id"]
 except HTTPError as http_err:
@@ -159,7 +165,7 @@ if debug:
     print("sessionId:" + str(sessionID))
 
 
-# Determine the most recent                     
+# Determine the most recent
 schedTimeAssignmentID = ""
 datatrackerUrl = "https://datatracker.ietf.org/api/v1/meeting/schedtimesessassignment/?format=json&session=" + str(sessionID) + "&limit=30"
 if debug:
@@ -178,9 +184,7 @@ try:
     lastModifiedTime=datetime.strptime(schedtimesessassignmentObjects[0]["modified"], "%Y-%m-%dT%H:%M:%S%z")
     schedTimeAssignmentID=schedtimesessassignmentObjects[0]["id"]
     i = 1
-    
     while i < len(schedtimesessassignmentObjects):
-        
         newModifiedTime = datetime.strptime(schedtimesessassignmentObjects[i]["modified"], "%Y-%m-%dT%H:%M:%S%z")
         if lastModifiedTime < newModifiedTime:
             lastModifiedTime = newModifiedTime
@@ -200,7 +204,7 @@ except Exception as err:
         f"Other error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
     )
 
- 
+
 
 # Get the timeSlotURL
 timeSlotURL = ""

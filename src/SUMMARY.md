@@ -5,13 +5,14 @@
 
 - [The IETF](./IETF/intro.md)
    - [Birds of a Feather (BOFs)](./IETF/BOFs/intro.md)
+       - [Digital Emblems](./IETF/BOFs/diem.md)
+       - [Getting Ready for Energy Efficient Networking](./IETF/BOFs/green.md)
+       - [Securely COmmunicating NEtwork PROperties(scone pro)](./IETF/BOFs/sconepro.md)
        - [Network Attestation for Secure Routing](./IETF/BOFs/nasr.md)
        - [Workload Identity in Multi System Environments (wimse)](./IETF/BOFs/wimse.md)
        - [New DNS Delegations (deleg)](./IETF/BOFs/deleg.md)
-       - [Secure Patterns for Internet CrEdentials (spice)](./IETF/BOFs/spice.md)
-       - [Securely COmmunicating NEtwork PROperties(scone pro)](./IETF/BOFs/sconepro.md)
-       - [Detecting Unwanted Location Trackers (dust)](./IETF/BOFs/dult.md)
-       - [SRv6 Operations (srv6ops)](./IETF/BOFs/srv6ops.md)
+
+
    - [General Area](./IETF/Gen/intro.md)
    - [Applications and Real-Time Area](./IETF/ART/intro.md)
        - [More Instant Messaging Interoperability (mimi)](./IETF/ART/mimi.md)
@@ -20,7 +21,7 @@
 
        
    - [Internet Area](./IETF/INT/intro.md)
-       - [MAC Address Device Identification for Network and Application Services (madinas)](./IETF/INT/madinas.md)
+        - [Adaptive DNS Discovery (add)](./IETF/INT/add.md)
    - [Operations and Management Area](./IETF/OPS/intro.md)
        - [Network Management Operations (nmop)](./IETF/OPS/nmop.md)
    - [Security Area](./IETF/SEC/intro.md)
@@ -29,6 +30,8 @@
        - [Remote ATtestation ProcedureS (rats)](./IETF/SEC/rats.md)
        - [Supply Chain Integrity, Transparency, and Trust (scitt)](./IETF/SEC/scitt.md)
        - [Software Updates for Internet of Things (suit)](./IETF/SEC/suit.md)
+       - [Secure Patterns for Internet CrEdentials (spice)](./IETF/BOFs/spice.md)
+       - [Detecting Unwanted Location Trackers (dust)](./IETF/BOFs/dult.md)
 
    - [Web and Internet Transport](./IETF/WIT/intro.md)
        - [Multiplexed Application Substrate over QUIC Encryption (masque)](./IETF/WIT/masque.md)
@@ -44,6 +47,7 @@
 	    - [Quantum Internet Research Group(qirg)](./IRTF/qirg.md)
 
 - [The IAB](./IAB/intro.md) 
+    - [IAB Open](./IAB/iabopen.md)
 
 
 - [During an IETF meeting](./Meeting/intro.md)
