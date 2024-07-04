@@ -52,7 +52,7 @@ jobs:
       - name: Install pandoc
         run: |
           export ACTION_ARCH=`dpkg --print-architecture`
-          wget -O pandoc.deb https://github.com/jgm/pandoc/releases/download/3.2.1/pandoc-3.2.1-${ACTION_ARCH}.deb
+          wget -O pandoc.deb https://github.com/jgm/pandoc/releases/download/3.2.1/pandoc-3.2.1-1-${ACTION_ARCH}.deb
           sudo dpkg -i $DEB pandoc.deb
 
       - name: Install lualatex        
