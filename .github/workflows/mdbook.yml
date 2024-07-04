@@ -2,9 +2,7 @@
 #
 # To get started with mdBook see: https://rust-lang.github.io/mdBook/index.html
 #
-#  We wanted to run 
-        # sudo apt-get install  texlive-luatex texlive-latex-base  texlive-science texlive-latex-extra    	
-        # We need texlive 2023 at least and that is not yet available in ubuntu 22.04 - that is why the latex install is excessive
+
 
 
 
@@ -33,7 +31,7 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     env:
       MDBOOK_VERSION: 0.4.40
       MDBOOK_PANDOC_VERSION: 0.6.4
@@ -57,25 +55,25 @@ jobs:
           wget -O pandoc.deb https://github.com/jgm/pandoc/releases/download/3.1.13/pandoc-3.1.13-1-${ACTION_ARCH}.deb
           sudo dpkg -i $DEB pandoc.deb
 
-
-
-
       - name: Install lualatex        
         run: |
-           curl -L -o install-tl-unx.tar.gz ftp://tug.org/historic/systems/texlive/2023/tlnet-final/install-tl-unx.tar.gz 
-           zcat < install-tl-unx.tar.gz | tar xf -
-           cd install-tl-2*
-           sudo perl ./install-tl --no-interaction  -profile ../tex.profile -repository ftp://tug.org/historic/systems/texlive/2023/tlnet-final
-           uname -i
-           ls -l /usr/local/bin
-           export PATH=/usr/local/bin:${PATH}
-           sudo tlmgr install unicode-math
-           sudo tlmgr install lualatex-math
-           sudo tlmgr install xcolor
-           sudo tlmgr install luatexbase
-           sudo tlmgr install selnolig
-           sudo tlmgr install titling
-           sudo tlmgr install koma-script
+          sudo apt-get install  texlive-luatex texlive-latex-base  texlive-science texlive-latex-extra  
+
+
+ #          curl -L -o install-tl-unx.tar.gz ftp://tug.org/historic/systems/texlive/2023/tlnet-final/install-tl-unx.tar.gz 
+ #          zcat < install-tl-unx.tar.gz | tar xf -
+ #          cd install-tl-2*
+ #          sudo perl ./install-tl --no-interaction  -profile ../tex.profile -repository ftp://tug.org/historic/systems/texlive/2023/tlnet-final
+ #          uname -i
+ #          ls -l /usr/local/bin
+ #          export PATH=/usr/local/bin:${PATH}
+ #          sudo tlmgr install unicode-math
+ #          sudo tlmgr install lualatex-math
+ #          sudo tlmgr install xcolor
+ #          sudo tlmgr install luatexbase
+ #          sudo tlmgr install selnolig
+ #          sudo tlmgr install titling
+ #          sudo tlmgr install koma-script
         
            
 
