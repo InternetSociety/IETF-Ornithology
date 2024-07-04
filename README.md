@@ -2,13 +2,13 @@
 
 The IETF Ornithology is an effort to allow crowdsourcing the identification of public policy issues in IETF work.
 
-You can read the Ornithology through as a [web page](https://internetsociety.github.io/IETF-ornithology/) or as a [PDF](https://internetsociety.github.io/IETF-ornithology/IETF-Ornithology.pdf)
+You can read the Ornithology through as a [web page](https://internetsociety.github.io/IETF-Ornithology/) or as a [PDF](https://internetsociety.github.io/IETF-Ornithology/IETF-Ornithology.pdf)
 
 
 ## Contributing to this document.
 
 The source for this document can be found in the [src directory](https://github.com/InternetSociety/IETF-Ornithology/tree/main/src) of the 
-[https://github.com/internetsociety/IETF-ornithology/](https://github.com/internetsociety/IETF-ornithology/) repository. Readers are encouraged to contribute by opening issues, pull requests, or sending mail to the editor.
+[https://github.com/internetsociety/IETF-Ornithology/](https://github.com/internetsociety/IETF-Ornithology/) repository. Readers are encouraged to contribute by opening issues, pull requests, or sending mail to the editor.
 
 For local development: The web and PDF version of this document can be created locally. To generate these from their markdow source use [mdBook](https://rust-lang.github.io/mdBook/cli/init.html) with the [mdbook-pandoc](https://github.com/max-heller/mdbook-pandoc) extension. This tooling is dependent on having [LuaTeX](https://www.luatex.org/), [pandoc](https://pandoc.org/), and the [Hind-Light font](https://fonts.google.com/specimen/Hind) installed. 
 
