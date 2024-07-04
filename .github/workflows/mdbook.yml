@@ -52,30 +52,12 @@ jobs:
       - name: Install pandoc
         run: |
           export ACTION_ARCH=`dpkg --print-architecture`
-          wget -O pandoc.deb https://github.com/jgm/pandoc/releases/download/3.1.13/pandoc-3.1.13-1-${ACTION_ARCH}.deb
+          wget -O pandoc.deb https://github.com/jgm/pandoc/releases/download/3.2.1/pandoc-3.2.1-${ACTION_ARCH}.deb
           sudo dpkg -i $DEB pandoc.deb
 
       - name: Install lualatex        
         run: |
           sudo apt-get install  texlive-luatex texlive-latex-base  texlive-science texlive-latex-extra  
-
-
- #          curl -L -o install-tl-unx.tar.gz ftp://tug.org/historic/systems/texlive/2023/tlnet-final/install-tl-unx.tar.gz 
- #          zcat < install-tl-unx.tar.gz | tar xf -
- #          cd install-tl-2*
- #          sudo perl ./install-tl --no-interaction  -profile ../tex.profile -repository ftp://tug.org/historic/systems/texlive/2023/tlnet-final
- #          uname -i
- #          ls -l /usr/local/bin
- #          export PATH=/usr/local/bin:${PATH}
- #          sudo tlmgr install unicode-math
- #          sudo tlmgr install lualatex-math
- #          sudo tlmgr install xcolor
- #          sudo tlmgr install luatexbase
- #          sudo tlmgr install selnolig
- #          sudo tlmgr install titling
- #          sudo tlmgr install koma-script
-        
-           
 
       - name: Install Google Fonts
         run: |
@@ -97,19 +79,13 @@ jobs:
         with:
           path: ./book/html
 
-      - namer: Dpwnload pages
-        uses: actions/download-artifact@v4
-        with:
-          name: my-artifact
-      - name: Display structure of downloaded files
-        run: ls -R
 
   # Deployment job
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     needs: build
     steps:
       - name: Deploy to GitHub Pages
