@@ -1,13 +1,13 @@
 # The IETF Ornithology
 
-The IETF Ornithology is an effort currate information about public policy issues in IETF work.
+The IETF Ornithology is an effort curate information about public policy issues in IETF work.
 
 You can read the Ornithology through as a [web page](https://internetsociety.github.io/IETF-Ornithology/) or as a [PDF](https://internetsociety.github.io/IETF-Ornithology/IETF-Ornithology.pdf)
 
 
 ## Contributing to this document.
 
-To allow for crowdsourcing the curration we have created a [git repository](https://github.com/internetsociety/IETF-Ornithology/) for the document.
+To allow for crowdsourcing the curation we have created a [git repository](https://github.com/internetsociety/IETF-Ornithology/) for the document.
 
 The source for this document can be found in the [src directory](https://github.com/InternetSociety/IETF-Ornithology/tree/main/src) of the 
 [https://github.com/internetsociety/IETF-Ornithology/](https://github.com/internetsociety/IETF-Ornithology/) repository. Readers are encouraged to contribute by opening [issues](https://github.com/InternetSociety/IETF-Ornithology/issues) or, for those experienced with github, issuing pull requests.
