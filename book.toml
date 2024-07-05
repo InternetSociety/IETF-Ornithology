@@ -36,7 +36,7 @@ template = "ISOCTemplate.tex"
 
 [output.pandoc.profile.pdf.variables]
 logo = "ISOCShield.png"
-subtitle = "A Currated Overview of Public Policy Aspects in IETF Work"
+subtitle = "A Currated Overview"
 graphics = true
 standalone = true # produce output with an appropriate header and footer
 titlegraphic= "ISOCLogo.png"
