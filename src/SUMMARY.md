@@ -9,7 +9,7 @@
        - [Getting Ready for Energy Efficient Networking](./IETF/BOFs/green.md)
        - [Securely COmmunicating NEtwork PROperties(scone pro)](./IETF/BOFs/sconepro.md)
        - [Network Attestation for Secure Routing](./IETF/BOFs/nasr.md)
-       - [New DNS Delegations (deleg)](./IETF/BOFs/deleg.md)
+
 
 
    - [General Area](./IETF/Gen/intro.md)
