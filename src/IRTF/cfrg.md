@@ -1,4 +1,4 @@
-# Crypto Forum (cfrc)
+# Crypto Forum (cfrg)
 * <IETFschedule>IETF120: Thu 25 Jul 2024 13:00 - Georgia A</IETFschedule>
 * [About CFRG](https://datatracker.ietf.org/group/cfrg/about/)
 
