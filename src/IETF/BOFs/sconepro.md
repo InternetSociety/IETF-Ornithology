@@ -1,4 +1,4 @@
-# Securely COmmunicating NEtwork PROperties(scone pro)
+# Securely COmmunicating NEtwork PROperties (scone pro)
 * <IETFschedule>IETF120: Tue 23 Jul 2024 09:30 - Regency C/D</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-joras-sconepro/)
 * Keywords: access/content interaction, Quality of Experience (QoE), net neutrality (dare we say it)
