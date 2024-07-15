@@ -12,12 +12,14 @@
 
 
 
-   - [General Area](./IETF/Gen/intro.md)
+   - [General Area](./IETF/GEN/intro.md)
+        - [All Dispatch](./IETF/GEN/alldispatch.md)
    - [Applications and Real-Time Area](./IETF/ART/intro.md)
        - [More Instant Messaging Interoperability (mimi)](./IETF/ART/mimi.md)
        - [Registration Protocols Extensions (regext)](./IETF/ART/regext.md)
        - [Secure Telephony Identity Revisited (stir)](./IETF/ART/stir.md)
        - [Workload Identity in Multi System Environments (wimse)](./IETF/ART/wimse.md)
+
        
    - [Internet Area](./IETF/INT/intro.md)
         - [Adaptive DNS Discovery (add)](./IETF/INT/add.md)
@@ -41,11 +43,13 @@
 	- [Research Groups](./IRTF/rg.md)
 	    - [Crypto Forum (cfrc)](./IRTF/cfrg.md)
 	    - [Global Access to the Internet for All (gaia)](./IRTF/gaia.md)
+        - [Human Rights Protocol Considerations](./IRTF/hrpc.md)
 	    - [Decentralization of the Internet Research Group (dinrg)](./IRTF/dinrg.md)
 	    - [Research and Analysis of Standard-Setting Processes Proposed Research Group (rasprg)](./IRTF/rasprg.md)
 
 - [The IAB](./IAB/intro.md) 
-    - [IAB Open](./IAB/iabopen.md)
+    - [IAB Open](./IAB/iabopen.md) 
+    - [Independent Stream Open Meeting](./IAB/isopen.md)
 
 
 - [During an IETF meeting](./Meeting/intro.md)
