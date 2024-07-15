@@ -8,7 +8,7 @@
        - [Digital Emblems (diem)](./IETF/BOFs/diem.md)
        - [Getting Ready for Energy Efficient Networking (green)](./IETF/BOFs/green.md)
        - [Securely COmmunicating NEtwork PROperties (scone pro)](./IETF/BOFs/sconepro.md)
-       - [Network Attestation for Secure Routing](./IETF/BOFs/nasr.md)
+       - [Network Attestation for Secure Routing (nasr)](./IETF/BOFs/nasr.md)
 
 
 
