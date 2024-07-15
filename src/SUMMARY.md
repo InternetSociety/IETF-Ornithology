@@ -5,9 +5,9 @@
 
 - [The IETF](./IETF/intro.md)
    - [Birds of a Feather (BOFs)](./IETF/BOFs/intro.md)
-       - [Digital Emblems](./IETF/BOFs/diem.md)
-       - [Getting Ready for Energy Efficient Networking](./IETF/BOFs/green.md)
-       - [Securely COmmunicating NEtwork PROperties(scone pro)](./IETF/BOFs/sconepro.md)
+       - [Digital Emblems (diem)](./IETF/BOFs/diem.md)
+       - [Getting Ready for Energy Efficient Networking (green)](./IETF/BOFs/green.md)
+       - [Securely COmmunicating NEtwork PROperties (scone pro)](./IETF/BOFs/sconepro.md)
        - [Network Attestation for Secure Routing](./IETF/BOFs/nasr.md)
 
 
