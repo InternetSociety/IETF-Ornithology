@@ -1,5 +1,5 @@
 # Secure Asset Transfer Protocol (satp) 
-<IETFschedule></IETFschedule>
+* <IETFschedule>IETF120: Mon 22 Jul 2024 09:30 - Plaza C</IETFschedule>
 * [About SATP](https://datatracker.ietf.org/group/satp/about/)
 * Keywords: supply chain, digital public infrastructure
 

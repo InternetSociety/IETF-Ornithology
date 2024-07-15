@@ -1,5 +1,5 @@
 # Independent Stream Open Meeting (isopen)
-* <IETFschedule></IETFschedule>
+* <IETFschedule>IETF120: Fri 26 Jul 2024 09:30 - Regency C/D</IETFschedule>
 * [About ISOPEN](https://datatracker.ietf.org/group/isopen/about/)
 * Keywords: national cryptography standards
 
