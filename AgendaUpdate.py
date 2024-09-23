@@ -72,11 +72,11 @@ try:
     ]  # Potential bug: not sure about the first index in the object array
 except HTTPError as http_err:
     print(
-        f"HTTP error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
+        f"HTTP error occured while processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
     )
 except Exception as err:
     print(
-        f"Other error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
+        f"Other error occured while processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
     )
 
 if not IETFMeetingId:
@@ -110,11 +110,11 @@ try:
 
 except HTTPError as http_err:
     print(
-        f"HTTP error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
+        f"HTTP error occured while processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
     )
 except Exception as err:
     print(
-        f"Other error occured wile processing {acronym.upper()}  fetching {datatrackerUrl}: {err}"
+        f"Other error occured while processing {acronym.upper()}  fetching {datatrackerUrl}: {err}"
     )
 
 if not workgroupId:
@@ -151,11 +151,11 @@ try:
     sessionID = jsonResponse["objects"][0]["id"]
 except HTTPError as http_err:
     print(
-        f"HTTP error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
+        f"HTTP error occured while processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
     )
 except Exception as err:
     print(
-        f"Other error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
+        f"Other error occured while processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
     )
 
 if sessionID == "":
@@ -197,11 +197,11 @@ try:
 
 except HTTPError as http_err:
     print(
-        f"HTTP error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
+        f"HTTP error occured while processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
     )
 except Exception as err:
     print(
-        f"Other error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
+        f"Other error occured while processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
     )
 
 
@@ -223,11 +223,11 @@ try:
 
 except HTTPError as http_err:
     print(
-        f"HTTP error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
+        f"HTTP error occured while processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
     )
 except Exception as err:
     print(
-        f"Other error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
+        f"Other error occured while processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
     )
 
 if timeSlotURL == "":
@@ -255,11 +255,11 @@ try:
 
 except HTTPError as http_err:
     print(
-        f"HTTP error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
+        f"HTTP error occured while processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
     )
 except Exception as err:
     print(
-        f"Other error occured wile processing {acronym.upper()} and  fetching {datatrackerUrl}: {err}"
+        f"Other error occured while processing {acronym.upper()} and  fetching {datatrackerUrl}: {err}"
     )
 
 if locationURL == "":
@@ -289,11 +289,11 @@ try:
 
 except HTTPError as http_err:
     print(
-        f"HTTP error occured wile processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
+        f"HTTP error occured while processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
     )
 except Exception as err:
     print(
-        f"Other error occured wile  processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
+        f"Other error occured while  processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
     )
 if debug:
     print("Roomname: " + roomname + "(" + functionalname + ")")
