@@ -4,6 +4,7 @@
 
 
 - [The IETF](./IETF/intro.md)
+   - [Newly Formed Working Groups](./IETF/NewWG.md)
    - [Birds of a Feather (BOFs)](./IETF/BOFs/intro.md)
        - [Digital Emblems (diem)](./IETF/BOFs/diem.md)
        - [Getting Ready for Energy Efficient Networking (green)](./IETF/BOFs/green.md)
@@ -23,12 +24,13 @@
        
    - [Internet Area](./IETF/INT/intro.md)
         - [Adaptive DNS Discovery (add)](./IETF/INT/add.md)
+        - [DNS Delegation(deleg)](./IETF/INT/deleg.md)
    - [Operations and Management Area](./IETF/OPS/intro.md)
        - [Network Management Operations (nmop)](./IETF/OPS/nmop.md)
    - [Security Area](./IETF/SEC/intro.md)
        - [Messaging Layer Security (mls)](./IETF/SEC/mls.md)
        - [Post-Quantum Use In Protocols (pquip)](./IETF/SEC/pquip.md)
-       - [Remote ATtestation ProcedureS (rats)](./IETF/SEC/rats.md)
+       - [Remote ATtestation ProcedureS (rats)](./IETF/SEC/rats.md) 
        - [Supply Chain Integrity, Transparency, and Trust (scitt)](./IETF/SEC/scitt.md)
        - [Software Updates for Internet of Things (suit)](./IETF/SEC/suit.md)
        - [Secure Patterns for Internet CrEdentials (spice)](./IETF/SEC/spice.md)
