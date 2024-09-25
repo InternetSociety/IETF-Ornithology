@@ -111,8 +111,9 @@ for group in ActiveGroups:
         CharterName = jsonResponse["name"]
 
         CharterRev = jsonResponse["rev"]
-        if CharterRev != "01":
-            next
+        if CharterRev != '01':
+            continue
+
     except HTTPError as http_err:
         print(
             f"HTTP error occured while processing {acronym.upper()} and fetching {datatrackerUrl}: {http_err}"
