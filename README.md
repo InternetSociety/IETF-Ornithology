@@ -54,13 +54,24 @@ that may be noteworthy
 
 
 ```
+## Utility Scripts
 
+These are a few quick and dirty python scripts to scrape the datatracker.
+
+### AgendaUpdate.py
 
 You can run the AgendaUpdate.py tool to update the agenda information between the &lt;IETFschedule&gt; XML elements. Type `AgendaUpdate.py -h` for usage information. A quick and dirty approach to updating the meeting information could be:
 
 `find src/IETF  -type file  -exec  ./AgendaUpdate.py 120 America/Vancouver {} \;`
 
-Another tool NewWGs.py can be used to figure out which working group are rechartered since last IETF. The following command could be used to generate a list of new working groups since IETF 120 that can be pasted into src/IETF/NewWG.md
+### NewWGs.py
+
+NewWGs.py can be used to figure out which working group are rechartered since last IETF. The following command could be used to generate a list of new working groups since IETF 120 that can be pasted into src/IETF/NewWG.md
 
 `./NewWGs.py 120  | sort ` 
 
+### ProposedWG.py
+
+ProposedWGs.py scrapes the datatracker for working groups that are currently being charted, also to be used for content to be copied into src/IETF/NewWG.md
+
+`./ProposedWGs.py | sort `
