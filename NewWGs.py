@@ -2,6 +2,7 @@
 
 import re
 import os
+import sys
 from pathlib import Path
 import argparse
 import requests
@@ -16,7 +17,7 @@ debug = 0
 parser = argparse.ArgumentParser(
     prog="AgendaUpdate",
     description="""
-                    Lists the working groups in the IETF that have seen a recent, i.e. younger than age of change, charter change.
+                    Lists the working groups in the IETF that have seen a recent, i.e. younger than the specified IETF meeting
                     This tool assumes a specif path.
                     """,
     epilog="""Tool specificly developed for the IETF  Ornmithology.
@@ -72,15 +73,15 @@ if not meetingDate:
 datatrackerUrl = "https://datatracker.ietf.org/api/v1/group/group/?format=json&state=active&type=wg&limit=250"
 
 if debug:
-    print(datatrackerUrl)
+    print(datatrackerUrl, file=sys.stderr)
 try:
     response = requests.get(datatrackerUrl)
     response.raise_for_status()
     # access JSOn content
     jsonResponse = response.json()
     if debug > 1:
-        print("Entire JSON response")
-        print(jsonResponse)
+        print("Entire JSON response", file=sys.stderr)
+        print(jsonResponse, file=sys.stderr)
 
     ActiveGroups = jsonResponse[
         "objects"
@@ -95,15 +96,15 @@ for group in ActiveGroups:
     WGname = group["name"]
     datatrackerUrl = "https://datatracker.ietf.org" + group["charter"] + "/?format=json"
     if debug:
-        print(datatrackerUrl)
+        print(datatrackerUrl, file=sys.stderr)
     try:
         response = requests.get(datatrackerUrl)
         response.raise_for_status()
         # access JSOn content
         jsonResponse = response.json()
         if debug > 1:
-            print("Entire JSON response")
-            print(jsonResponse)
+            print("Entire JSON response", file=sys.stderr)
+            print(jsonResponse, file=sys.stderr)
 
         LastChange = datetime.strptime(
             jsonResponse["time"], "%Y-%m-%dT%H:%M:%S%z"
@@ -123,7 +124,7 @@ for group in ActiveGroups:
             f"Other error occured while processing {acronym.upper()} and fetching {datatrackerUrl}: {err}"
         )
     if debug:
-        print(LastChange)
+        print(LastChange, file=sys.stderr)
 
  
     meetingDate = meetingDate.astimezone(ZoneInfo("UTC"))
@@ -133,15 +134,15 @@ for group in ActiveGroups:
             "https://datatracker.ietf.org" + group["parent"] + "?format=json"
         )
         if debug:
-            print(datatrackerUrl)
+            print(datatrackerUrl, file=sys.stderr)
         try:
             response = requests.get(datatrackerUrl)
             response.raise_for_status()
             # access JSOn content
             jsonResponse = response.json()
             if debug:
-                print("Entire JSON response")
-                print(jsonResponse)
+                print("Entire JSON response", file=sys.stderr)
+                print(jsonResponse, file=sys.stderr)
 
             ParentArea = jsonResponse["acronym"]
         except HTTPError as http_err:
