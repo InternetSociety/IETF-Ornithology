@@ -4,11 +4,10 @@
 
 
 - [The IETF](./IETF/intro.md)
-   - [Newly Formed Working Groups](./IETF/NewWG.md)
+   - [New Working Groups](./IETF/NewWG.md)
    - [Birds of a Feather (BOFs)](./IETF/BOFs/intro.md)
        - [Digital Emblems (diem)](./IETF/BOFs/diem.md)
        - [Getting Ready for Energy Efficient Networking (green)](./IETF/BOFs/green.md)
-       - [Securely COmmunicating NEtwork PROperties (scone pro)](./IETF/BOFs/sconepro.md)
        - [Network Attestation for Secure Routing (nasr)](./IETF/BOFs/nasr.md)
 
 
@@ -38,7 +37,7 @@
 
    - [Web and Internet Transport](./IETF/WIT/intro.md)
        - [Multiplexed Application Substrate over QUIC Encryption (masque)](./IETF/WIT/masque.md)
-       
+       - [Standard Communication with Network Elements (scone)](./IETF/WIT/scone.md)
 
 
 - [The IRTF](./IRTF/intro.md)

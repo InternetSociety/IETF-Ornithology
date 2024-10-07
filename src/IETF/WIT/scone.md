@@ -1,6 +1,6 @@
 # 	Standard Communication with Network Elements (scone)
 * <IETFschedule>IETF121: Tue 05 Nov 2024 09:30 - Liffey Hall 2</IETFschedule>
-* [BoF request](https://datatracker.ietf.org/doc/bofreq-joras-sconepro/)
+* [About SCONE](https://datatracker.ietf.org/doc/charter-ietf-scone/)
 * Keywords: access/content interaction, Quality of Experience (QoE), net neutrality (dare we say it)
 
 This is a working group is forming as a follow up of the SCONEPRO BoF.
