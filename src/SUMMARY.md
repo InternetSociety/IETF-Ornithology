@@ -47,6 +47,7 @@
         - [Human Rights Protocol Considerations](./IRTF/hrpc.md)
 	    - [Decentralization of the Internet Research Group (dinrg)](./IRTF/dinrg.md)
 	    - [Research and Analysis of Standard-Setting Processes Proposed Research Group (rasprg)](./IRTF/rasprg.md)
+        - [Quantum Internet Research Group(qirg)](./IRTF/qirg.md)
 
 - [The IAB](./IAB/intro.md) 
     - [IAB Open](./IAB/iabopen.md) 
