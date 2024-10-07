@@ -120,9 +120,9 @@ for group in ActiveGroups:
             + acronym.upper()
             + ")]("
             + FilePath
-            + ") is being  [chartered](https://datatracker.ietf.org/doc/"
+            + ") ([charter](https://datatracker.ietf.org/doc/"
             + CharterName
-            + ") "
+            + ")). "
          
         )
     else:
@@ -133,8 +133,8 @@ for group in ActiveGroups:
             + WGname
             + "("
             + acronym.upper()
-            + ")  [chartered](https://datatracker.ietf.org/doc/"
+            + ")  ([charter](https://datatracker.ietf.org/doc/"
             + CharterName
-            + ") " 
+            + ")). " 
             )
          
