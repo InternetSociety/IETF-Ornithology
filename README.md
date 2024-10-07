@@ -45,7 +45,7 @@ The markdown files are created with the working group acronym as their name. The
 ```
 # The Title of the document
 
-<IETFschedule> </IETFschedule>
+<IETFschedule>Content update by script below</IETFschedule>
 * [About GROUP](https://datatracker.ietf.org/group/group/about/)
 * keywords: keywords, and trigger words.
 
@@ -62,7 +62,11 @@ These are a few quick and dirty python scripts to scrape the datatracker.
 
 You can run the AgendaUpdate.py tool to update the agenda information between the &lt;IETFschedule&gt; XML elements. Type `AgendaUpdate.py -h` for usage information. A quick and dirty approach to updating the meeting information could be:
 
-`find src/IETF  -type file  -exec  ./AgendaUpdate.py 120 America/Vancouver {} \;`
+`find src/IETF   -name "*.md"  -exec  ./AgendaUpdate.py 120 America/Vancouver {} \;`
+
+similarly the  &lt;IETFschedule&gt; information can be cleared using a command like
+
+`find src -name "*.md" -exec sed -i .bak 's/.*<IETFschedule>.*<\/IETFschedule>/<IETFschedule>* Schedule Unknown<\/IETFschedule>/' {} \;`
 
 ### NewWGs.py
 
