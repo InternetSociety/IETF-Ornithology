@@ -15,7 +15,7 @@ debug = 0
 
 
 parser = argparse.ArgumentParser(
-    prog="AgendaUpdate",
+    prog="NewWGs",
     description="""
                     Lists the working groups in the IETF that have seen a recent, i.e. younger than the specified IETF meeting
                     This tool assumes a specif path.
