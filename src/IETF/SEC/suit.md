@@ -1,5 +1,5 @@
 # Software Updates for Internet of Things (suit)
-* <IETFschedule>IETF120: Mon 22 Jul 2024 17:30 - Plaza B</IETFschedule>
+* <IETFschedule>IETF121: Thu 07 Nov 2024 17:30 - Liffey MR 3</IETFschedule>
 * [About SUIT](https://datatracker.ietf.org/group/suit/about/)
 * Keywords: IoT, security
 

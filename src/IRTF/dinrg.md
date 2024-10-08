@@ -1,5 +1,5 @@
 # Decentralization of the Internet Research Group(dinrg)
-* <IETFschedule>IETF120: Wed 24 Jul 2024 09:30 - Plaza A</IETFschedule>
+* <IETFschedule>IETF121: Fri 08 Nov 2024 13:00 - Liffey A</IETFschedule>
 * [About DINRG](https://datatracker.ietf.org/group/dinrg/about/)
 
 

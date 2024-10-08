@@ -1,5 +1,5 @@
 # Human Rights Protocol Considerations (hrpc)
-* <IETFschedule>IETF120: Wed 24 Jul 2024 15:30 - Georgia B</IETFschedule>
+* <IETFschedule>IETF121: Fri 08 Nov 2024 15:30 - Liffey B</IETFschedule>
 * [About HRPC](https://datatracker.ietf.org/group/hrpc/about/)
 * Keywords: Human rights
 

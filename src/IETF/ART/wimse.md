@@ -1,6 +1,6 @@
 # Workload Identity in Multi System Environments (wimse)
 
-* <IETFschedule>IETF120: Wed 24 Jul 2024 09:30 - Georgia A</IETFschedule>
+* <IETFschedule>IETF121: Thu 07 Nov 2024 13:00 - Liffey Hall 2</IETFschedule>
 * [About WIMSE](https://datatracker.ietf.org/group/wimse/about/)
 * Keywords: Cloud service portability
 

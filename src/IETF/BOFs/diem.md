@@ -1,5 +1,5 @@
 # Digital Emblems (diem)
-* <IETFschedule>IETF120: Wed 24 Jul 2024 09:30 - Regency C/D</IETFschedule>
+* <IETFschedule>IETF121: Tue 05 Nov 2024 09:30 - Liffey B</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-haberman-digital-emblems/)
 * Keywords: cyber stability, humanitarian law
 

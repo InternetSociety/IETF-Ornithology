@@ -1,5 +1,5 @@
 # Remote ATtestation ProcedureS
-* <IETFschedule>IETF120: Tue 23 Jul 2024 13:00 - Plaza C</IETFschedule>
+* <IETFschedule>IETF121: Fri 08 Nov 2024 15:30 - Wicklow Hall 1</IETFschedule>
 * [About RATS](https://datatracker.ietf.org/group/rats/about/)
 * Keywords: supply chain, transitive trust
 

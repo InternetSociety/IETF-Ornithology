@@ -1,5 +1,5 @@
 # Crypto Forum (cfrg)
-* <IETFschedule>IETF120: Thu 25 Jul 2024 13:00 - Georgia B</IETFschedule>
+* <IETFschedule>IETF121: Wed 06 Nov 2024 09:30 - Liffey B</IETFschedule>
 * [About CFRG](https://datatracker.ietf.org/group/cfrg/about/)
 
 

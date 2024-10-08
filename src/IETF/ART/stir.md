@@ -1,5 +1,5 @@
 # Secure Telephony Identity Revisited (stir)
-* <IETFschedule>IETF120: Mon 22 Jul 2024 15:30 - Plaza B</IETFschedule>
+* <IETFschedule>IETF121: Mon 04 Nov 2024 17:30 - Liffey Hall 1</IETFschedule>
 * [About STIR](https://datatracker.ietf.org/group/stir/about/)
 * Keywords: spam, anonymity, telephony.
 
