@@ -7,7 +7,7 @@
    - [New Working Groups](./IETF/NewWG.md)
    - [Birds of a Feather (BOFs)](./IETF/BOFs/intro.md)
        - [Digital Emblems (diem)](./IETF/BOFs/diem.md)
-       - [Getting Ready for Energy Efficient Networking (green)](./IETF/BOFs/green.md)
+
        - [Network Attestation for Secure Routing (nasr)](./IETF/BOFs/nasr.md)
 
 
@@ -25,7 +25,8 @@
         - [Adaptive DNS Discovery (add)](./IETF/INT/add.md)
         - [DNS Delegation(deleg)](./IETF/INT/deleg.md)
    - [Operations and Management Area](./IETF/OPS/intro.md)
-       - [Network Management Operations (nmop)](./IETF/OPS/nmop.md)
+        - [Getting Ready for Energy Efficient Networking (green)](./IETF/OPS/green.md)
+        - [Network Management Operations (nmop)](./IETF/OPS/nmop.md)
    - [Security Area](./IETF/SEC/intro.md)
        - [Messaging Layer Security (mls)](./IETF/SEC/mls.md)
        - [Post-Quantum Use In Protocols (pquip)](./IETF/SEC/pquip.md)
