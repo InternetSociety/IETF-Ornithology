@@ -7,8 +7,9 @@
    - [New Working Groups](./IETF/NewWG.md)
    - [Birds of a Feather (BOFs)](./IETF/BOFs/intro.md)
        - [Digital Emblems (diem)](./IETF/BOFs/diem.md)
-
-       - [Network Attestation for Secure Routing (nasr)](./IETF/BOFs/nasr.md)
+       - [RESTful Provisioning Protocol (rpp)](./IETF/BOFs/rpp.md)
+       - [High Performance Wide Area Network(hpwan)](./IETF/BOFs/hpwan.md)
+       - [Deepspace(deepspace)](./IETF/BOFs/deepspace.md)
 
 
 
@@ -52,9 +53,7 @@
 
 - [The IAB](./IAB/intro.md) 
     - [IAB Open](./IAB/iabopen.md) 
-    - [Independent Stream Open Meeting](./IAB/isopen.md)
-
-
+   
 - [During an IETF meeting](./Meeting/intro.md)
 
 
