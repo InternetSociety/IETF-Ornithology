@@ -1,5 +1,5 @@
 # 	Standard Communication with Network Elements (scone)
-* <IETFschedule>IETF121: Tue 05 Nov 2024 09:30 - Liffey Hall 2</IETFschedule>
+* <IETFschedule>IETF121: Thu 07 Nov 2024 09:30 - Liffey B</IETFschedule>
 * [About SCONE](https://datatracker.ietf.org/doc/charter-ietf-scone/)
 * Keywords: access/content interaction, Quality of Experience (QoE), net neutrality (dare we say it)
 
