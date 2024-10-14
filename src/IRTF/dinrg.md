@@ -1,6 +1,7 @@
 # Decentralization of the Internet Research Group(dinrg)
 * <IETFschedule>IETF121: Fri 08 Nov 2024 13:00 - Liffey A</IETFschedule>
-* [About DINRG](https://datatracker.ietf.org/group/dinrg/about/)
+* [About DINRG](https://datatracker.ietf.org/group/dinrg/about/) 
+* keywords: centralization, consolidation
 
 
 
