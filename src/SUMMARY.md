@@ -15,6 +15,7 @@
 
    - [General Area](./IETF/GEN/intro.md)
         - [All Dispatch](./IETF/GEN/alldispatch.md)
+        _ [Moderation Procedures(modpod)](./IETF/GEN/modpod.md)
    - [Applications and Real-Time Area](./IETF/ART/intro.md)
        - [More Instant Messaging Interoperability (mimi)](./IETF/ART/mimi.md)
        - [Registration Protocols Extensions (regext)](./IETF/ART/regext.md)
