@@ -36,7 +36,7 @@
        - [Supply Chain Integrity, Transparency, and Trust (scitt)](./IETF/SEC/scitt.md)
        - [Software Updates for Internet of Things (suit)](./IETF/SEC/suit.md)
        - [Secure Patterns for Internet CrEdentials (spice)](./IETF/SEC/spice.md)
-       - [Detecting Unwanted Location Trackers (dust)](./IETF/SEC/dult.md)
+       - [Detecting Unwanted Location Trackers (dult)](./IETF/SEC/dult.md)
 
    - [Web and Internet Transport](./IETF/WIT/intro.md)
        - [Multiplexed Application Substrate over QUIC Encryption (masque)](./IETF/WIT/masque.md)
