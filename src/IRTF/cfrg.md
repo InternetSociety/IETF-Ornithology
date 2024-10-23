@@ -1,5 +1,5 @@
 # Crypto Forum (cfrg)
-* <IETFschedule>IETF121: Wed 06 Nov 2024 09:30 - Liffey B</IETFschedule>
+* <IETFschedule>IETF121: Wed 06 Nov 2024 09:30 - Liffey A</IETFschedule>
 * [About CFRG](https://datatracker.ietf.org/group/cfrg/about/)
 
 

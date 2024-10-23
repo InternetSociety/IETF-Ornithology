@@ -1,5 +1,5 @@
 # MODeration PrOceDures working group
-* <IETFschedule>IETF121: Mon 04 Nov 2024 13:00 - Liffey B</IETFschedule>
+* <IETFschedule>IETF121: Mon 04 Nov 2024 13:00 - Wicklow Hall 2B</IETFschedule>
 * [MODPOD](https://datatracker.ietf.org/group/modpod/about/) 
 * Keywords: IETF governance, culture
 

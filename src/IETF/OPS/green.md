@@ -1,5 +1,5 @@
 # Getting Ready for Energy Efficient Networking (green)
-* <IETFschedule>IETF121: Mon 04 Nov 2024 09:30 - Liffey B</IETFschedule>
+* <IETFschedule>IETF121: Mon 04 Nov 2024 09:30 - Wicklow Hall 2B</IETFschedule>
 * [About GREEN](https://datatracker.ietf.org/doc/charter-ietf-green)
 * Keywords: energy, global warming
 
