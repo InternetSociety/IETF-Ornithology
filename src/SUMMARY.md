@@ -19,6 +19,7 @@
    - [Applications and Real-Time Area](./IETF/ART/intro.md)
        - [More Instant Messaging Interoperability (mimi)](./IETF/ART/mimi.md)
        - [Registration Protocols Extensions (regext)](./IETF/ART/regext.md)
+       - [RESTful Provisioning Protocol(rpp)](./IETF/ART/rpp.md)       
        - [Secure Telephony Identity Revisited (stir)](./IETF/ART/stir.md)
        - [Workload Identity in Multi System Environments (wimse)](./IETF/ART/wimse.md)
 
@@ -41,8 +42,7 @@
    - [Web and Internet Transport](./IETF/WIT/intro.md)
        - [Multiplexed Application Substrate over QUIC Encryption (masque)](./IETF/WIT/masque.md)
        - [Standard Communication with Network Elements (scone)](./IETF/WIT/scone.md)
-
-
+       - [AI preferences](./IETF/WIT/aipref.md)
 - [The IRTF](./IRTF/intro.md)
 	- [Research Groups](./IRTF/rg.md)
 	    - [Crypto Forum (cfrc)](./IRTF/cfrg.md)
