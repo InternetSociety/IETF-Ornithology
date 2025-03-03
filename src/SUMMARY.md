@@ -38,7 +38,9 @@
        - [Secure Patterns for Internet CrEdentials (spice)](./IETF/SEC/spice.md)
        - [Detecting Unwanted Location Trackers (dult)](./IETF/SEC/dult.md)
 
-   - [Web and Internet Transport](./IETF/WIT/intro.md)
+   - [Web and Internet Transport](./IETF/WIT/intro.md) 
+    
+       - [Heuristics and Algorithms to Prioritize Protocol deploYment (happy)](./IETF/WIT/happy.md)
        - [Multiplexed Application Substrate over QUIC Encryption (masque)](./IETF/WIT/masque.md)
        - [Standard Communication with Network Elements (scone)](./IETF/WIT/scone.md)
        - [AI preferences](./IETF/WIT/aipref.md)
