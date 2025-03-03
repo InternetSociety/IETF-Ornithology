@@ -1,5 +1,5 @@
 # Crypto Forum (cfrg)
-* <IETFschedule>IETF121: Wed 06 Nov 2024 09:30 - Liffey A</IETFschedule>
+* <IETFschedule>IETF122: Mon 17 Mar 2025 13:00 - Chitlada 2</IETFschedule>
 * [About CFRG](https://datatracker.ietf.org/group/cfrg/about/)
 
 

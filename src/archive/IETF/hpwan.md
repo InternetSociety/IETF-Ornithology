@@ -1,5 +1,5 @@
 # High Performance Wide Area Network (hpwan)
-* <IETFschedule>IETF121: Mon 04 Nov 2024 13:00 - The Auditorium</IETFschedule>
+<IETFschedule>* Schedule Unknown</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-huang-hp-wan/)
 * Keywords: QOS, high performance
 

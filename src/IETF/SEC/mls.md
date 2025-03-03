@@ -1,5 +1,5 @@
 # Messaging Layer Security (mls)
-* <IETFschedule>IETF121: Mon 04 Nov 2024 09:30 - Liffey MR 3</IETFschedule>
+* <IETFschedule>IETF122: Tue 18 Mar 2025 13:00 - Boromphimarn 3</IETFschedule>
 * [About MLS](https://datatracker.ietf.org/group/mls/about/)
 
 

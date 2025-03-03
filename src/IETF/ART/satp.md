@@ -1,5 +1,5 @@
 # Secure Asset Transfer Protocol (satp) 
-* <IETFschedule>IETF121: Wed 06 Nov 2024 13:00 - Wicklow Hall 1</IETFschedule>
+* <IETFschedule>IETF122: Wed 19 Mar 2025 13:00 - Boromphimarn 1/2</IETFschedule>
 * [About SATP](https://datatracker.ietf.org/group/satp/about/)
 * Keywords: supply chain, digital public infrastructure
 

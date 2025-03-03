@@ -1,5 +1,5 @@
 # Decentralization of the Internet Research Group(dinrg)
-* <IETFschedule>IETF121: Wed 06 Nov 2024 13:00 - The Auditorium</IETFschedule>
+* <IETFschedule>IETF122: Mon 17 Mar 2025 09:30 - Boromphimarn 1/2</IETFschedule>
 * [About DINRG](https://datatracker.ietf.org/group/dinrg/about/) 
 * keywords: centralization, consolidation
 

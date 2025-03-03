@@ -1,5 +1,5 @@
 # MODeration PrOceDures working group
-* <IETFschedule>IETF121: Mon 04 Nov 2024 13:00 - Wicklow Hall 2B</IETFschedule>
+* <IETFschedule>IETF122: Fri 21 Mar 2025 13:00 - Boromphimarn 5</IETFschedule>
 * [MODPOD](https://datatracker.ietf.org/group/modpod/about/) 
 * Keywords: IETF governance, culture
 

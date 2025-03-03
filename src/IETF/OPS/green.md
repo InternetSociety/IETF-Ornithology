@@ -1,5 +1,5 @@
 # Getting Ready for Energy Efficient Networking (green)
-* <IETFschedule>IETF121: Mon 04 Nov 2024 09:30 - Wicklow Hall 2B</IETFschedule>
+* <IETFschedule>IETF122: Thu 20 Mar 2025 17:00 - Sala Thai Ballroom</IETFschedule>
 * [About GREEN](https://datatracker.ietf.org/doc/charter-ietf-green)
 * Keywords: energy, global warming
 

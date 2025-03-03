@@ -1,5 +1,5 @@
 # Adaptive DNS Discovery(add)
-* <IETFschedule>IETF121: Tue 05 Nov 2024 15:00 - Liffey Hall 2</IETFschedule>
+* <IETFschedule>IETF122: Tue 18 Mar 2025 15:30 - Boromphimarn 1/2</IETFschedule>
 * [About ADD](https://datatracker.ietf.org/group/add/about/)
 * Keywords: encryption, DNS
 
