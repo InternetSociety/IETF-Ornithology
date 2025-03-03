@@ -1,5 +1,5 @@
 # MAC Address Device Identification for Network and Application Services (madinas)
-<IETFschedule></IETFschedule>
+<IETFschedule>* Schedule Unknown</IETFschedule>
 * [MADINAS](https://datatracker.ietf.org/group/madinas/about/)
 *  Keywords: privacy, device identification
 

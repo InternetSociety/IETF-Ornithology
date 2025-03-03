@@ -1,5 +1,5 @@
 # Deepspace (deepspace)
-* <IETFschedule>IETF121: Thu 07 Nov 2024 13:00 - Wicklow Hall 2B</IETFschedule>
+<IETFschedule>* Schedule Unknown</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-blanchet-deepspace/)
 * Keywords: space
 

@@ -1,5 +1,5 @@
 # RESTful Provisioning Protocol (rpp)
-* <IETFschedule>IETF121: Wed 06 Nov 2024 09:30 - Liffey Hall 1</IETFschedule>
+* <IETFschedule>IETF122: Mon 17 Mar 2025 13:00 - Chitlada 1</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-wullink-restful-provisioning-protocol)
 * Keywords: DNS
 

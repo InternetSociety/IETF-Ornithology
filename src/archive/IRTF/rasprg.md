@@ -1,5 +1,5 @@
 # Research and Analysis of Standard-Setting Processes Proposed Research Group(rasprg)
-* <IETFschedule>IETF121: Fri 08 Nov 2024 09:30 - Wicklow Hall 1</IETFschedule>
+<IETFschedule>* Schedule Unknown</IETFschedule>
 * [About RASPRG](https://datatracker.ietf.org/group/rasprg/about/)
 * keywords: standardization, stakeholder participation
 
