@@ -1,5 +1,5 @@
 # Secure Patterns for Internet CrEdentials (spice)
-* <IETFschedule>IETF121: Tue 05 Nov 2024 13:00 - The Auditorium</IETFschedule>
+* <IETFschedule>IETF122: Mon 17 Mar 2025 15:30 - Boromphimarn 1/2</IETFschedule>
 * [About SPICE](https://datatracker.ietf.org/group/spice/about//)
 * Keywords: identity, credential, verification, digital public infrastructure
 

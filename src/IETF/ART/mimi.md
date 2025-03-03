@@ -1,5 +1,5 @@
 # More Instant Messaging Interoperability (mimi)
-* <IETFschedule>IETF121: Thu 07 Nov 2024 09:30 - Wicklow Hall 1</IETFschedule>
+* <IETFschedule>IETF122: Fri 21 Mar 2025 13:00 - Boromphimarn 1/2</IETFschedule>
 * [About MIMI](https://datatracker.ietf.org/group/mimi/about)
 * Keywords: messaging, Digital Market Act, interoperability  
 

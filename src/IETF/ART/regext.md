@@ -1,5 +1,5 @@
 # Registration Protocols Extensions (regext)
-* <IETFschedule>IETF121: Mon 04 Nov 2024 13:00 - Liffey Hall 1</IETFschedule>
+* <IETFschedule>IETF122: Tue 18 Mar 2025 15:30 - Chitlada 3</IETFschedule>
 * [About REGEXT](https://datatracker.ietf.org/group/regext/about/)
 * Keywords: DNS, registration data
 

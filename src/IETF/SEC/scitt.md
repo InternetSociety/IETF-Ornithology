@@ -1,5 +1,5 @@
 # Supply Chain Integrity, Transparency, and Trust (scitt)
-* <IETFschedule>IETF121: Wed 06 Nov 2024 15:00 - Liffey Hall 2</IETFschedule>
+* <IETFschedule>IETF122: Thu 20 Mar 2025 09:30 - Boromphimarn 3</IETFschedule>
 * [About SCITT](https://datatracker.ietf.org/group/scitt/about/)
 *  Keywords: supply chain, security
 

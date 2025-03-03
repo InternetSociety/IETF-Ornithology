@@ -1,5 +1,5 @@
 # Detecting Unwanted Location Trackers (dult)
-* <IETFschedule>IETF121: Wed 06 Nov 2024 09:30 - Liffey Hall 2</IETFschedule>
+* <IETFschedule>IETF122: Thu 20 Mar 2025 15:00 - Chitlada 1</IETFschedule>
 * [About Dult](https://datatracker.ietf.org/group/dult/about/)
 * Keywords: privacy, personal safety
 

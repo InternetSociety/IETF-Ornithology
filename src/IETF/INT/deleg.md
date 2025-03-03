@@ -1,5 +1,5 @@
 # DNS Delegation(deleg)
-* <IETFschedule>IETF121: Mon 04 Nov 2024 09:30 - The Auditorium</IETFschedule>
+* <IETFschedule>IETF122: Tue 18 Mar 2025 17:00 - Sala Thai Ballroom</IETFschedule>
 * [About ADD](https://datatracker.ietf.org/group/deleg/about/)
 * Keywords: operations, DNS
 

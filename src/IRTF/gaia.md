@@ -1,5 +1,5 @@
 # Global Access to the Internet for All(gaia)
-* <IETFschedule>IETF121: Wed 06 Nov 2024 09:30 - Liffey MR 2</IETFschedule>
+* <IETFschedule>IETF122: Wed 19 Mar 2025 09:30 - Boromphimarn 1/2</IETFschedule>
 * [About GAIA](https://datatracker.ietf.org/group/gaia/about/)
 * keywords: equality, digital divide
 
