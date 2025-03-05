@@ -47,9 +47,10 @@
 - [The IRTF](./IRTF/intro.md)
 	- [Research Groups](./IRTF/rg.md)
 	    - [Crypto Forum (cfrc)](./IRTF/cfrg.md)
-	    - [Global Access to the Internet for All (gaia)](./IRTF/gaia.md)
-        - [Human Rights Protocol Considerations](./IRTF/hrpc.md)
 	    - [Decentralization of the Internet Research Group (dinrg)](./IRTF/dinrg.md)
+        - [Global Access to the Internet for All (gaia)](./IRTF/gaia.md)
+        - [Human Rights Protocol Considerations](./IRTF/hrpc.md)
+        - [Sustainability and the Internet Proposed Research Group (sustain)](./IRTF/sustain.md)
         - [Quantum Internet Research Group(qirg)](./IRTF/qirg.md)
 
 - [The IAB](./IAB/intro.md) 
