@@ -1,6 +1,6 @@
 # Workload Identity in Multi System Environments (wimse)
 
-* <IETFschedule>IETF122: Tue 18 Mar 2025 09:30 - Boromphimarn 1/2</IETFschedule>
+* <IETFschedule>IETF123: Tue 22 Jul 2025 14:30 - Hidalgo</IETFschedule>
 * [About WIMSE](https://datatracker.ietf.org/group/wimse/about/)
 * Keywords: Cloud service portability
 
