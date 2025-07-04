@@ -6,6 +6,6 @@ Here we enumerate all BoFs that we identified. We provide a high-level summary a
 
 Often, before working groups are formed, meetings are organized to assess if there is enough clarity and interest around a particular issue to form a working group. 
 
-At IETF122 there are two BoFs scheduled.
+At IETF123 there are four BoFs scheduled.
 
 [^note]: From “Birds of a feather flock together” an English proverb, also the inspiration for the esoteric title of this document.

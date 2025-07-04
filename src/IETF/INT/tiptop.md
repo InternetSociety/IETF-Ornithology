@@ -1,5 +1,5 @@
 # Taking IP To Other Planets(tiptop)
-* <IETFschedule>IETF122: Thu 20 Mar 2025 15:00 - Sala Thai Ballroom</IETFschedule>
+* <IETFschedule>IETF123: Thu 24 Jul 2025 17:00 - Hidalgo</IETFschedule>
 * [TIPTOP](https://datatracker.ietf.org/group/tiptop/about/)
 * Keywords: space
 

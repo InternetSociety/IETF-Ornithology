@@ -1,5 +1,5 @@
 # Getting Ready for Energy Efficient Networking (green)
-* <IETFschedule>IETF122: Thu 20 Mar 2025 17:00 - Sala Thai Ballroom</IETFschedule>
+* <IETFschedule>IETF123: Tue 22 Jul 2025 17:00 - Patio 2</IETFschedule>
 * [About GREEN](https://datatracker.ietf.org/doc/charter-ietf-green)
 * Keywords: energy, global warming
 

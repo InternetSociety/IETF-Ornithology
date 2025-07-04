@@ -1,5 +1,5 @@
 # DNS Delegation(deleg)
-* <IETFschedule>IETF122: Tue 18 Mar 2025 17:00 - Sala Thai Ballroom</IETFschedule>
+* <IETFschedule>IETF123: Mon 21 Jul 2025 09:30 - El Prado</IETFschedule>
 * [About ADD](https://datatracker.ietf.org/group/deleg/about/)
 * Keywords: operations, DNS
 

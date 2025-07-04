@@ -1,5 +1,5 @@
 # MODeration PrOceDures working group
-* <IETFschedule>IETF122: Fri 21 Mar 2025 13:00 - Boromphimarn 5</IETFschedule>
+* <IETFschedule>IETF123: Wed 23 Jul 2025 09:30 - Patio 3</IETFschedule>
 * [MODPOD](https://datatracker.ietf.org/group/modpod/about/) 
 * Keywords: IETF governance, culture
 
