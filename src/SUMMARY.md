@@ -6,11 +6,10 @@
 - [The IETF](./IETF/intro.md)
    - [New Working Groups](./IETF/NewWG.md)
    - [Birds of a Feather (BOFs)](./IETF/BOFs/intro.md)
-       - [Network Attestation for Secure Routing(nasr)](./IETF/BOFs/nasr.md)
-       - [Symmetric Key Establishment and Exchange(skex)](./IETF/BOFs/skex.md)
-
-
-
+      - [TLS Exported AttestationBoF(expat)](./IETF/BOFs/expat.md)
+      - [Fast Notification for Traffic Engineering and Load Balanci(fantel)](./IETF/BOFs/fantel.md)
+      - [Web Bot Auth(webbotauth)](./IETF/BOFs/webbotauth.md)
+      - [Protocol for Transposed Transactions over HTTP(ptth)](./IETF/BOFs/ptth.md)
    - [General Area](./IETF/GEN/intro.md)
         - [Moderation Procedures(modpod)](./IETF/GEN/modpod.md)
    - [Applications and Real-Time Area](./IETF/ART/intro.md)
@@ -18,9 +17,8 @@
        - [Registration Protocols Extensions (regext)](./IETF/ART/regext.md)
        - [RESTful Provisioning Protocol(rpp)](./IETF/ART/rpp.md)       
        - [Secure Telephony Identity Revisited (stir)](./IETF/ART/stir.md)
+       - [Virtualized Conversations(vcon)](./IETF/ART/vcon.md)
        - [Workload Identity in Multi System Environments (wimse)](./IETF/ART/wimse.md)
-
-       
    - [Internet Area](./IETF/INT/intro.md)
         - [Adaptive DNS Discovery (add)](./IETF/INT/add.md)
         - [DNS Delegation(deleg)](./IETF/INT/deleg.md)
@@ -28,6 +26,7 @@
    - [Operations and Management Area](./IETF/OPS/intro.md)
         - [Getting Ready for Energy Efficient Networking (green)](./IETF/OPS/green.md)
         - [Network Management Operations (nmop)](./IETF/OPS/nmop.md)
+        - [Network Inventory YANG(ivy)](./IETF/OPS/ivy.md)
    - [Security Area](./IETF/SEC/intro.md) 
        - [Security Dispatch (secdispatch)](./IETF/SEC/secdispatch.md)
        - [Messaging Layer Security (mls)](./IETF/SEC/mls.md)

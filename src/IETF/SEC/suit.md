@@ -1,5 +1,5 @@
 # Software Updates for Internet of Things (suit)
-* <IETFschedule>IETF122: Tue 18 Mar 2025 15:30 - Boromphimarn 5</IETFschedule>
+* <IETFschedule>IETF123: Wed 23 Jul 2025 16:00 - Patio 1</IETFschedule>
 * [About SUIT](https://datatracker.ietf.org/group/suit/about/)
 * Keywords: IoT, security
 

@@ -1,6 +1,6 @@
 # Sustainability and the Internet Proposed Research Group (sustain)
 # Global Access to the Internet for All(gaia)
-* <IETFschedule>IETF122: Tue 18 Mar 2025 13:00 - Sala Thai Ballroom</IETFschedule>
+<IETFschedule>* Schedule Unknown</IETFschedule>
 * [About SUSTAIN](https://datatracker.ietf.org/group/sustain/about/)
 * keywords: equality, digital divide
 

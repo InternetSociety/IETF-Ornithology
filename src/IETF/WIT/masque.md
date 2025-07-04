@@ -1,5 +1,5 @@
 # Multiplexed Application Substrate over QUIC Encryption (masque)
-* <IETFschedule>IETF122: Fri 21 Mar 2025 15:00 - Chitlada 1</IETFschedule>
+* <IETFschedule>IETF123: Tue 22 Jul 2025 11:30 - Tapices</IETFschedule>
 * [About MASQUE](https://datatracker.ietf.org/group/masque/about/)
 * Keywords: privacy, encryption
 

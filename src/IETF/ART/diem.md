@@ -1,5 +1,5 @@
 # Digital Emblems (diem)
-<IETFschedule>* Schedule Unknown</IETFschedule>
+* <IETFschedule>IETF123: Tue 22 Jul 2025 17:00 - Castilla</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-haberman-digital-emblems/)
 * Keywords: cyber stability, humanitarian law
 
