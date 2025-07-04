@@ -32,9 +32,10 @@ Once that is done - you can just run ```mdbook build``` from the root of this di
 
 ### Tools and conventions
 
-The markdown files are created with the working group acronym as their name. Their content follows the following template.
+The workflow is mostly manual, with a few tools that will help you identify new groups and  update the times that groups meet. 
 
 
+* The markdown files are created with the working group acronym as their name. Their content follows the following template.
 ```
 # The Title of the document
 
@@ -44,9 +45,17 @@ The markdown files are created with the working group acronym as their name. The
 
 Description with an indication of elements 
 that may be noteworthy
-
-
 ```
+
+
+
+
+* Remember that for mbook documents `SUMMARY.md` contains the  document structure. Update that document to remove and add content. 
+* `./src/IETF/NewWG.md` is updated every meeting using the utility scripts below as a starting point.
+* The document only contains information about groups that meet. (That may change in the future.) Files for groups that do not meet are moved to the `src/archive` folder.
+* A github action will push the document to the [internetsociety.github.io](https://internetsociety.github.io/IETF-Ornithology/) location.
+
+
 ### Utility Scripts
 
 These are a few quick and dirty python scripts to scrape the datatracker.
@@ -63,9 +72,12 @@ similarly the  &lt;IETFschedule&gt; information can be cleared using a command l
 
 #### NewWGs.py
 
-NewWGs.py can be used to figure out which working group are rechartered since last IETF. The following command could be used to generate a list of new working groups since IETF 120 that can be pasted into src/IETF/NewWG.md
+NewWGs.py can be used to figure out which working group are rechartered since last IETF. The following command could be used to generate a list of new working groups since IETF 120 that can be pasted into src/IETF/NewWG.md 
+
 
 `./NewWGs.py 120  | sort ` 
+
+Note that e.g. AD changes will trigger WGs to be reported as new. Check the history of the group for details.
 
 #### ProposedWG.py
 

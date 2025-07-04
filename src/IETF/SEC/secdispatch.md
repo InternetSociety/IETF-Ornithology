@@ -1,5 +1,5 @@
 # Security Dispatch (secdispatch)
-* <IETFschedule>IETF122: Mon 17 Mar 2025 09:30 - Sala Thai Ballroom</IETFschedule>
+<IETFschedule>* Schedule Unknown</IETFschedule>
 * [About SECDISPATCH](https://datatracker.ietf.org/group/secdispatch/about/)
 * Keywords: security
 

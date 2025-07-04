@@ -1,5 +1,5 @@
 # AI Preferences (aipref)
-* <IETFschedule>IETF122: Thu 20 Mar 2025 13:00 - Chitlada 1</IETFschedule>
+* <IETFschedule>IETF123: Mon 21 Jul 2025 14:30 - Castilla</IETFschedule>
 * [About AIPREF](https://datatracker.ietf.org/group/aipref/about/)
 * Keywords: privacy, AI, copyright, agency
 

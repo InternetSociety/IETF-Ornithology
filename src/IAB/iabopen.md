@@ -1,5 +1,5 @@
 # IAB Open
-* <IETFschedule>IETF122: Tue 18 Mar 2025 15:30 - Chitlada 1</IETFschedule>
+<IETFschedule>* Schedule Unknown</IETFschedule>
 
 The IAB Open meeting is where the IAB reports on its ongoing activities and presents on topics of architectural interest. There are two IAB open sessions this time (15:30 - 16:30	Monday Session III, Chitlada 1 and 15:30 - 16:30	Tuesday Session III, Chitlada 1).
 

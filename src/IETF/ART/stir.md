@@ -1,5 +1,5 @@
 # Secure Telephony Identity Revisited (stir)
-* <IETFschedule>IETF122: Mon 17 Mar 2025 17:00 - Boromphimarn 3</IETFschedule>
+* <IETFschedule>IETF123: Wed 23 Jul 2025 14:30 - Patio 3</IETFschedule>
 * [About STIR](https://datatracker.ietf.org/group/stir/about/)
 * Keywords: spam, anonymity, telephony.
 
