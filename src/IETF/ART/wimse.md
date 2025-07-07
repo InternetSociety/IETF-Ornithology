@@ -2,6 +2,7 @@
 
 * <IETFschedule>IETF123: Tue 22 Jul 2025 14:30 - Hidalgo</IETFschedule>
 * [About WIMSE](https://datatracker.ietf.org/group/wimse/about/)
+* Of interest because: enabler of platform interoperability.
 * Keywords: Cloud service portability
 
 

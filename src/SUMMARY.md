@@ -25,7 +25,6 @@
         - [Taking IP To Other Planets(tiptop)](./IETF/INT/tiptop.md)
    - [Operations and Management Area](./IETF/OPS/intro.md)
         - [Getting Ready for Energy Efficient Networking (green)](./IETF/OPS/green.md)
-        - [Network Management Operations (nmop)](./IETF/OPS/nmop.md)
         - [Network Inventory YANG(ivy)](./IETF/OPS/ivy.md)
    - [Security Area](./IETF/SEC/intro.md) 
        - [Security Dispatch (secdispatch)](./IETF/SEC/secdispatch.md)
@@ -38,7 +37,6 @@
        - [Detecting Unwanted Location Trackers (dult)](./IETF/SEC/dult.md)
 
    - [Web and Internet Transport](./IETF/WIT/intro.md) 
-    
        - [Heuristics and Algorithms to Prioritize Protocol deploYment (happy)](./IETF/WIT/happy.md)
        - [Multiplexed Application Substrate over QUIC Encryption (masque)](./IETF/WIT/masque.md)
        - [Standard Communication with Network Elements (scone)](./IETF/WIT/scone.md)

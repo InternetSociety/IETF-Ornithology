@@ -1,6 +1,7 @@
 # Secure Telephony Identity Revisited (stir)
 * <IETFschedule>IETF123: Wed 23 Jul 2025 14:30 - Patio 3</IETFschedule>
 * [About STIR](https://datatracker.ietf.org/group/stir/about/)
+* Of interest because: prevention of telephone scams
 * Keywords: spam, anonymity, telephony.
 
 
