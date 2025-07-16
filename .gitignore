@@ -6,3 +6,4 @@ IETF119*
 .DS_Store
 theme/css/*-min.css
 *.bak
+.venv
