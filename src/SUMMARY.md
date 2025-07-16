@@ -47,6 +47,7 @@
 	    - [Decentralization of the Internet Research Group (dinrg)](./IRTF/dinrg.md)
         - [Global Access to the Internet for All (gaia)](./IRTF/gaia.md)
         - [Human Rights Protocol Considerations](./IRTF/hrpc.md)
+        - [Measurement and Analysis for Protocols](./IRTF/maprg.md)
         - [Sustainability and the Internet Proposed Research Group (sustain)](./IRTF/sustain.md)
         - [Quantum Internet Research Group(qirg)](./IRTF/qirg.md)
 
