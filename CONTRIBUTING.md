@@ -42,6 +42,7 @@ The workflow is mostly manual, with a few tools that will help you identify new 
 <IETFschedule>Content update by script below</IETFschedule>
 * [About GROUP](https://datatracker.ietf.org/group/group/about/)
 * keywords: keywords, and trigger words.
+* Of interest because: <reason>
 
 Description with an indication of elements 
 that may be noteworthy

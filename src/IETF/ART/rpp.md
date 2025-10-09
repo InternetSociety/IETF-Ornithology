@@ -1,5 +1,5 @@
 # RESTfup Provisioning Protocol (rpp)
-* <IETFschedule>IETF123: Fri 25 Jul 2025 14:30 - Hidalgo</IETFschedule>
+* <IETFschedule>IETF124: Thu 06 Nov 2025 09:30 - St Denis</IETFschedule>
 * [About RPP](https://datatracker.ietf.org/group/rpp/about/)
 * Of interest because: this touches on the relation between important parties in the DNS value chain.
 * Keywords: DNS value chain.

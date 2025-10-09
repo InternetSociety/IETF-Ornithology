@@ -5,11 +5,13 @@
 
 - [The IETF](./IETF/intro.md)
    - [New Working Groups](./IETF/NewWG.md)
-   - [Birds of a Feather (BOFs)](./IETF/BOFs/intro.md)
+   - [Birds of a Feather (BOFs)](./IETF/BOFs/intro.md) 
+      - [Authenticated Transfer(atp)](./IETF/BOFs/atp.md)
       - [TLS Exported AttestationBoF(expat)](./IETF/BOFs/expat.md)
-      - [Fast Notification for Traffic Engineering and Load Balanci(fantel)](./IETF/BOFs/fantel.md)
       - [Web Bot Auth(webbotauth)](./IETF/BOFs/webbotauth.md)
-      - [Protocol for Transposed Transactions over HTTP(ptth)](./IETF/BOFs/ptth.md)
+      - [PKI, Logs, And Tree SignaturesBoF(plants)](./IETF/BOFs/plants.md)
+
+      
    - [General Area](./IETF/GEN/intro.md)
         - [Moderation Procedures(modpod)](./IETF/GEN/modpod.md)
    - [Applications and Real-Time Area](./IETF/ART/intro.md)
@@ -26,6 +28,7 @@
    - [Operations and Management Area](./IETF/OPS/intro.md)
         - [Getting Ready for Energy Efficient Networking (green)](./IETF/OPS/green.md)
         - [Network Inventory YANG(ivy)](./IETF/OPS/ivy.md)
+        - [SRv6 Operations](./IETF/OPS/srv6ops.md)
    - [Security Area](./IETF/SEC/intro.md) 
        - [Security Dispatch (secdispatch)](./IETF/SEC/secdispatch.md)
        - [Messaging Layer Security (mls)](./IETF/SEC/mls.md)

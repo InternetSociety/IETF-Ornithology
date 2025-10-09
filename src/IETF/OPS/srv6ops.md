@@ -1,6 +1,6 @@
 # SRv6 Operations (srv6ops)
 
-* <IETFschedule>IETF123: Tue 22 Jul 2025 09:30 - Castilla</IETFschedule>
+* <IETFschedule>IETF124: Tue 04 Nov 2025 09:30 - Viger</IETFschedule>
 * [About SRV6OPS](https://datatracker.ietf.org/group/srv6ops/about/)
 * Of interest because: the creation of central network controls.
 

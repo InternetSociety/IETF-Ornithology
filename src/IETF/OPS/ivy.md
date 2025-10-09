@@ -1,6 +1,6 @@
 # Network Inventory YANG(ivy)
 
-* <IETFschedule>IETF123: Tue 22 Jul 2025 14:30 - Hidalgo</IETFschedule>
+* <IETFschedule>IETF124: Thu 06 Nov 2025 11:30 - Van Horne</IETFschedule>
 * [About IVY](https://datatracker.ietf.org/group/ivy/about/)
 * Of interest because: cybersecurity aspects of knowing ones network. There may be regulatory interest in knowing what equipment exists in operator networks. 
 * Keywords: security, privacy

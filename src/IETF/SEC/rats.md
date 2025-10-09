@@ -1,5 +1,5 @@
 # Remote ATtestation ProcedureS
-* <IETFschedule>IETF123: Fri 25 Jul 2025 14:30 - Patio 2</IETFschedule>
+* <IETFschedule>IETF124: Thu 06 Nov 2025 17:00 - Van Horne</IETFschedule>
 * [About RATS](https://datatracker.ietf.org/group/rats/about/)
 * Keywords: supply chain, transitive trust
 

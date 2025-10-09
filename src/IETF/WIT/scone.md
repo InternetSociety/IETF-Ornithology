@@ -1,5 +1,5 @@
 # 	Standard Communication with Network Elements (scone)
-* <IETFschedule>IETF123: Tue 22 Jul 2025 14:30 - Castilla</IETFschedule>
+* <IETFschedule>IETF124: Tue 04 Nov 2025 17:00 - Viger</IETFschedule>
 * [About SCONE](https://datatracker.ietf.org/doc/charter-ietf-scone/)
 * Keywords: access/content interaction, Quality of Experience (QoE), net neutrality (dare we say it)
 

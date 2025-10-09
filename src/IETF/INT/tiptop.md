@@ -1,5 +1,5 @@
 # Taking IP To Other Planets(tiptop)
-* <IETFschedule>IETF123: Thu 24 Jul 2025 17:00 - Hidalgo</IETFschedule>
+* <IETFschedule>IETF124: Thu 06 Nov 2025 11:30 - Laurier</IETFschedule>
 * [About TIPTOP](https://datatracker.ietf.org/group/tiptop/about/) 
 * Of interest because: its relation to space programs
 * Keywords: space

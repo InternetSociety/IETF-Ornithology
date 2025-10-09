@@ -1,5 +1,5 @@
 # Network Management Operations 
-* <IETFschedule>IETF123: Mon 21 Jul 2025 09:30 - Castilla</IETFschedule>
+* <IETFschedule>IETF124: Wed 05 Nov 2025 14:30 - Agora</IETFschedule>
 * [About NMOP](https://datatracker.ietf.org/group/nmop/about/)
 * Of interest because: NOT so much - near time.
 

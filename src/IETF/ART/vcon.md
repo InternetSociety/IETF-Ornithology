@@ -1,6 +1,6 @@
 # Virtualized Conversations(vcon)
 
-* <IETFschedule>IETF123: Wed 23 Jul 2025 11:30 - Patio 1</IETFschedule>
+* <IETFschedule>IETF124: Fri 07 Nov 2025 14:30 - St Denis</IETFschedule>
 * [About VCON](https://datatracker.ietf.org/group/vcon/about/)
 * Of interest because: privacy issues involved in handling human conversations.
 * Keywords: privacy, user data

@@ -1,5 +1,5 @@
 # Secure Patterns for Internet CrEdentials (spice)
-* <IETFschedule>IETF123: Tue 22 Jul 2025 09:30 - Tapices</IETFschedule>
+* <IETFschedule>IETF124: Tue 04 Nov 2025 09:30 - Laurier</IETFschedule>
 * [About SPICE](https://datatracker.ietf.org/group/spice/about//)
 * Keywords: identity, credential, verification, digital public infrastructure
 

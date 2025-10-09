@@ -1,5 +1,5 @@
 # Supply Chain Integrity, Transparency, and Trust (scitt)
-* <IETFschedule>IETF123: Mon 21 Jul 2025 12:00 - Patio 3</IETFschedule>
+* <IETFschedule>IETF124: Tue 04 Nov 2025 11:30 - St Denis</IETFschedule>
 * [About SCITT](https://datatracker.ietf.org/group/scitt/about/)
 *  Keywords: supply chain, security
 

@@ -1,5 +1,5 @@
 # Web Bot Auth(webbotauth)
-* <IETFschedule>IETF123: Mon 21 Jul 2025 17:00 - Auditorio</IETFschedule>
+* <IETFschedule>IETF124: Tue 04 Nov 2025 14:30 - Place du Canada</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-nottingham-web-bot-auth/)
 * Of interest because: potentially more control by server operators on what bots are given access to their data.
 * keywords: AI, search

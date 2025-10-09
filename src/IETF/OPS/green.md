@@ -1,5 +1,5 @@
 # Getting Ready for Energy Efficient Networking (green)
-* <IETFschedule>IETF123: Tue 22 Jul 2025 17:00 - Patio 2</IETFschedule>
+* <IETFschedule>IETF124: Mon 03 Nov 2025 12:00 - Viger</IETFschedule>
 * [About GREEN](https://datatracker.ietf.org/doc/charter-ietf-green)
 * Of interest because: understanding and limiting environmental impacts. 
 * Keywords: energy, global warming
