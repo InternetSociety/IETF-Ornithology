@@ -1,6 +1,6 @@
 # Workload Identity in Multi System Environments (wimse)
 
-* <IETFschedule>IETF124: Thu 06 Nov 2025 14:30 - Van Horne</IETFschedule>
+* <IETFschedule>IETF124: Thu 06 Nov 2025 14:30 - Viger</IETFschedule>
 * [About WIMSE](https://datatracker.ietf.org/group/wimse/about/)
 * Of interest because: enabler of platform interoperability.
 * Keywords: Cloud service portability

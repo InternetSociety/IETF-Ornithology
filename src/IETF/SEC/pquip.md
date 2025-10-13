@@ -1,5 +1,5 @@
 # Post-Quantum Use In Protocols (pquip)
-* <IETFschedule>IETF124: Thu 06 Nov 2025 14:30 - Agora</IETFschedule>
+* <IETFschedule>IETF124: Thu 06 Nov 2025 14:30 - Laurier</IETFschedule>
 * [About PQUIP](https://datatracker.ietf.org/group/pquip/about/)
 * Keywords: encryption, confidentiality, quantum resistance.  
 

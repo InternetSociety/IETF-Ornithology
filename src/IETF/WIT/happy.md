@@ -1,5 +1,5 @@
 # Heuristics and Algorithms to Prioritize Protocol deploYment (happy)
-* <IETFschedule>IETF124: Thu 06 Nov 2025 14:30 - Viger</IETFschedule>
+* <IETFschedule>IETF124: Thu 06 Nov 2025 14:30 - Centre Ville</IETFschedule>
 * [About HAPPY](https://datatracker.ietf.org/group/happy/about/)
 * Keywords: IPv6 deployment, encryption
 

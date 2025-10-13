@@ -1,7 +1,7 @@
 # Secure Evidence and Attestation Transport (seat)
 
 
-* <IETFschedule>Likely does not meet</IETFschedule>
+* <IETFschedule>IETF124: Tue 04 Nov 2025 11:30 - Laurier</IETFschedule>
 * [About SEAT](https://datatracker.ietf.org/wg/seat/about/)
 * Of interest because: Attestation, when used on the Internet, may lead to gatekeeping and privacy issues.
 * Keywords:  security, ioT privacy
