@@ -14,7 +14,7 @@ git-repository-url = "https://github.com/internetsociety/IETF-Ornithology/"
 pdf-download-url = "https://internetsociety.github.io/IETF-Ornithology/IETF-Ornithology.pdf"
 
 
-[preprocessor.last-changed]
+# [preprocessor.last-changed]
 # command = "mdbook-last-changed"
 # renderer = ["html"]
 
@@ -43,7 +43,7 @@ graphics = true
 standalone = true # produce output with an appropriate header and footer
 titlegraphic= "ISOCLogo.png"
 # mainfont= "Hind-Light.ttf"
-mainfont="Helvetica"
+mainfont="open-sans"
 documentclass= "article"
 toc-depth=4
 

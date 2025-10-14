@@ -8,7 +8,7 @@ $if(CJKmainfont)$
 \PassOptionsToPackage{space}{xeCJK}
 $endif$
 %
-\documentclass[
+\documentclass[ twoside,
 $if(fontsize)$
   $fontsize$,
 $endif$
@@ -37,6 +37,13 @@ $if(background-image)$
 \pgfdeclareimage[width=\paperwidth,height=\paperheight]{background}{$background-image$}
 \usebackgroundtemplate{\pgfuseimage{background}}
 $endif$
+
+
+\oddsidemargin=0pt 
+\evensidemargin=51pt
+\hoffset=0pt
+
+
 \usepackage{pgfpages}
 \setbeamertemplate{caption}[numbered]
 \setbeamertemplate{caption label separator}{: }
@@ -553,7 +560,7 @@ $endif$
 $endif$
 
 
-\usepackage[twoside]{fancyhdr}
+\usepackage{fancyhdr}
 \pagestyle{fancy}
 %    \fancyhead[CO,CE]{This is fancy}
 

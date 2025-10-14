@@ -31,7 +31,7 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     env:
       MDBOOK_VERSION: 0.4.52
       MDBOOK_PANDOC_VERSION: 0.10.5
@@ -39,11 +39,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install lualatex        
+        run: |
+          sudo apt update
+          sudo apt-get install -y texlive-luatex texlive-latex-base  texlive-science texlive-latex-extra  fonts-open-sans
+
+
       - name: Install mdBook
         uses: actions-rs/toolchain@v1
         with:
             profile: minimal
             toolchain: stable
+
       - run: |       
           cargo install --version ${MDBOOK_VERSION} mdbook
           cargo install --version ${MDBOOK_PANDOC_VERSION} mdbook-pandoc
@@ -56,9 +63,6 @@ jobs:
           wget -O pandoc.deb https://github.com/jgm/pandoc/releases/download/3.5/pandoc-3.5-1-${ACTION_ARCH}.deb
           sudo dpkg -i $DEB pandoc.deb
 
-      - name: Install lualatex        
-        run: |
-          sudo apt-get install  texlive-luatex texlive-latex-base  texlive-science texlive-latex-extra  
 
       - name: Install Google Fonts
         run: |
@@ -68,13 +72,15 @@ jobs:
           fc-cache -fv
 
 
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
+
       - name: Build with mdBook
         run: mdbook build
       - name: Copy the PDF to html root
         run: cp ./book/pandoc/pdf/IETF-Ornithology.pdf ./book/html
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

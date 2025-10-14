@@ -9,7 +9,7 @@ The source for this document can be found in the [src directory](https://github.
 ## Technical details
 ### Local building
 
-For local development: The web and PDF version of this document can be created locally. To generate these from their markdow source use [mdBook](https://rust-lang.github.io/mdBook/cli/init.html) with the [mdbook-pandoc](https://github.com/max-heller/mdbook-pandoc) extension. This tooling is dependent on having [LuaTeX](https://www.luatex.org/), [pandoc](https://pandoc.org/), and the [Hind-Light font](https://fonts.google.com/specimen/Hind) installed. 
+For local development: The web and PDF version of this document can be created locally. To generate these from their markdow source use [mdBook](https://rust-lang.github.io/mdBook/cli/init.html) with the [mdbook-pandoc](https://github.com/max-heller/mdbook-pandoc) extension. This tooling is dependent on having [LuaTeX](https://www.luatex.org/), [pandoc](https://pandoc.org/), and the [Open Sanst](https://fonts.google.com/specimen/Open+Sans) installed. 
 
 On OSX you can set up the environment, assuming you installed [homebrew](https://brew.sh/), by executing the following commands.
 
@@ -57,6 +57,8 @@ that may be noteworthy
 * A github action will push the document to the [internetsociety.github.io](https://internetsociety.github.io/IETF-Ornithology/) location.
 
 
+To test whether the [git workflow](.github/workflows/mdbook.yml) works you an use the [act](https://github.com/nektos/act) tool.
+
 ### Utility Scripts
 
 These are a few quick and dirty python scripts to scrape the datatracker.
@@ -85,3 +87,4 @@ Note that e.g. AD changes will trigger WGs to be reported as new. Check the hist
 ProposedWGs.py scrapes the datatracker for working groups that are currently being charted, also to be used for content to be copied into src/IETF/NewWG.md
 
 `./ProposedWGs.py | sort `
+
