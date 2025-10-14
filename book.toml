@@ -15,13 +15,15 @@ pdf-download-url = "https://internetsociety.github.io/IETF-Ornithology/IETF-Orni
 
 
 [preprocessor.last-changed]
-command = "mdbook-last-changed"
-renderer = ["html"]
+# command = "mdbook-last-changed"
+# renderer = ["html"]
 
 [output.html.print]
 enable = false    # include support for printable output
 
 
+[output.pandoc.profile.latex]
+output-file = "output.latex"
 
 [output.pandoc.profile.pdf]
 
@@ -36,11 +38,12 @@ template = "ISOCTemplate.tex"
 
 [output.pandoc.profile.pdf.variables]
 logo = "ISOCShield.png"
-subtitle = "A Currated Overview"
+subtitle = "A Curated Overview"
 graphics = true
 standalone = true # produce output with an appropriate header and footer
 titlegraphic= "ISOCLogo.png"
-mainfont= "Hind-Light.ttf"
+# mainfont= "Hind-Light.ttf"
+mainfont="Helvetica"
 documentclass= "article"
 toc-depth=4
 
