@@ -27,3 +27,4 @@ gaia
 isopen
 diem
 QOS
+Attribution-NonCommercial-ShareAlike
