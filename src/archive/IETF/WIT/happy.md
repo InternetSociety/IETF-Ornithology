@@ -1,6 +1,13 @@
+
+
+REMOVED FROM POLICY INTEREST - WAY TO TECHNICAL.
+
+
+
 # Heuristics and Algorithms to Prioritize Protocol deploYment (happy)
 * <IETFschedule>IETF124: Thu 06 Nov 2025 14:30 - Centre Ville</IETFschedule>
 * [About HAPPY](https://datatracker.ietf.org/group/happy/about/)
+* Potentially of interest because:
 * Keywords: IPv6 deployment, encryption
 
 When clients connect to servers they apply a number of heuristics to determine the 'best' way to connect. The first iterations of the 'happy eyeballs' protocol was used to determine whether a connection to a service over IPv6 could be established with the same experience as over IPv4.

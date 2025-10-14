@@ -41,7 +41,6 @@
 
    - [Web and Internet Transport](./IETF/WIT/intro.md) 
        - [AI preferences](./IETF/WIT/aipref.md)
-       - [Heuristics and Algorithms to Prioritize Protocol deploYment (happy)](./IETF/WIT/happy.md)
        - [Multiplexed Application Substrate over QUIC Encryption (masque)](./IETF/WIT/masque.md)
        - [Standard Communication with Network Elements (scone)](./IETF/WIT/scone.md)
 
