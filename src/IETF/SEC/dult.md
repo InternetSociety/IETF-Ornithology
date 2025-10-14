@@ -1,7 +1,7 @@
 # Detecting Unwanted Location Trackers (dult)
 * <IETFschedule>IETF124: Wed 05 Nov 2025 12:00 - St Denis</IETFschedule>
 * [About Dult](https://datatracker.ietf.org/group/dult/about/) 
-* Of interest because: personal safety issues that come with location tracking (stalking, domestic violence)
+* Potentially of interest because: personal safety issues that come with location tracking (stalking, domestic violence)
 * Keywords: privacy, personal safety
 
 

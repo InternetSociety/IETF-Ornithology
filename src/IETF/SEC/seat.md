@@ -3,7 +3,7 @@
 
 * <IETFschedule>IETF124: Tue 04 Nov 2025 11:30 - Laurier</IETFschedule>
 * [About SEAT](https://datatracker.ietf.org/wg/seat/about/)
-* Of interest because: Attestation, when used on the Internet, may lead to gatekeeping and privacy issues.
+* Potentially of interest because:Attestation, when used on the Internet, may lead to gatekeeping and privacy issues.
 * Keywords:  security, ioT privacy
 
 In some environments one would want to test the integrity of a system before one allows a connection to it. With trusted computing architecture one can cryptographically proof the integrity of a system and may want to use that information before one allows a connection. Practical use cases may be found in financial service architecture where information is exchanged. There one would like to use all available information to validate if that interconnecting systems have not been tampered with before allowing it to connect. 

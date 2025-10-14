@@ -1,7 +1,7 @@
 # Network Attestation for Secure Routing (NASR) 
 <IETFschedule>* Schedule Unknown</IETFschedule>
 * [BOF Request](https://datatracker.ietf.org/doc/bofreq-liu-nasr/)
-* Of interest because: supply chain security and potentially new controls for including/excluding the use of certain network segments.
+* Potentially of interest because: supply chain security and potentially new controls for including/excluding the use of certain network segments.
 * Keywords: Secure routing, supply chain trust
 
 The goal of Network Attestation for Secure Routing work is to address the challenges associated with routing data on top of trusted devices, trusted operating environments, trusted links and trusted services only, to achieve transparent and predictable forwarding behavior. Verifiable operational correctness proofs should also be given to serve as a trusted evidence for visualization, internal inspection and external auditing.

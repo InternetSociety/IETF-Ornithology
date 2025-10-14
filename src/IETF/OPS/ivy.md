@@ -2,7 +2,7 @@
 
 * <IETFschedule>IETF124: Thu 06 Nov 2025 11:30 - Van Horne</IETFschedule>
 * [About IVY](https://datatracker.ietf.org/group/ivy/about/)
-* Of interest because: cybersecurity aspects of knowing ones network. There may be regulatory interest in knowing what equipment exists in operator networks. 
+* Potentially of interest because: cybersecurity aspects of knowing ones network. There may be regulatory interest in knowing what equipment exists in operator networks. 
 * Keywords: security, privacy
 
 

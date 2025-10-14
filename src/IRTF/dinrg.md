@@ -1,7 +1,7 @@
 # Decentralization of the Internet Research Group(dinrg)
 * <IETFschedule>IETF123: Mon 21 Jul 2025 17:00 - Castilla</IETFschedule>
 * [About DINRG](https://datatracker.ietf.org/group/dinrg/about/) 
-* Of interest because: centralization of (economic) power has large societal impact
+* Potentially of interest because: centralization of (economic) power has large societal impact
 * keywords: centralization, consolidation
 
 

@@ -1,7 +1,7 @@
 # Protocol for Transposed Transactions over HTTP(ptth)
 * <IETFschedule>IETF123: Thu 24 Jul 2025 17:00 - Auditorio</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-rosomakho-protocol-for-transposed-transactions-over-http/)
-* Of interest because: A solution in this space may reduce cross vendor service migration costs.
+* Potentially of interest because: A solution in this space may reduce cross vendor service migration costs.
 * Keywords: cloud, web services
 
 Normally a web client that connects to a server will initiate a transport connection over TCP or QUIC to a server and then also initiate a web (HTTP) request over to the server. 

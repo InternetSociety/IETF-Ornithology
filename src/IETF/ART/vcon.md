@@ -2,7 +2,7 @@
 
 * <IETFschedule>IETF124: Fri 07 Nov 2025 14:30 - Notre Dame</IETFschedule>
 * [About VCON](https://datatracker.ietf.org/group/vcon/about/)
-* Of interest because: privacy issues involved in handling human conversations.
+* Potentially of interest because: privacy issues involved in handling human conversations.
 * Keywords: privacy, user data
 
 
