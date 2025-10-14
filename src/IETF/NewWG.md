@@ -8,5 +8,5 @@ Below are the working group chartered since IETF 123.
 
  * SEC: [Secure Evidence and Attestation Transport(SEAT)](https://datatracker.ietf.org/wg/seat/about/) was [chartered](https://datatracker.ietf.org/doc/charter-ietf-seat) 09 October, 2025
 
- See the IETF datatracker for a full [overview of chartering or re-chartering groups](https://datatracker.idetf.org/group/chartering/)
+ See the IETF datatracker for a full [overview of chartering or re-chartering groups](https://datatracker.ietf.org/group/chartering/)
 
