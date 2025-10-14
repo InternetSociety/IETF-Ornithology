@@ -1,6 +1,7 @@
 # Secure Patterns for Internet CrEdentials (spice)
 * <IETFschedule>IETF124: Tue 04 Nov 2025 09:30 - Laurier</IETFschedule>
 * [About SPICE](https://datatracker.ietf.org/group/spice/about//)
+* Potentially of interest because: relevance of these technology building blocks in digital public infrastructure 
 * Keywords: identity, credential, verification, digital public infrastructure
 
 

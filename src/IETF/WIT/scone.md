@@ -1,9 +1,10 @@
 # 	Standard Communication with Network Elements (scone)
 * <IETFschedule>IETF124: Tue 04 Nov 2025 17:00 - Viger</IETFschedule>
 * [About SCONE](https://datatracker.ietf.org/doc/charter-ietf-scone/)
-* Keywords: access/content interaction, Quality of Experience (QoE), net neutrality (dare we say it)
+* Potentially of interest because: resolves tensions between various actors in the ecosystem and its relation to net neutrality (dare we say it).
+* Keywords: access/content interaction, Quality of Experience (QoE).
 
-This is a working group is forming as a follow up of the SCONEPRO BoF.
+This is a working group is forming as a follow-up of the SCONEPRO BoF.
 
 For both network management and business motivation networks may impose constrains on the amount bandwidth available to users when e.g. streaming video. Currently, applications will adapt heuristically to this throttling by adapting the bit rate and therefore the quality of video streams. This work seeks to signal a subset of applications (those that use QUIC to transport their content) with a so-called throughput advice. The intent is to improve the overall user experience. 
 
