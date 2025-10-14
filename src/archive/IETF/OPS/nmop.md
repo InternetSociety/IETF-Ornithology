@@ -1,5 +1,5 @@
 # Network Management Operations 
-* <IETFschedule>IETF124: Wed 05 Nov 2025 14:30 - Agora</IETFschedule>
+<IETFschedule>* Schedule Unknown</IETFschedule>
 * [About NMOP](https://datatracker.ietf.org/group/nmop/about/)
 * Potentially of interest because: NOT so much - near time.
 

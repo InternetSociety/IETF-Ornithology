@@ -1,5 +1,5 @@
 # TLS Exported AttestationBoF(expat)
-* <IETFschedule>IETF123: Mon 21 Jul 2025 14:30 - Tapices</IETFschedule>
+<IETFschedule>* Schedule Unknown</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-fossati-tls-exported-attestation-expat/)
 * Potentially of interest because: Attestation, when used on the Internet, may lead to gatekeeping and privacy issues.
 * Keywords:  security, ioT privacy

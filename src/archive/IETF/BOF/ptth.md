@@ -1,5 +1,5 @@
 # Protocol for Transposed Transactions over HTTP(ptth)
-* <IETFschedule>IETF123: Thu 24 Jul 2025 17:00 - Auditorio</IETFschedule>
+<IETFschedule>* Schedule Unknown</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-rosomakho-protocol-for-transposed-transactions-over-http/)
 * Potentially of interest because: A solution in this space may reduce cross vendor service migration costs.
 * Keywords: cloud, web services
