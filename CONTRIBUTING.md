@@ -57,7 +57,7 @@ that may be noteworthy
 * A github action will push the document to the [internetsociety.github.io](https://internetsociety.github.io/IETF-Ornithology/) location.
 
 
-To test whether the [git workflow](.github/workflows/mdbook.yml) works you an use the [act](https://github.com/nektos/act) tool.
+To test whether the [git workflow](.github/workflows/mdbook.yml) works you can use the [act](https://github.com/nektos/act) tool.
 
 ### Utility Scripts
 
