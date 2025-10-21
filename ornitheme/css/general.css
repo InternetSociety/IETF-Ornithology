@@ -7,7 +7,7 @@
 }
 
 html {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Hind", "Open Sans", sans-serif;
     color: var(--fg);
     background-color: var(--bg);
     text-size-adjust: none;
@@ -277,4 +277,40 @@ sup {
 
 .result-no-output {
     font-style: italic;
+}
+
+svg#ISOCShield {
+    display: block;
+    width: 32px;
+    height: 32px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+svg#ISOCLogo {
+    display: block;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+svg#ISOCLogo  path {
+    fill: var(--icons); /* changes the color to red */
+  }
+  
+  svg#ISOCLogo  path:hover {
+    fill: var(--icons-hover); /* changes the color to red */
+  }
+  
+
+
+svg#ISOCShield  path {
+  fill: var(--icons); /* changes the color to red */
+}
+
+#last-change {
+    margin-top: 60pt;
+    font-size: 8pt;
+    color: gray;
 }

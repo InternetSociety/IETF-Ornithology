@@ -66,6 +66,7 @@
         <script src="{{ resource "toc.js" }}"></script>
     </head>
     <body>
+
     <div id="mdbook-help-container">
         <div id="mdbook-help-popup">
             <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
@@ -155,10 +156,9 @@
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
                             <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="teal">Teal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
-                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="puple">Purple</button></li>
                         </ul>
                         {{#if search_enabled}}
                         <button id="search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="searchbar">
@@ -185,6 +185,10 @@
                             <i id="git-edit-button" class="fa fa-edit"></i>
                         </a>
                         {{/if}}
+                        <a href="/IETF-Ornithology/IETF-Ornithology.pdf" title="Download
+                                                PDF" aria-label="Download PDF">
+                            <i id="pdf-download-button" class="fa fa-file-pdf-o"></i>
+                        </a>
 
                     </div>
                 </div>
