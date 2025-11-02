@@ -1,6 +1,6 @@
 # Authenticated Transfer(atp)
 
-* <IETFschedule>IETF124: Wed 05 Nov 2025 09:30 - Place du Canada</IETFschedule>
+* <IETFschedule meets=true>IETF124: Wed 05 Nov 2025 09:30 - Place du Canada</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-newbold-authenticated-transfer/)
 * Potentially of interest because: Social media portability and interoperability.
 * Keywords:  Social media.

@@ -1,5 +1,5 @@
 # Messaging Layer Security (mls)
-* <IETFschedule>IETF124: Mon 03 Nov 2025 14:30 - Notre Dame</IETFschedule>
+* <IETFschedule meets=true>IETF124: Mon 03 Nov 2025 14:30 - Notre Dame</IETFschedule>
 * [About MLS](https://datatracker.ietf.org/group/mls/about/)
 * Potentially of interest because: interoperability requirements out of the European digital marketing act (DMA).
 

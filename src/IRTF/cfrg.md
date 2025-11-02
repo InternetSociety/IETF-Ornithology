@@ -1,5 +1,5 @@
 # Crypto Forum (cfrg)
-* <IETFschedule>IETF124: Thu 06 Nov 2025 17:00 - Laurier</IETFschedule>
+* <IETFschedule meets=true>IETF124: Thu 06 Nov 2025 17:00 - Laurier</IETFschedule>
 * [About CFRG](https://datatracker.ietf.org/group/cfrg/about/)
 * Potentially of interest because:  cryptographic elements are at the core of our digital security. 
 * Keywords: cryptography

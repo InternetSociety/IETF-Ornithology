@@ -1,5 +1,5 @@
 # Security Dispatch (secdispatch)
-<IETFschedule>IETF124: Mon 04 Nov 2025 09:30 - Place du Canada (combined with Dispatch)</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About SECDISPATCH](https://datatracker.ietf.org/group/secdispatch/about/)
 * Potentially of interest because:The early warning nature of these meetings where new proposals enter to the IETF.
 * Keywords: security

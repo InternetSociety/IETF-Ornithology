@@ -1,5 +1,5 @@
 # Symmetric Key Establishment and Exchange(skex)
-<IETFschedule>* Schedule Unknown</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-aelmans-skex-symmetric-key-establishment-and-exchange/)
 * Keywords: Encryption
 

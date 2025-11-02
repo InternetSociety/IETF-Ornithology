@@ -1,5 +1,5 @@
 # Network Management Operations 
-<IETFschedule>* Schedule Unknown</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About NMOP](https://datatracker.ietf.org/group/nmop/about/)
 * Potentially of interest because: NOT so much - near time.
 

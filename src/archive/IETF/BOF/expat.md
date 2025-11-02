@@ -1,5 +1,5 @@
 # TLS Exported AttestationBoF(expat)
-<IETFschedule>* Schedule Unknown</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-fossati-tls-exported-attestation-expat/)
 * Potentially of interest because: Attestation, when used on the Internet, may lead to gatekeeping and privacy issues.
 * Keywords:  security, ioT privacy

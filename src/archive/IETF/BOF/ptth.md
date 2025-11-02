@@ -1,5 +1,5 @@
 # Protocol for Transposed Transactions over HTTP(ptth)
-<IETFschedule>* Schedule Unknown</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-rosomakho-protocol-for-transposed-transactions-over-http/)
 * Potentially of interest because: A solution in this space may reduce cross vendor service migration costs.
 * Keywords: cloud, web services

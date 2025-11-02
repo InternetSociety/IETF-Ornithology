@@ -1,5 +1,5 @@
 # Fast Notification for Traffic Engineering and Load Balanci(fantel)
-<IETFschedule>* Schedule Unknown</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-geng-fast-notification-for-traffic-engineering-and-load-balancing/)
 * Of interest because: we identify no public policy issues
 * Keywords: traffic management, datacenter optimization.

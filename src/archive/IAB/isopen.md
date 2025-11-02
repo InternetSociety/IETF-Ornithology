@@ -1,5 +1,5 @@
 # Independent Stream Open Meeting (isopen)
-<IETFschedule>* Schedule Unknown</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About ISOPEN](https://datatracker.ietf.org/group/isopen/about/)
 * Keywords: national cryptography standards
 
