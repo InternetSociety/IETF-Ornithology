@@ -1,4 +1,4 @@
-# Network Management Operations 
+# Network Management Operations (nmop)
 <IETFschedule meets=false></IETFschedule>
 * [About NMOP](https://datatracker.ietf.org/group/nmop/about/)
 * Potentially of interest because: NOT so much - near time.

@@ -1,4 +1,4 @@
-# Adaptive DNS Discovery(add)
+# Adaptive DNS Discovery (add)
 * <IETFschedule meets=true>IETF124: Wed 05 Nov 2025 14:30 - Van Horne</IETFschedule>
 * [About ADD](https://datatracker.ietf.org/group/add/about/)
 * Potentially of interest because: control over name resolution.

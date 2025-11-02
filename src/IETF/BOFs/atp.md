@@ -1,4 +1,4 @@
-# Authenticated Transfer(atp)
+# Authenticated Transfer (atp)
 
 * <IETFschedule meets=true>IETF124: Wed 05 Nov 2025 09:30 - Place du Canada</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-newbold-authenticated-transfer/)

@@ -1,4 +1,4 @@
-# Network Inventory YANG(ivy)
+# Network Inventory YANG (ivy)
 
 * <IETFschedule meets=true>IETF124: Thu 06 Nov 2025 11:30 - Van Horne</IETFschedule>
 * [About IVY](https://datatracker.ietf.org/group/ivy/about/)

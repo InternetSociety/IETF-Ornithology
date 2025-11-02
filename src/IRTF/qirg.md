@@ -1,4 +1,4 @@
-# Quantum Internet Research Group(qirg)
+# Quantum Internet Research Group (qirg)
 * [About qirg](https://datatracker.ietf.org/group/qirg/about/)
 * <IETFschedule meets=true>IETF124: Mon 03 Nov 2025 09:30 - Centre Ville</IETFschedule>
 * Potentially of interest because: Quantum Internet technology is potentially disruptive (dual use) technology.

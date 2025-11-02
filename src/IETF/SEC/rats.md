@@ -1,4 +1,4 @@
-# Remote ATtestation ProcedureS
+# Remote ATtestation ProcedureS (rats)
 * <IETFschedule meets=true>IETF124: Thu 06 Nov 2025 17:00 - Van Horne</IETFschedule>
 * [About RATS](https://datatracker.ietf.org/group/rats/about/)
 * Potentially of interest because: validation of remote parties in cybersecurity context.

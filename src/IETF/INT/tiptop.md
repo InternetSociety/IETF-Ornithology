@@ -1,4 +1,4 @@
-# Taking IP To Other Planets(tiptop)
+# Taking IP To Other Planets (tiptop)
 * <IETFschedule meets=true>IETF124: Thu 06 Nov 2025 11:30 - Laurier</IETFschedule>
 * [About TIPTOP](https://datatracker.ietf.org/group/tiptop/about/) 
 * Potentially of interest because: its relation to space programs

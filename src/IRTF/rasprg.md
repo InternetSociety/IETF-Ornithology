@@ -1,4 +1,4 @@
-# Research and Analysis of Standard-Setting Processes Proposed Research Group(rasprg)
+# Research and Analysis of Standard-Setting Processes Proposed Research Group (rasprg)
 * <IETFschedule meets=true>IETF124: Wed 05 Nov 2025 09:30 - Agora</IETFschedule>
 * [About RASPRG](https://datatracker.ietf.org/group/rasprg/about/)
 * Potentially of interest because:  processes and governance of standards making has industrial policy impact.
