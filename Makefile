@@ -1,5 +1,5 @@
-MEETING=124
-TZ=AMERICA/Montreal
+MEETING=125
+TZ=Asia/Shanghai
 
 SUBDIR_ELEMENTS = IETF IAB IRTF
 SUBDIR_OBJECTS = $(shell find src -name "*.md")
@@ -26,3 +26,10 @@ disclean:
 	rm -Rf book
 	rm src/SUMMARY.md
 	`find src -name "*.md" -exec sed -i .bak 's/.*<IETFschedule.*>.*<\/IETFschedule>/<IETFschedule meets=false><\/IETFschedule>/' {} \;`
+
+
+clear:
+	find src -name "*.md" -exec sed -i .bak 's/.*<IETFschedule.*>.*<\/IETFschedule>/<IETFschedule meets=false><\/IETFschedule>/' {} \;
+
+summary:
+	(cd src ; ../CreateSummary.py > SUMMARY.md )

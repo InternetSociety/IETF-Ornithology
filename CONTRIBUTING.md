@@ -80,7 +80,7 @@ You can run the AgendaUpdate.py tool to update the agenda information between th
 
 `find src/IETF   -name "*.md"  -exec  ./AgendaUpdate.py 120 America/Vancouver {} \;`
 
-similarly the  &lt;IETFschedule&gt; information can be cleared using a command like
+similarly the  &lt;IETFschedule&gt; information can be cleared using `make clear` which executes:
 
 `find src -name "*.md" -exec sed -i .bak 's/.*<IETFschedule.*>.*<\/IETFschedule>/<IETFschedule meets=false><\/IETFschedule>/' {} \;`
 
@@ -100,5 +100,7 @@ ProposedWGs.py scrapes the datatracker for working groups that are currently bei
 `./ProposedWGs.py | sort `
 
 ### CreateSummary.py
+
+Invoked with `make summary`
 
 Makes a SUMMARY.md file based on whether groups are meeting.
