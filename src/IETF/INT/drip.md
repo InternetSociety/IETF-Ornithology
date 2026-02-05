@@ -1,5 +1,5 @@
 # Drone Remote ID Protocol (drip) 
-* <IETFschedule meets=true>IETF124: Wed 05 Nov 2025 12:00 - Agora</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About DRIP](https://datatracker.ietf.org/group/drip/about/) 
 * Potentially of interest because: its links to aviation requirements
 * Keywords: drones, safety

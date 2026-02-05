@@ -1,5 +1,5 @@
 # Secure Asset Transfer Protocol (satp) 
-* <IETFschedule meets=true>IETF124: Tue 04 Nov 2025 14:30 - St Denis</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About SATP](https://datatracker.ietf.org/group/satp/about/)
 * Potentially of interest because: this specifies transfer of potentially regulated economic assets.
 * Keywords: supply chain, digital public infrastructure, economic transaction.

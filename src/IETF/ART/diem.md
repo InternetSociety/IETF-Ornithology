@@ -1,5 +1,5 @@
 # Digital Emblems (diem)
-* <IETFschedule meets=true>IETF124: Fri 07 Nov 2025 14:30 - Centre Ville</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About DIEM](https://datatracker.ietf.org/group/diem/about)
 * Potentially of interest because:humanitarian significance.
 * Keywords: cyber stability, humanitarian law

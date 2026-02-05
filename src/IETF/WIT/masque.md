@@ -1,5 +1,5 @@
 # Multiplexed Application Substrate over QUIC Encryption (masque)
-* <IETFschedule meets=true>IETF124: Fri 07 Nov 2025 09:30 - Centre Ville</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About MASQUE](https://datatracker.ietf.org/group/masque/about/)
 * Potentially of interest because: the work specifies new privacy protection mechanisms.
 * Keywords: privacy, encryption

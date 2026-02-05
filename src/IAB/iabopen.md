@@ -1,5 +1,5 @@
 # IAB Open
-* <IETFschedule meets=true>IETF124: Thu 06 Nov 2025 11:30 - Place du Canada</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 
 The IAB Open meeting is where the IAB reports on its ongoing activities and presents on topics of architectural interest. 
 

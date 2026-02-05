@@ -1,5 +1,5 @@
 # AI Preferences (aipref)
-* <IETFschedule meets=true>IETF124: Mon 03 Nov 2025 17:00 - Laurier</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About AIPREF](https://datatracker.ietf.org/group/aipref/about/)
 * Potentially of interest because: Copyright chapter - Measure 1.3(1)(a) of [The [EU] General-Purpose AI Code of Practice](https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai)
 

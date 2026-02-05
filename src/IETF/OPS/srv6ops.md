@@ -1,6 +1,6 @@
 # SRv6 Operations (srv6ops)
 
-* <IETFschedule meets=true>IETF124: Tue 04 Nov 2025 09:30 - Viger</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About SRV6OPS](https://datatracker.ietf.org/group/srv6ops/about/)
 * Potentially of interest because: the creation of central network controls.
 

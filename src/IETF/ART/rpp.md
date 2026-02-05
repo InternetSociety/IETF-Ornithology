@@ -1,5 +1,5 @@
 # RESTfup Provisioning Protocol (rpp)
-* <IETFschedule meets=true>IETF124: Thu 06 Nov 2025 09:30 - Notre Dame</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About RPP](https://datatracker.ietf.org/group/rpp/about/)
 *
 * Keywords: DNS value chain.
