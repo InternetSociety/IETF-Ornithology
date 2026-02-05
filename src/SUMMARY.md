@@ -2,7 +2,6 @@
   - [The IETF](./IETF/intro.md)
     - [New Working Groups](./IETF/NewWG.md)
     - [Birds of a Feather (BoFs) ](IETF/BOFs/intro.md)
-      - [Authenticated Transfer (atp)](./IETF/BOFs/atp.md)
     - [General Area](IETF/GEN/intro.md)
     - [Applications and Real-Time Area](IETF/ART/intro.md)
     - [Internet Area](IETF/INT/intro.md)
