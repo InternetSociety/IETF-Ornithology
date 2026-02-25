@@ -144,8 +144,26 @@ try:
         print("Entire JSON response")
         print(jsonResponse)
     if not jsonResponse["objects"] : #or not len(jsonResponse["objects"]):
-        print (acronym.upper() + " likely does not meet at IETF" + meetingnumber )
+        print (acronym.upper() + " likely does not meet at IETF" + meetingnumber )     
+        with open(filepath, "r") as file:
+            filedata = file.read()
+        # Write the file out again
+        with open(filepath, "w") as file:
+            file.write(
+                re.sub(
+                    ".*<IETFschedule.*>.*</IETFschedule>",
+                     "* <IETFschedule meets=false>IETF" 
+                    + acronym.upper() 
+                    + " likely does not meet at IETF" 
+                    + meetingnumber 
+                    + "</IETFschedule>",
+                    filedata,
+                    
+                     )       
+                )   
+            
         exit(1)
+        
     # workgroupId = jsonResponse["objects"][0]["id"]   # Potential bug: not sure about the first index in the object array
     sessionID = jsonResponse["objects"][0]["id"]
 except HTTPError as http_err:
@@ -179,7 +197,23 @@ try:
         print(jsonResponse)
     schedtimesessassignmentObjects=jsonResponse["objects"]
     if not len ( schedtimesessassignmentObjects):
-        print (acronym.upper() + " likely does not meet at IETF" + meetingnumber )
+        print (acronym.upper() + " likely does not meet at IETF" + meetingnumber + "("+ datatrackerUrl +")" )
+        with open(filepath, "r") as file:
+            filedata = file.read()
+        # Write the file out again
+        with open(filepath, "w") as file:
+            file.write(
+                re.sub(
+                    ".*<IETFschedule.*>.*</IETFschedule>",
+                    "* <IETFschedule meets=false>IETF" 
+                     + acronym.upper() 
+                    + " likely does not meet at IETF" 
+                    + meetingnumber 
+                    + "</IETFschedule>",
+                    filedata,
+                     )       
+                )   
+            
         exit(1)
 
     lastModifiedTime=datetime.strptime(schedtimesessassignmentObjects[0]["modified"], "%Y-%m-%dT%H:%M:%S%z")

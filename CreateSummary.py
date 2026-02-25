@@ -40,17 +40,21 @@ def GrepTitle(path):
     # Title is supposed to be containedn the first string matching "# .*"
     f = open(path, "r")
     title = None
-    meets = False
+    publish = False
     for line in f.readlines():
         t = re.match(r"#\s*(.*)", line)
         if ((t) and  t[1] and not title ):
             title=t[1]
         m = re.match(r".*<IETFschedule\s+meets=true\s*>", line)
-        if (m):
-            meets=True
-        if (meets and title):
+        l = re.match(r".*<IETFornithology\s+forcepublication=true\s*.q*>", line)
+            
+            
+            
+        if (m or l):
+            publish=True
+        if (publish and title):
             break
-    return ([title, meets])
+    return ([title, publish])
     
 
 
