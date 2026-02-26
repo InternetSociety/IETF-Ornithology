@@ -1,5 +1,5 @@
-# PKI, Logs, And Tree SignaturesBoF{plants}
-* <IETFschedule>IETF124: Tue 04 Nov 2025 17:00 - Place du Canada</IETFschedule>
+# PKI, Logs, And Tree Signatures (plants)
+<IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-westerbaan-pki-logs-and-tree-signatures-plants/)
 * Potentially of interest because: Impact of post-quantum signatures on the Internet's authentication infrastructure
 * Keywords:  security, encryption, post-quantum

@@ -7,4 +7,4 @@
 [https://github.com/internetsociety/IETF-Ornithology](https://github.com/internetsociety/IETF-Ornithology). 
      Alternatively you can send e-mail to the editor (kolkman@isoc.org). 
 
-*Copyright(c)* 2022-2025 Internet Society under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)<br/>
+*Copyright(c)* 2022-2026 Internet Society under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)<br/>

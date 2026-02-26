@@ -1,6 +1,6 @@
 # Sustainability and the Internet Research Group (sustain)
 
-* <IETFschedule>IETF124: Fri 07 Nov 2025 09:30 - St Denis</IETFschedule>
+* <IETFschedule meets=true>IETF125: Tue 17 Mar 2026 14:00 - Guangdong</IETFschedule>
 * [About SUSTAIN](https://datatracker.ietf.org/group/sustain/about/)
 * Potentially of interest because: strong link to the SDG
 * keywords: equality, digital divide

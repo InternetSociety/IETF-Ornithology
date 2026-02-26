@@ -11,7 +11,7 @@ The IAB Open Meeting is where the Internet Architecture board presents what it i
 
 The Internet Engineering Protocol Group ([IEPG](https://iepg.org/)), a meeting usually taking place on Sunday, features somewhat more operational presentations of “topical interest”. The presentations are technical but usually give an indication about the topics that are interesting to the Internet technical infrastructure’s operational community.
 
-Further, the Tutorial: New Participants’ Overview is relevant for newcommers while during the Hot RFC session participants try to pitch their documents to make sure interested parties join sessions later in the week.
+Further, the Tutorial: New Participants’ Overview is relevant for new commers while during the Hot RFC session participants try to pitch their documents to make sure interested parties join sessions later in the week.
 
 Finally, the Technology Deep Dive is a mini masterclass for the technical IETF audience on a specific topic.
 

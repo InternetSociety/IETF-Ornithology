@@ -1,5 +1,5 @@
 # Human Rights Protocol Considerations (hrpc)
-* <IETFschedule>IETF124: Mon 03 Nov 2025 14:30 - Place du Canada</IETFschedule>
+* <IETFschedule meets=true>IETF125: Mon 16 Mar 2026 16:30 - Grand Ballroom 2</IETFschedule>
 * [About HRPC](https://datatracker.ietf.org/group/hrpc/about/)
 * Potentially of interest because:the human right focus of the group.
 * Keywords: Human rights

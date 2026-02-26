@@ -5,7 +5,7 @@ REMOVED FROM POLICY INTEREST - WAY TO TECHNICAL.
 
 
 # Heuristics and Algorithms to Prioritize Protocol deploYment (happy)
-<IETFschedule>* Schedule Unknown</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About HAPPY](https://datatracker.ietf.org/group/happy/about/)
 * Potentially of interest because:
 * Keywords: IPv6 deployment, encryption

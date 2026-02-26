@@ -1,5 +1,5 @@
 # Software Updates for Internet of Things (suit)
-* <IETFschedule>IETF124: Wed 05 Nov 2025 12:00 - Van Horne</IETFschedule>
+* <IETFschedule meets=false>SUIT likely does not meet at IETF125</IETFschedule>
 * [About SUIT](https://datatracker.ietf.org/group/suit/about/)
 * Potentially of interest because: necessity for IoT security  
 * Keywords: IoT, security

@@ -1,5 +1,5 @@
-# Network Management Operations 
-<IETFschedule>* Schedule Unknown</IETFschedule>
+# Network Management Operations (nmop)
+* <IETFschedule meets=true>IETF125: Fri 20 Mar 2026 09:00 - Grand Ballroom 1</IETFschedule>
 * [About NMOP](https://datatracker.ietf.org/group/nmop/about/)
 * Potentially of interest because: NOT so much - near time.
 

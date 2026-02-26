@@ -1,5 +1,5 @@
 # Deepspace (deepspace)
-<IETFschedule>* Schedule Unknown</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-blanchet-deepspace/)
 * Keywords: space
 
