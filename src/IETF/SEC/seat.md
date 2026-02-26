@@ -1,7 +1,7 @@
 # Secure Evidence and Attestation Transport (seat)
 
 
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF125: Tue 17 Mar 2026 16:00 - Guangdong</IETFschedule>
 * [About SEAT](https://datatracker.ietf.org/wg/seat/about/)
 * Potentially of interest because:Attestation, when used on the Internet, may lead to gatekeeping and privacy issues.
 * Keywords:  security, ioT privacy

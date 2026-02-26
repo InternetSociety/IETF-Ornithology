@@ -1,6 +1,6 @@
 # Sustainability and the Internet Research Group (sustain)
 
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF125: Tue 17 Mar 2026 14:00 - Guangdong</IETFschedule>
 * [About SUSTAIN](https://datatracker.ietf.org/group/sustain/about/)
 * Potentially of interest because: strong link to the SDG
 * keywords: equality, digital divide

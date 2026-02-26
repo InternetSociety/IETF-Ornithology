@@ -1,5 +1,5 @@
 # Secure Telephony Identity Revisited (stir)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=false>STIR likely does not meet at IETF125</IETFschedule>
 * [About STIR](https://datatracker.ietf.org/group/stir/about/)
 * Potentially of interest because: prevention of telephone scams
 * Keywords: spam, anonymity, telephony.

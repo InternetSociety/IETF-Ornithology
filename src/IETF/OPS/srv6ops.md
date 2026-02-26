@@ -1,6 +1,6 @@
 # SRv6 Operations (srv6ops)
 
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF125: Fri 20 Mar 2026 11:30 - Shangri-la Ballroom 2</IETFschedule>
 * [About SRV6OPS](https://datatracker.ietf.org/group/srv6ops/about/)
 * Potentially of interest because: the creation of central network controls.
 

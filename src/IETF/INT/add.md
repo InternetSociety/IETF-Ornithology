@@ -1,5 +1,5 @@
 # Adaptive DNS Discovery (add)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF125: Wed 18 Mar 2026 11:30 - Shangri-la Ballroom 2</IETFschedule>
 * [About ADD](https://datatracker.ietf.org/group/add/about/)
 * Potentially of interest because: control over name resolution.
 * Keywords: encryption, DNS

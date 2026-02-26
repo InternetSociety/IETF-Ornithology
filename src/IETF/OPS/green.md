@@ -1,5 +1,5 @@
 # Getting Ready for Energy Efficient Networking (green)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF125: Thu 19 Mar 2026 14:00 - Grand Ballroom 2</IETFschedule>
 * [About GREEN](https://datatracker.ietf.org/doc/charter-ietf-green)
 * Potentially of interest because: understanding and limiting environmental impacts. 
 * Keywords: energy, global warming

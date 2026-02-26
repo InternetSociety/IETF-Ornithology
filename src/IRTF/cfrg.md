@@ -1,5 +1,5 @@
 # Crypto Forum (cfrg)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF125: Tue 17 Mar 2026 11:30 - Grand Ballroom 3</IETFschedule>
 * [About CFRG](https://datatracker.ietf.org/group/cfrg/about/)
 * Potentially of interest because:  cryptographic elements are at the core of our digital security. 
 * Keywords: cryptography

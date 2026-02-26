@@ -1,6 +1,6 @@
 # Virtualized Conversations(vcon)
 
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=false>VCON likely does not meet at IETF125</IETFschedule>
 * [About VCON](https://datatracker.ietf.org/group/vcon/about/)
 * Potentially of interest because: privacy issues involved in handling human conversations.
 * Keywords: privacy, user data

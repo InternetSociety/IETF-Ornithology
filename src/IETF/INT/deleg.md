@@ -1,5 +1,5 @@
 # DNS Delegation (deleg)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF125: Fri 20 Mar 2026 09:00 - Shangri-la Ballroom 2</IETFschedule>
 * [About ADD](https://datatracker.ietf.org/group/deleg/about/) 
 * Potentially of interest because:potential (but unlikely) changes in business relations in the DNS value chain
 * Keywords: operations, DNS
