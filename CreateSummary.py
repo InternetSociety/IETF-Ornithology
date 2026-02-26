@@ -48,7 +48,9 @@ def GrepTitle(path):
         m = re.match(r".*<IETFschedule\s+meets=true\s*>", line)
         l = re.match(r".*<IETFornithology\s+forcepublication=true\s*.q*>", line)
             
-            
+        if (l):
+            sys.stderr.write("\t NB "+path+" is marked for publication by forcepublication=true\n")
+
             
         if (m or l):
             publish=True

@@ -106,3 +106,12 @@ Invoked with `make summary`
 Makes a SUMMARY.md file based on whether groups are meeting. In some cases, e.g. for working groups being chartered
 you may want to add a description for a particular group. In that case set `<IETFornithology forcepublication=true />`
 somewhere in the text
+
+
+### ApprovedBofs.py
+
+Invoked with `make bofs`
+
+Looks for which BOFs are approved for a given meeting  and will add template files to src/IETF/BOFs
+
+Manually copy the generated enumeration to the src/IETF/BOFs/intro.md

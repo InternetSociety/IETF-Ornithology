@@ -19,6 +19,9 @@ updateagenda:
 	find src/IAB   -name "*.md"  -exec  ./AgendaUpdate.py ${MEETING} ${TZ} {} \;
 	find src/IRTF   -name "*.md"  -exec  ./AgendaUpdate.py ${MEETING} ${TZ} {} \;
 
+bofs:
+	./ApprovedBOFs.py ${MEETING} 
+
 clean:
 	rm -Rf book
 

@@ -152,7 +152,7 @@ try:
             file.write(
                 re.sub(
                     ".*<IETFschedule.*>.*</IETFschedule>",
-                     "* <IETFschedule meets=false>IETF" 
+                     "* <IETFschedule meets=false>" 
                     + acronym.upper() 
                     + " likely does not meet at IETF" 
                     + meetingnumber 
@@ -205,7 +205,7 @@ try:
             file.write(
                 re.sub(
                     ".*<IETFschedule.*>.*</IETFschedule>",
-                    "* <IETFschedule meets=false>IETF" 
+                    "* <IETFschedule meets=false> 
                      + acronym.upper() 
                     + " likely does not meet at IETF" 
                     + meetingnumber 
