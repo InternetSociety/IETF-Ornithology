@@ -3,7 +3,7 @@
     - [New Working Groups](./IETF/NewWG.md)
     - [Birds of a Feather (BoFs) ](IETF/BOFs/intro.md)
       - [Coordinating Agent To Agent List of efforts (catalist)](./IETF/BOFs/catalist.md)
-      - [Coordinating Agent To Agent List of efforts (onsen)](./IETF/BOFs/onsen.md)
+      - [Operationalizing Network & SErvice abstractioNs(onsen)](./IETF/BOFs/onsen.md)
     - [General Area](IETF/GEN/intro.md)
     - [Applications and Real-Time Area](IETF/ART/intro.md)
       - [Authenticated Transfer (atp) ](./IETF/ART/atp.md)
