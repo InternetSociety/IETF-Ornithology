@@ -1,12 +1,24 @@
 # New Working Groups
 
-Below are the working group chartered since IETF 123.
+Below are the working group being chartered since IETF 124.
+* SEC: PKI, Logs, And Tree Signatures(PLANTS) was [chartered](https://datatracker.ietf.org/doc/charter-ietf-plants) 08 January, 2026
+
+  This group works on the issues caused by the overhead when using post-quantum crypography. In the current PKI two system signatures are generated one for the certificate that is produced and one for the transperancy log. The validation of both signatures has notable size and latency impact on the establishment of encrypted connections. 
+
+  Because the work is focused on optimizing an operational aspect of certificate management We do not anticipate public policy issues with this work.
 
 
- * ART: [Domain Connect(DCONN)](https://datatracker.ietf.org/wg/dconn/about/) was [chartered](https://datatracker.ietf.org/doc/charter-ietf-dconn) 30 September, 2025
-   This workingroup will standardize an existing industry specification that allows for application service providers to configure DNS entries directly with the DNS service providers, cutting out the error prone coordination between the two providers by the user. A high quality standard for this use case aids market diversity. We do not anticipate public policy impact.
+The following groups are in the process of being (initially) chartered.
 
- * SEC: [Secure Evidence and Attestation Transport(SEAT)](https://datatracker.ietf.org/wg/seat/about/) was [chartered](https://datatracker.ietf.org/doc/charter-ietf-seat) 09 October, 2025
+ * ART: Authenticated Transfer(ATP) ([charter](https://datatracker.ietf.org/doc/charter-ietf-atp)). 
+
+   For more information see [the ART/atp section](./ART/atp)
+
+ * OPS: Operationalizing Network & service abstractIONS(ONIONS)  ([charter](https://datatracker.ietf.org/doc/charter-ietf-onions)). 
+ * OPS: [SEcure access To Tls Local rEsources(SETTLE)](./OPS/settle.md)  ([charter](https://datatracker.ietf.org/doc/charter-ietf-settle)). 
+   For more information see [the OPS/settle section](./ART/settle)
+
+
 
  See the IETF datatracker for a full [overview of chartering or re-chartering groups](https://datatracker.ietf.org/group/chartering/)
 

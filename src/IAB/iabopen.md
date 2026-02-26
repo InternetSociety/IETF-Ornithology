@@ -1,5 +1,5 @@
 # IAB Open
-* <IETFschedule>IETF123: Wed 23 Jul 2025 11:30 - Auditorio</IETFschedule>
+* <IETFschedule meets=true>IETF125: Wed 18 Mar 2026 11:30 - Grand Ballroom 2</IETFschedule>
 
 The IAB Open meeting is where the IAB reports on its ongoing activities and presents on topics of architectural interest. 
 

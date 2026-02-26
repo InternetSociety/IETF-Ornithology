@@ -5,7 +5,7 @@ REMOVED FROM POLICY INTEREST - WAY TO TECHNICAL.
 
 
 # Heuristics and Algorithms to Prioritize Protocol deploYment (happy)
-* <IETFschedule>IETF124: Thu 06 Nov 2025 14:30 - Centre Ville</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About HAPPY](https://datatracker.ietf.org/group/happy/about/)
 * Potentially of interest because:
 * Keywords: IPv6 deployment, encryption

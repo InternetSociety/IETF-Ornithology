@@ -1,5 +1,5 @@
 # High Performance Wide Area Network (hpwan)
-<IETFschedule>* Schedule Unknown</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-huang-hp-wan/)
 * Keywords: QOS, high performance
 

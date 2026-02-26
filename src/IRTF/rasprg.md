@@ -1,5 +1,5 @@
-# Research and Analysis of Standard-Setting Processes Proposed Research Group(rasprg)
-* <IETFschedule>IETF123: Fri 23 Jul 2025 09:30 - El Escorial</IETFschedule>
+# Research and Analysis of Standard-Setting Processes Proposed Research Group (rasprg)
+* <IETFschedule meets=true>IETF125: Thu 19 Mar 2026 14:00 - Guangdong</IETFschedule>
 * [About RASPRG](https://datatracker.ietf.org/group/rasprg/about/)
 * Potentially of interest because:  processes and governance of standards making has industrial policy impact.
 * keywords: standardization, stakeholder participation

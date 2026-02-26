@@ -32,14 +32,14 @@ Once that is done - you can just run ```mdbook build``` from the root of this di
 
 ### Tools and conventions
 
-The workflow is mostly manual, with a few tools that will help you identify new groups and  update the times that groups meet. 
+The workflow uses a bunch of python scrypts and a make file, with a few tools that will help you identify new groups and  update the times that groups meet. 
 
 
 * The markdown files are created with the working group acronym as their name. Their content follows the following template.
 ```
 # The Title of the document
 
-<IETFschedule>Content update by script below</IETFschedule>
+<IETFschedule meets=false>Content update by script below</IETFschedule>
 * [About GROUP](https://datatracker.ietf.org/group/group/about/)
 * keywords: keywords, and trigger words.
 * Of interest because: <reason>
@@ -47,21 +47,32 @@ The workflow is mostly manual, with a few tools that will help you identify new 
 Description with an indication of elements 
 that may be noteworthy
 ```
+The little bit of XML contains an attribute "meets" that attribute is used to assess whether group meets at the IETF, the attribute is manipulated by AgendaUpdate.py and then used by the CreateSummary.py script.
 
-
-
-
-* Remember that for mbook documents `SUMMARY.md` contains the  document structure. Update that document to remove and add content. 
-* `./src/IETF/NewWG.md` is updated every meeting using the utility scripts below as a starting point.
-* The document only contains information about groups that meet. (That may change in the future.) Files for groups that do not meet are moved to the `src/archive` folder.
+* Remember that for mbook documents `SUMMARY.md` contains the  document structure. Update that document to remove and add content. The script (CreateSummary.py) needed for that task is automatically called by `make book`
+* `./src/IETF/NewWG.md` is updated every meeting using the utility scripts below as a starting point. NB: process is manual
+* The document only contains information about groups that meet. By virtue of the metadata in the <IETFSchedue> metadata this data is choosen. Move files that you do not want to have published to the archive.
 * A github action will push the document to the [internetsociety.github.io](https://internetsociety.github.io/IETF-Ornithology/) location.
 
 
-To test whether the [git workflow](.github/workflows/mdbook.yml) works you an use the [act](https://github.com/nektos/act) tool.
+To test whether the [git workflow](.github/workflows/mdbook.yml) works you can use the [act](https://github.com/nektos/act) tool.
 
 ### Utility Scripts
 
 These are a few quick and dirty python scripts to scrape the datatracker.
+
+#### Makefile
+
+The easiest way to make the 'book' is by using the make file.
+
+Before preparing for a new IETF make sure you update the MEETING and the TZ variables in the Makefile. There are a few targets that you might use:
+* `updateageda`: perforem `make updateagenda` to scrape the datatracker and set whether groups are meeting and the times at which they are meeting. You should run this shortly before building the book.
+* `book`: `make book` will build the book.
+* `clean`:  removes the book
+
+
+
+
 
 #### AgendaUpdate.py
 
@@ -69,9 +80,9 @@ You can run the AgendaUpdate.py tool to update the agenda information between th
 
 `find src/IETF   -name "*.md"  -exec  ./AgendaUpdate.py 120 America/Vancouver {} \;`
 
-similarly the  &lt;IETFschedule&gt; information can be cleared using a command like
+similarly the  &lt;IETFschedule&gt; information can be cleared using `make clear` which executes:
 
-`find src -name "*.md" -exec sed -i .bak 's/.*<IETFschedule>.*<\/IETFschedule>/<IETFschedule>* Schedule Unknown<\/IETFschedule>/' {} \;`
+`find src -name "*.md" -exec sed -i .bak 's/.*<IETFschedule.*>.*<\/IETFschedule>/<IETFschedule meets=false><\/IETFschedule>/' {} \;`
 
 #### NewWGs.py
 
@@ -88,3 +99,19 @@ ProposedWGs.py scrapes the datatracker for working groups that are currently bei
 
 `./ProposedWGs.py | sort `
 
+### CreateSummary.py
+
+Invoked with `make summary`
+
+Makes a SUMMARY.md file based on whether groups are meeting. In some cases, e.g. for working groups being chartered
+you may want to add a description for a particular group. In that case set `<IETFornithology forcepublication=true />`
+somewhere in the text
+
+
+### ApprovedBofs.py
+
+Invoked with `make bofs`
+
+Looks for which BOFs are approved for a given meeting  and will add template files to src/IETF/BOFs
+
+Manually copy the generated enumeration to the src/IETF/BOFs/intro.md

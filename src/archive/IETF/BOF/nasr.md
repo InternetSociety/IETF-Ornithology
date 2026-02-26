@@ -1,11 +1,13 @@
-# Network Attestation for Secure Routing(nasr)
-<IETFschedule>* Schedule Unknown</IETFschedule>
-* [BoF request](https://datatracker.ietf.org/doc/bofreq-iannone-nasr-network-attestation-for-secured-forwarding/)
-* Keywords: Security, forwarding, routing
+# Network Attestation for Secure Routing (NASR) 
+<IETFschedule meets=false></IETFschedule>
+* [BOF Request](https://datatracker.ietf.org/doc/bofreq-liu-nasr/)
+* Potentially of interest because: supply chain security and potentially new controls for including/excluding the use of certain network segments.
+* Keywords: Secure routing, supply chain trust
 
-Confidentiality on the Internet is established by end-to-end encryption of content. What path is taken by the stream of Internet Protocol packets that carry the encrypted content is usually ignored. 
-The starting assertion of this work is that end-to-end encryption does not provide sufficient guarantees and that there are scenarios where one wants to make sure that the path over which data is being sent can be trusted to offer specific security guarantees. For instance, one would want to have certainty that data is not copied and recorded for decryption later (a common concern for when quantum computing becomes commercially viable).
+The goal of Network Attestation for Secure Routing work is to address the challenges associated with routing data on top of trusted devices, trusted operating environments, trusted links and trusted services only, to achieve transparent and predictable forwarding behavior. Verifiable operational correctness proofs should also be given to serve as a trusted evidence for visualization, internal inspection and external auditing.
 
-A working group resulting out of this BoF would address the challenges associated with proving state and characteristics of a network path are compliant to a set of claims, so as to achieve predictable and verifiable forwarding behavior.
+In other words, this work tries to secure the network and routing supply chain from the ground up. This work will initially focus on intra-domain environments and is a building block for verifying the trustworthyness of the full stack in datacenters. 
 
-This working group forming BoF will discuss among other things the [proposed Charter](https://github.com/ietf-nasr/NASR-Charter).
+The [requirements draft](https://datatracker.ietf.org/doc/draft-liu-nasr-requirements/) may be a good first step to understand further context of this work.
+
+If this work ever covers inter-domain environments, careful analysis needs to be made of potential introductions of new controls.  

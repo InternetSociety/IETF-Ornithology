@@ -1,9 +1,10 @@
 
+
 # Introduction
 
 This document serves as an aid for people who are observing the work in the Internet Engineering Task Force (IETF) from a policy-based perspective. We have tried to indicate which activities might be of policy interest.
 
-This is not the only curated list for people with other than technical interest of IETF activity. [Article 19 produced a web page](https://almanac.article19.org/orgs/3_ietf.html) with an overview of working groups whose work that has human right considerations.  Also, the IETF itself publishes lists of new topics at IETF meetings through its blog article [Suggested IETF 124 Sessions for Getting Familiar with New Topics](https://www.ietf.org/blog/ietf124-new-topics/). 
+This is not the only curated list for people with other than technical interest of IETF activity. [Article 19 produced a web page](https://almanac.article19.org/orgs/3_ietf.html) with an overview of working groups whose work that has human right considerations.  Also, the IETF itself publishes lists of new topics at IETF meetings through its blog article [Suggested IETF 125 Sessions for Getting Familiar with New Topics](https://www.ietf.org/blog/ietf125-new-topics/). 
 
  ## Curation
 
@@ -22,8 +23,5 @@ Working groups that are clearly technical building blocks and do not have any id
 This document is a living document. We try to update the information shortly before an IETF meeting, but may push new versions in between meetings too.
 
 ## Recent Changes
-This version of the Ornithology has been updated for IETF 124. Times are indicative only. Verify time slots of interest using the [IETF meeting agenda](https://datatracker.ietf.org/meeting/124/agenda).
+This version of the Ornithology has been updated for IETF 125. Times are indicative only. Verify time slots of interest using the [IETF meeting agenda](https://datatracker.ietf.org/meeting/125/agenda).
 
-We have added a line for each group on why we believe the group has potential public policy interests.
-
-We removed [HAPPY](https://datatracker.ietf.org/group/happy/about/) from the curation, since we found it difficult to argue it has potential policy interest.

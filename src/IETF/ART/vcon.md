@@ -1,6 +1,6 @@
 # Virtualized Conversations(vcon)
 
-* <IETFschedule>IETF124: Fri 07 Nov 2025 14:30 - Notre Dame</IETFschedule>
+* <IETFschedule meets=false>VCON likely does not meet at IETF125</IETFschedule>
 * [About VCON](https://datatracker.ietf.org/group/vcon/about/)
 * Potentially of interest because: privacy issues involved in handling human conversations.
 * Keywords: privacy, user data

@@ -3,7 +3,7 @@ authors = ["Olaf Kolkman (editor)"]
 language = "en"
 multilingual = false
 src = "src"
-title = "IETF Ornithology: Potential Public Policy Aspects in IETF 124"
+title = "IETF Ornithology: Potential Public Policy Aspects in IETF 125"
 
 
 
@@ -12,7 +12,8 @@ title = "IETF Ornithology: Potential Public Policy Aspects in IETF 124"
 
 git-repository-url = "https://github.com/internetsociety/IETF-Ornithology/"
 pdf-download-url = "https://internetsociety.github.io/IETF-Ornithology/IETF-Ornithology.pdf"
-
+theme = "ornitheme"
+favicon_png ="https://www.internetsociety.org/wp-content/themes/isoc/dist/images/favicon/favicon-96x96.png"
 
 # [preprocessor.last-changed]
 # command = "mdbook-last-changed"

@@ -1,5 +1,5 @@
-# MODeration PrOceDures working group
-* <IETFschedule>IETF124: Fri 07 Nov 2025 11:30 - Van Horne</IETFschedule>
+# MODeration PrOceDures (modprod)
+* <IETFschedule meets=false>MODPOD likely does not meet at IETF125</IETFschedule>
 * [MODPOD](https://datatracker.ietf.org/group/modpod/about/) 
 * Potentially of interest because: relevance to the IETF's self-governance and culture.
 * Keywords: IETF governance, culture

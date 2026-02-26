@@ -1,5 +1,5 @@
-# Global Access to the Internet for All(gaia)
-* <IETFschedule>IETF123: Fri 25 Jul 2025 09:30 - Castilla</IETFschedule>
+# Global Access to the Internet for All (gaia)
+* <IETFschedule meets=true>IETF125: Tue 17 Mar 2026 09:00 - Guangdong</IETFschedule>
 * [About GAIA](https://datatracker.ietf.org/group/gaia/about/)
 * Potentially of interest because:the group studies digital development and divides issues. 
 * keywords: equality, digital divide
