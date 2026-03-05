@@ -6,7 +6,7 @@ Here we enumerate all BoFs that we identified. We provide a high-level summary a
 
 Often, before working groups are formed, meetings are organized to assess if there is enough clarity and interest around a particular issue to form a working group. 
 
-At IETF125 there are two BOFs scheuled:
+At IETF125 there are two BOFs scheduled:
 
 * [Operationalizing Network & SErvice abstractioNs(onsen)](./onsen.md)
 * [Coordinating Agent To Agent List of efforts(catalist)](./catalist.md)    
