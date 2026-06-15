@@ -1,5 +1,5 @@
 # Taking IP To Other Planets (tiptop)
-* <IETFschedule meets=true>IETF125: Tue 17 Mar 2026 09:00 - Shangri-la Ballroom 2</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About TIPTOP](https://datatracker.ietf.org/group/tiptop/about/) 
 * Potentially of interest because: its relation to space programs
 * Keywords: space

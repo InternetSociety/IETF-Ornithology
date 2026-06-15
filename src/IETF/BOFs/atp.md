@@ -1,6 +1,6 @@
 # Authenticated Transfer (atp)
 
-* <IETFschedule meets=false>ATP likely does not meet at IETF125</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-newbold-authenticated-transfer/)
 * Potentially of interest because: Social media portability and interoperability.
 * Keywords:  Social media.

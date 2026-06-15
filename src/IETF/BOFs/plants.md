@@ -1,5 +1,5 @@
 # PKI, Logs, And Tree Signatures (plants)
-* <IETFschedule meets=true>IETF125: Mon 16 Mar 2026 16:30 - Grand Ballroom 3</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-westerbaan-pki-logs-and-tree-signatures-plants/)
 * Potentially of interest because: Impact of post-quantum signatures on the Internet's authentication infrastructure
 * Keywords:  security, encryption, post-quantum

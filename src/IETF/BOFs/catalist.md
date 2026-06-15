@@ -1,5 +1,5 @@
 # Coordinating Agent To Agent List of efforts (catalist)
-* <IETFschedule meets=true>IETF125: Wed 18 Mar 2026 09:00 - Grand Ballroom 1</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-farrel-coordinating-agent-to-agent-list-of-efforts-catalist/)
 * Potentially of interest because: Will give an overview of AI agent-to-agent work. 
 * Keywords: AI

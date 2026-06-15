@@ -1,5 +1,5 @@
 # Human Rights Protocol Considerations (hrpc)
-* <IETFschedule meets=true>IETF125: Mon 16 Mar 2026 16:30 - Grand Ballroom 2</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About HRPC](https://datatracker.ietf.org/group/hrpc/about/)
 * Potentially of interest because:the human right focus of the group.
 * Keywords: Human rights

@@ -1,5 +1,5 @@
 # Remote ATtestation ProcedureS (rats)
-* <IETFschedule meets=true>IETF125: Wed 18 Mar 2026 09:00 - Auditorium</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About RATS](https://datatracker.ietf.org/group/rats/about/)
 * Potentially of interest because: validation of remote parties in cybersecurity context.
 * Keywords: supply chain, transitive trust

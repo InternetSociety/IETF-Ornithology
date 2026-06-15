@@ -1,5 +1,5 @@
 # Drone Remote ID Protocol (drip) 
-* <IETFschedule meets=false>DRIP likely does not meet at IETF125</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About DRIP](https://datatracker.ietf.org/group/drip/about/) 
 * Potentially of interest because: its links to aviation requirements
 * Keywords: drones, safety

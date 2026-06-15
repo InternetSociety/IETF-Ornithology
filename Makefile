@@ -25,7 +25,7 @@ bofs:
 clean:
 	rm -Rf book
 
-disclean: 
+distclean: 
 	rm -Rf book
 	rm src/SUMMARY.md
 	`find src -name "*.md" -exec sed -i .bak 's/.*<IETFschedule.*>.*<\/IETFschedule>/<IETFschedule meets=false><\/IETFschedule>/' {} \;`

@@ -1,7 +1,7 @@
 # Authenticated Transfer (atp) 
 <IETFornithology forcepublication=true />
 
-* <IETFschedule meets=false>ATP likely does not meet at IETF125</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [Draft Charter](https://datatracker.ietf.org/doc/charter-ietf-atp/)
 * Potentially of interest because: Social media portability and interoperability and autonomy of users.
 * Keywords:  Social media, (user) autonomy

@@ -1,5 +1,5 @@
 # More Instant Messaging Interoperability (mimi)
-* <IETFschedule meets=false>MIMI likely does not meet at IETF125</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About MIMI](https://datatracker.ietf.org/group/mimi/about)
 * Potentially of interest because: requirement of message interoperability in the Digital Markets Act (DMA)
 * Keywords: messaging, Digital Market Act, interoperability  

@@ -1,5 +1,5 @@
 # Operationalizing Network & SErvice abstractioNs(onsen)
-* <IETFschedule meets=true>IETF125: Tue 17 Mar 2026 09:00 - Grand Ballroom 1</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-clarke-operationalizing-network-service-abstractions-onions/)
 * Potentially of interest because: we do not identify public policy interests
 * Keywords: network management
