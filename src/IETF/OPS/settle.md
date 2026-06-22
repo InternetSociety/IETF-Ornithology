@@ -5,7 +5,6 @@
 * Potentially of interest because: improving the usability of (existing) encryption technology in local domains such as homes or for SMEs.
 * Keywords: Encryption, Certificate Authority
 
-<IETFornithology forcepublication=true />
 
 SETTLE aims to provide practical deployment and operational guidance for creating a [secure context](https://www.w3.org/TR/secure-contexts/) when servers run in environment where obtaining or configuring public certificates is difficult. The BoF request provides a few examples of the difficulties in those environments:
 * they are not directly reachable from the outside (due to firewall or Network Address Port Translation (NAPT)),
