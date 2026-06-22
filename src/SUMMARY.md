@@ -26,7 +26,6 @@
       - [Getting Ready for Energy Efficient Networking (green)](./IETF/OPS/green.md)
       - [Network Inventory YANG (ivy)](./IETF/OPS/ivy.md)
       - [Network Management Operations (nmop)](./IETF/OPS/nmop.md)
-      - [SEcure access To Tls Local rEsources ()](./IETF/OPS/settle.md)
       - [SRv6 Operations (srv6ops)](./IETF/OPS/srv6ops.md)
     - [Security Area](IETF/SEC/intro.md)
       - [Messaging Layer Security (mls)](./IETF/SEC/mls.md)

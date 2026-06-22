@@ -23,5 +23,7 @@ Working groups that are clearly technical building blocks and do not have any id
 This document is a living document. We try to update the information shortly before an IETF meeting, but may push new versions in between meetings too.
 
 ## Recent Changes
-This version of the Ornithology has been updated for IETF 126. Times are indicative only. Verify time slots of interest using the [IETF meeting agenda](https://datatracker.ietf.org/meeting/126/agenda).
+This version of the Ornithology has been updated for IETF 126.
+
+We have added [links to the datatracker agenda and calendar subscriptions](agenda.md) containing all the groups discussed in this document. 
 
