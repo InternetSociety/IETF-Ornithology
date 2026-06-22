@@ -115,3 +115,7 @@ Invoked with `make bofs`
 Looks for which BOFs are approved for a given meeting  and will add template files to src/IETF/BOFs
 
 Manually copy the generated enumeration to the src/IETF/BOFs/intro.md
+
+### create_agendURL.py
+
+Is invoked by `make updateagena` and will create a agenda.md which is included in the introduction. That subsectionprovides a link to the datatracker agenda with the groups in the document meeting for the current IETF.

@@ -1,0 +1,7 @@
+
+### Agenda
+ You view the [datatrakcker page](https://datatracker.ietf.org/meeting/126/agenda?filters=dawn,ptth,agentproto,dmsc,current,mls,webbotauth,scitt,seat,rats,plants,spice,suit,stir,satp,atp,wimse,regext,rpp,dconn,diem,vcon,aipref,scone,masque,tiptop,deleg,ivy,green,srv6ops,nmop,iabopen,hrpc,rasprg,cfrg,gaia,dinrg,qirg,pearg,sustain) with all groups mentioned that meet during IETFl126.
+
+
+ You can subscribe to the calendar with the following using a [webcal](webcal://datatracker.ietf.org/meeting/126/agenda.ics?show=dawn,ptth,agentproto,dmsc,current,mls,webbotauth,scitt,seat,rats,plants,spice,suit,stir,satp,atp,wimse,regext,rpp,dconn,diem,vcon,aipref,scone,masque,tiptop,deleg,ivy,green,srv6ops,nmop,iabopen,hrpc,rasprg,cfrg,gaia,dinrg,qirg,pearg,sustain) or an [ics](https://datatracker.ietf.org/meeting/126/agenda.ics?show=dawn,ptth,agentproto,dmsc,current,mls,webbotauth,scitt,seat,rats,plants,spice,suit,stir,satp,atp,wimse,regext,rpp,dconn,diem,vcon,aipref,scone,masque,tiptop,deleg,ivy,green,srv6ops,nmop,iabopen,hrpc,rasprg,cfrg,gaia,dinrg,qirg,pearg,sustain) link.
+

@@ -62,6 +62,7 @@ def GrepTitle(path):
 
 
 print ("[Introduction](./Introduction.md)")
+print ("[agenda](./agenda.md)")
 print (indent + "- [The IETF](./IETF/intro.md)")
 print (indent + indent + "- [New Working Groups](./IETF/NewWG.md)")
 for subdir in IETFGroupOrder:

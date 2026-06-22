@@ -9,7 +9,7 @@ One working group has been chartered since IETF 125.
 
 The following groups are in the process of being (initially) chartered.
 
- * OPS: [SEcure access To Tls Local rEsources(SETTLE)](OPS/settle.md) ([charter](https://datatracker.ietf.org/doc/charter-ietf-settle)). 
+ * OPS: SEcure access To Tls Local rEsources(SETTLE)([charter](https://datatracker.ietf.org/doc/charter-ietf-settle)). 
  
    TLS secures most of our web traffic. The availability of provisioning protocols like the [Automatic Certificate Management Environment (ACME)(RFC8555)](https://datatracker.ietf.org/doc/html/rfc8555/) has made prolific deployment of TLS a possibility. However, in local networks it is almost prohibitively difficult to configure the certificates needed for connections secured with TLS.  The result is that in local environment will get warnings from e.g. their browsers when they try to connect to servers in the local network–that while users getting used to warnings is generally bad for cyber-hygiene.  This working group intends to give operational guidance on how to configure these secure context on local networks. Eventually this work improves the usability of (existing) encryption technology in local domains such as homes or enterprise networks.
 
@@ -23,14 +23,14 @@ The following groups are in the process of being (initially) chartered.
 
    Service abstractions can be used to simplify complexities in the network and make them easier to manage by hiding the complicated details and showing only the important parts.
 
-   This group will look at the operational workflows for deploying, monitoring, troubleshooting, and evolving service abstractions
+   This group will look at the operational workflows for deploying, monitoring, troubleshooting, and evolving service abstractions. This work is purely operation in nature; we do not recognize any public policy relation.
 
 
  * RTG: Fast Network Notifications(FANN) ([charter](https://datatracker.ietf.org/doc/charter-ietf-fann)). 
 
    The work in this group is inspired by the high demands that modern applications–the charter mentions AI and LLMs–put on (e.g. and mainly) datacenter networks. The group will work on notification mechanism that nodes in the network that detect variations in quality can use to signal these promptly so that corrective action can be taken elsewhere in the network. W
   
-   We do not recognize any public policy issues in this work.
+   We do not recognize any public policy issues in this work as it is also purely operational
 
  See the IETF datatracker for a full [overview of chartering or re-chartering groups](https://datatracker.ietf.org/group/chartering/)
 
