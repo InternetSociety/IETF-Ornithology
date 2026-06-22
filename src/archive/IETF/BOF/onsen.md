@@ -1,5 +1,5 @@
 # Operationalizing Network & SErvice abstractioNs(onsen)
-* <IETFschedule meets=true>IETF126: Thu 23 Jul 2026 14:00 - Park Suite 7</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-clarke-operationalizing-network-service-abstractions-onions/)
 * Potentially of interest because: we do not identify public policy interests
 * Keywords: network management

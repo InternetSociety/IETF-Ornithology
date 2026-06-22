@@ -4,4 +4,4 @@
 * Potentially of interest because:the group studies digital development and divides issues. 
 * keywords: equality, digital divide
 
-Assesses means to bridge the digital connectivity divide.
+Assess means to bridge the digital connectivity divide.

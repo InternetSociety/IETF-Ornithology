@@ -6,4 +6,4 @@
 
 
 Proxies are an established mechanism to tunnel traffic across the network (VPNs being an example). This working group specifies a proxying mechanism based on the relatively new QUIC transport protocol.  
- Section 2 of [draft-schinazi-masque-proxy](https://datatracker.ietf.org/doc/draft-schinazi-masque-proxy/) describes some of the privacy protections masque proxies offer.
+ Section 2 of [draft-schinazi-masque-proxy](https://datatracker.ietf.org/doc/draft-schinazi-masque-proxy/) describes some privacy protections masque proxies offer.

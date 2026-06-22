@@ -1,6 +1,6 @@
 # SRv6 Operations (srv6ops)
 
-* <IETFschedule meets=true>IETF126: Tue 21 Jul 2026 11:00 - Grand Klimt Hall 1</IETFschedule>
+* <IETFschedule meets=true>IETF126: Tue 21 Jul 2026 11:00 - Grand Park Hall 2</IETFschedule>
 * [About SRV6OPS](https://datatracker.ietf.org/group/srv6ops/about/)
 * Potentially of interest because: the creation of central network controls.
 

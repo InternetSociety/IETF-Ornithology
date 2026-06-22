@@ -1,5 +1,5 @@
 # DNS Delegation (deleg)
-* <IETFschedule meets=true>IETF126: Fri 24 Jul 2026 14:00 - Grand Park Hall 3</IETFschedule>
+* <IETFschedule meets=true>IETF126: Fri 24 Jul 2026 14:00 - Grand Park Hall 1</IETFschedule>
 * [About ADD](https://datatracker.ietf.org/group/deleg/about/) 
 * Potentially of interest because:potential (but unlikely) changes in business relations in the DNS value chain
 * Keywords: operations, DNS
