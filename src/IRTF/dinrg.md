@@ -1,5 +1,5 @@
 # Decentralization of the Internet Research Group (dinrg)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF126: Tue 21 Jul 2026 16:30 - Grand Park Hall 2</IETFschedule>
 * [About DINRG](https://datatracker.ietf.org/group/dinrg/about/) 
 * Potentially of interest because: centralization of (economic) power has large societal impact
 * keywords: centralization, consolidation

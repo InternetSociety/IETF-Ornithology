@@ -1,0 +1,10 @@
+# Web Bot Auth (webbotauth)
+* <IETFschedule meets=true>IETF126: Wed 22 Jul 2026 09:00 - Grand Klimt Hall 2</IETFschedule>
+* [About WEBBOTAUTH](https://datatracker.ietf.org/group/webbotauth/about/)
+* Potentially of interest because: potentially more control by server operators on what bots are given access to their data.
+* Keywords: AI, search
+
+Web bots crawl the World Wide Web constantly and servers of web content and are interested in identifying robotic web agents using cryptographic mechanism to identify robots. Which will go beyond heuristics based on their source IP address, their names - as queried in the reverse DNS, or based on the user-agent claims made by the bots in the header.
+
+The protagonists are working on the mailing list to define a [draft charter](https://docs.google.com/document/d/1cNksLq-nd1_ALHhGYTEG_g3RaNGeWrDMHXLORwV0dY8/edit?tab=t.0#heading=h.te2o0wma1yzc).
+

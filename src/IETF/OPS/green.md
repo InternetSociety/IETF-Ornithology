@@ -1,5 +1,5 @@
 # Getting Ready for Energy Efficient Networking (green)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF126: Mon 20 Jul 2026 16:30 - Grand Klimt Hall 1</IETFschedule>
 * [About GREEN](https://datatracker.ietf.org/doc/charter-ietf-green)
 * Potentially of interest because: understanding and limiting environmental impacts. 
 * Keywords: energy, global warming

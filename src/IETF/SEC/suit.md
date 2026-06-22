@@ -1,5 +1,5 @@
 # Software Updates for Internet of Things (suit)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF126: Wed 22 Jul 2026 11:30 - Park Suite 6</IETFschedule>
 * [About SUIT](https://datatracker.ietf.org/group/suit/about/)
 * Potentially of interest because: necessity for IoT security  
 * Keywords: IoT, security

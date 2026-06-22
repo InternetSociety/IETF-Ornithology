@@ -1,6 +1,6 @@
 # Virtualized Conversations(vcon)
 
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF126: Wed 22 Jul 2026 14:00 - Park Suite 8</IETFschedule>
 * [About VCON](https://datatracker.ietf.org/group/vcon/about/)
 * Potentially of interest because: privacy issues involved in handling human conversations.
 * Keywords: privacy, user data

@@ -1,5 +1,5 @@
 # Post-Quantum Use In Protocols (pquip)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=false>PQUIP likely does not meet at IETF126</IETFschedule>
 * [About PQUIP](https://datatracker.ietf.org/group/pquip/about/)
 * Potentially of interest because: potential impact on (future) cybersecurity.
 * Keywords: encryption, confidentiality, quantum resistance.  

@@ -1,6 +1,6 @@
 # Sustainability and the Internet Research Group (sustain)
 
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF126: Thu 23 Jul 2026 09:00 - Grand Klimt Hall 1</IETFschedule>
 * [About SUSTAIN](https://datatracker.ietf.org/group/sustain/about/)
 * Potentially of interest because: strong link to the SDG
 * keywords: equality, digital divide

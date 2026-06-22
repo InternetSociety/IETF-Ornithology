@@ -1,5 +1,5 @@
 # Detecting Unwanted Location Trackers (dult)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=false>DULT likely does not meet at IETF126</IETFschedule>
 * [About Dult](https://datatracker.ietf.org/group/dult/about/) 
 * Potentially of interest because: personal safety issues that come with location tracking (stalking, domestic violence)
 * Keywords: privacy, personal safety

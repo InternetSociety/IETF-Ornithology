@@ -1,5 +1,5 @@
 # Secure Telephony Identity Revisited (stir)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF126: Tue 21 Jul 2026 09:00 - Grand Park Hall 2</IETFschedule>
 * [About STIR](https://datatracker.ietf.org/group/stir/about/)
 * Potentially of interest because: prevention of telephone scams
 * Keywords: spam, anonymity, telephony.

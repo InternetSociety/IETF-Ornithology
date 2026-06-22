@@ -1,10 +1,10 @@
 # Coordinating Agent To Agent List of efforts (catalist)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=false>CATALIST likely does not meet at IETF126</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-farrel-coordinating-agent-to-agent-list-of-efforts-catalist/)
 * Potentially of interest because: Will give an overview of AI agent-to-agent work. 
 * Keywords: AI
 
-This is a non-WG-forming effort to coordinate among the various initiatives to develop IETF work on AI agent-to-agent communications.
+This is a non-working group forming effort to coordinate among the various initiatives to develop IETF work on AI agent-to-agent communications.
 
 * Summarize the ecosystem, including work occurring outside the IETF at W3C, 3GPP, and the Linux Foundation
 *. Summarize work occurring in IETF side meetings and progressing on mailing lists.

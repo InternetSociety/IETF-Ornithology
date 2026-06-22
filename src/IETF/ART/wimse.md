@@ -1,6 +1,6 @@
 # Workload Identity in Multi System Environments (wimse)
 
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF126: Mon 20 Jul 2026 14:00 - Park Suite 8</IETFschedule>
 * [About WIMSE](https://datatracker.ietf.org/group/wimse/about/)
 * Potentially of interest because: enabler of platform interoperability.
 * Keywords: Cloud service portability
