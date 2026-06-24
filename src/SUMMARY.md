@@ -1,5 +1,5 @@
 [Introduction](./Introduction.md)
-[agenda](./agenda.md)
+[Agenda](./agenda.md)
   - [The IETF](./IETF/intro.md)
     - [New Working Groups](./IETF/NewWG.md)
     - [Birds of a Feather (BoFs) ](IETF/BOFs/intro.md)

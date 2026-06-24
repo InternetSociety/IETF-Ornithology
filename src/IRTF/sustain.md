@@ -7,5 +7,5 @@
 
 The charter of the group is clear: The goal of the SUSTAIN RG is to contribute to the advancement of the
 Internet as a fundamental part of sustainable and resilient societies and
-the planet, through conceptual and evidence-based multi-disciplinary
+the planet, through conceptual and evidence-based multidisciplinary
 research collaboration.

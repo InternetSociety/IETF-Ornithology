@@ -28,7 +28,7 @@ https_url = f"https://datatracker.ietf.org/meeting/{meeting_num}/agenda?filters=
 
 
 
-print(f"\n### Agenda\n You view the [datatrakcker page]({https_url}) with all groups mentioned that meet during IETFl{meeting_num}.")
+print(f"\n### Agenda\n You view the [datatrakcker page]({https_url}) with all groups mentioned in this document and that meet during IETFl{meeting_num}.")
 print (f"\n\n You can subscribe to the calendar with the following using a [webcal]({webcal_url}) or an [ics]({ics_url}) link.\n")
 print (f"Note that times in the calendar, and in this document are subject to change.")
 
