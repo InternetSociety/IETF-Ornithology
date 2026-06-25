@@ -1,5 +1,5 @@
 # RESTful Provisioning Protocol (rpp)
-* <IETFschedule meets=true>IETF126: Tue 21 Jul 2026 11:00 - Park Suite 7</IETFschedule>
+* <IETFschedule meets=true>IETF126: Tue 21 Jul 2026 16:30 - Park Suite 6</IETFschedule>
 * [About RPP](https://datatracker.ietf.org/group/rpp/about/)
 *
 * Keywords: DNS value chain.
