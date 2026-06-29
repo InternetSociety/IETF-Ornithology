@@ -1,7 +1,7 @@
 # Secure Evidence and Attestation Transport (seat)
 
 
-* <IETFschedule meets=true>IETF126: Tue 21 Jul 2026 11:00 - Grand Klimt Hall 2</IETFschedule>
+* <IETFschedule meets=true>IETF126: Tue 21 Jul 2026 11:00 - Grand Klimt Hall 1</IETFschedule>
 * [About SEAT](https://datatracker.ietf.org/wg/seat/about/)
 * Potentially of interest because:Attestation, when used on the Internet, may lead to gatekeeping and privacy issues.
 * Keywords:  security, ioT privacy
