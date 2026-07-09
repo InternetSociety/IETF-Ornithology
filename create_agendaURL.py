@@ -52,7 +52,7 @@ def build_group_file_map():
 
         if stem not in group_files:
             relative = md_file.relative_to(src_dir).as_posix()
-            group_files[stem] = f"./{relative}"
+            group_files[stem] = f"../{relative}"
 
     return group_files
 
@@ -94,21 +94,30 @@ https_url = f"https://datatracker.ietf.org/meeting/{meeting_num}/agenda?filters=
 
 
 
-print(f"\n### Agenda\n You view the [datatrakcker page]({https_url}) with all groups mentioned in this document and that meet during IETFl{meeting_num}.")
+print(f"\n# Agenda\n You view the [datatrakcker page]({https_url}) with all groups mentioned in this document and that meet during IETFl{meeting_num}.")
 print (f"\n\n You can subscribe to the calendar with the following using a [webcal]({webcal_url}) or an [ics]({ics_url}) link.\n")
 print (f"Note that times in the calendar, and in this document are subject to change.")
 print ("## Quick Glance\n")
 if rows:
-    print("\n\n|  Time | Room | Group |")
-    print("|---|---|---|")
+    print("\n\n| Group | Room |")
+    print("|:---------|---:|")
+    current_time = None
+    not_first_time = False
     for group, meeting_time, room in rows:
+        if meeting_time != current_time:
+            if not_first_time :
+                print("|<hr/>| <hr/>|")
+            print(f"| **{meeting_time}** <br/>| |")
+            not_first_time = True
+            current_time = meeting_time
+
         group_link = group_file_map.get(group.lower())
         group_expansion = group_expansions.get(group.lower(), "").replace("|", "\\|")
         if group_expansion:
-            display_name = f"{group} [{group_expansion}]"
+            display_name = f"{group_expansion} ({group})"
         else:
             display_name = group
-
+  #      display_name = group
         group_cell = f"[{display_name}]({group_link})" if group_link else display_name
-        print(f"| {meeting_time} | {room} | {group_cell} |")
+        print(f"| {group_cell} | {room} |")
 

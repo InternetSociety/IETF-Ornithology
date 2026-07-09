@@ -1,5 +1,4 @@
 [Introduction](./Introduction.md)
-[Agenda](./agenda.md)
   - [The IETF](./IETF/intro.md)
     - [New Working Groups](./IETF/NewWG.md)
     - [Birds of a Feather (BoFs) ](IETF/BOFs/intro.md)
@@ -52,4 +51,6 @@
   - [The Internet Architecture Board](IAB/intro.md)
     - [IAB Open](./IAB/iabopen.md)
   - [During an IETF meeting](./Meeting/intro.md)
-  [Appendix About this document](./AboutThisDocument.md)
+  - [Appendix](./Appendix/intro.md)
+    - [Agenda](./Appendix/agenda.md)
+    - [About this document](./Appendix/AboutThisDocument.md)

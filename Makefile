@@ -9,7 +9,7 @@ all: book
 book: book/pandoc/pdf/IETF-Ornithology.pdf
 
 
-book/pandoc/pdf/IETF-Ornithology.pdf: ${SUBDIR_OBJECTS} src/agenda.md 
+book/pandoc/pdf/IETF-Ornithology.pdf: ${SUBDIR_OBJECTS} src/Appendix/agenda.md 
 	( cd src ; ../CreateSummary.py > SUMMARY.md )  
 	mdbook build
 
@@ -18,19 +18,19 @@ updateagenda:
 	find src/IETF   -name "*.md"  -exec  ./AgendaUpdate.py ${MEETING} ${TZ} {}  \; | tee -a groupsmeeting.txt
 	find src/IAB   -name "*.md"  -exec  ./AgendaUpdate.py ${MEETING} ${TZ} {}  \; | tee -a groupsmeeting.txt
 	find src/IRTF   -name "*.md"  -exec  ./AgendaUpdate.py ${MEETING} ${TZ} {}  \; | tee -a groupsmeeting.txt	
-	python ./create_agendaURL.py ${MEETING}  groupsmeeting.txt  > src/agenda.md
+	python ./create_agendaURL.py ${MEETING}  groupsmeeting.txt  > src/Appendix/agenda.md
 	rm groupsmeeting.txt
 	touch updateagenda
 
 
 
-src/agenda.md: updateagenda
+src/Appendix/agenda.md: updateagenda
 
 bofs:
 	./ApprovedBOFs.py ${MEETING} 
 
 clean:
-	rm -Rf book updateagenda src/agenda.md
+	rm -Rf book updateagenda src/Appendix/agenda.md
 
 distclean: 
 	rm -Rf book
