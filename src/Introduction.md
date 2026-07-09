@@ -25,5 +25,5 @@ This document is a living document. We try to update the information shortly bef
 ## Recent Changes
 This version of the Ornithology has been updated for IETF 126.
 
-We have added [links to the datatracker agenda and calendar subscriptions](agenda.md) containing all the groups discussed in this document. 
+In the Appendix have added [an agenda section](./Appendix/agenda.md) that includes links to the datatracker agenda and calendar subscriptions with all the groups discussed in this document. That section also contains a table with an overview of when the groups mentioned in this document meet.  i
 
