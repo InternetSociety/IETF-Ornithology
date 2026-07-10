@@ -1,5 +1,5 @@
 # MODeration PrOceDures (modprod)
-* <IETFschedule meets=false>MODPOD likely does not meet at IETF126</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [MODPOD](https://datatracker.ietf.org/group/modpod/about/) 
 * Potentially of interest because: relevance to the IETF's self-governance and culture.
 * Keywords: IETF governance, culture

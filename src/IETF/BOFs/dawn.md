@@ -1,5 +1,5 @@
 # Discovery of Agents, Workloads, and Named entities (dawn)
-* <IETFschedule meets=true>IETF126: Tue 21 Jul 2026 14:00 - Grand Park Hall 3</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-farrel-discovery-of-agents-workloads-and-named-entities/)
 * Potentially of interest because: Having solutions in this space is important, but we do not identify public policy issues in the work itself.
 * Keywords: Agentic AI, service discovery

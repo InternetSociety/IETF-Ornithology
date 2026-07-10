@@ -1,5 +1,5 @@
 # Messaging Layer Security (mls)
-* <IETFschedule meets=true>IETF126: Tue 21 Jul 2026 11:00 - Park Suite 8</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About MLS](https://datatracker.ietf.org/group/mls/about/)
 * Potentially of interest because: interoperability requirements out of the European digital marketing act (DMA).
 

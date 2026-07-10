@@ -1,5 +1,5 @@
 # Taking IP To Other Planets (tiptop)
-* <IETFschedule meets=true>IETF126: Wed 22 Jul 2026 09:00 - Grand Klimt Hall 1</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About TIPTOP](https://datatracker.ietf.org/group/tiptop/about/) 
 * Potentially of interest because: its relation to space programs
 * Keywords: space

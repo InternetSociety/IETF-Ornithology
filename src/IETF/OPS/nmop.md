@@ -1,5 +1,5 @@
 # Network Management Operations (nmop)
-* <IETFschedule meets=true>IETF126: Mon 20 Jul 2026 09:00 - Grand Klimt Hall 2</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About NMOP](https://datatracker.ietf.org/group/nmop/about/)
 * Potentially of interest because: NOT so much - near time.
 

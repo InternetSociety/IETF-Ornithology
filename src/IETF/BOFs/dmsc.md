@@ -1,5 +1,5 @@
 # Dynamic Multi-agent Secured Collaboration(dmsc)
-* <IETFschedule meets=true>IETF126: Wed 22 Jul 2026 09:00 - Grand Park Hall 3</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [BoF request]( LOOK UP )
 * Potentially of interest because: Agentic AI - Interoperability open standards allow for multivendor environments in this rapidly developing field. The work deals with gateways which can be (inadvertently) a point of control, given the, in our understanding, local scope we are not alarmed.
 * Keywords:  Agentic AI

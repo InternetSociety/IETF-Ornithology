@@ -1,5 +1,5 @@
 # Security Dispatch (secdispatch)
-* <IETFschedule meets=false>SECDISPATCH likely does not meet at IETF126</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About SECDISPATCH](https://datatracker.ietf.org/group/secdispatch/about/)
 * Potentially of interest because:The early warning nature of these meetings where new proposals enter to the IETF.
 * Keywords: security

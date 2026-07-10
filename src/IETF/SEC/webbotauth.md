@@ -1,5 +1,5 @@
 # Web Bot Auth (webbotauth)
-* <IETFschedule meets=true>IETF126: Wed 22 Jul 2026 09:00 - Grand Klimt Hall 2</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About WEBBOTAUTH](https://datatracker.ietf.org/group/webbotauth/about/)
 * Potentially of interest because: potentially more control by server operators on what bots are given access to their data.
 * Keywords: AI, search

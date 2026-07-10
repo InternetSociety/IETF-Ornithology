@@ -1,5 +1,5 @@
 # Digital Emblems (diem)
-* <IETFschedule meets=true>IETF126: Thu 23 Jul 2026 14:00 - Grand Park Hall 1</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About DIEM](https://datatracker.ietf.org/group/diem/about)
 * Potentially of interest because:humanitarian significance.
 * Keywords: cyber stability, humanitarian law

@@ -1,5 +1,5 @@
 # 	Standard Communication with Network Elements (scone)
-* <IETFschedule meets=true>IETF126: Fri 24 Jul 2026 09:00 - Grand Klimt Hall 2</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About SCONE](https://datatracker.ietf.org/doc/charter-ietf-scone/)
 * Potentially of interest because: resolves tensions between various actors in the ecosystem and its relation to net neutrality (dare we say it).
 * Keywords: access/content interaction, Quality of Experience (QoE).

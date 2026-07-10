@@ -1,6 +1,6 @@
 # Network Inventory YANG (ivy)
 
-* <IETFschedule meets=true>IETF126: Tue 21 Jul 2026 09:00 - Park Suite 8</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About IVY](https://datatracker.ietf.org/group/ivy/about/)
 * Potentially of interest because: cybersecurity aspects of knowing ones network. There may be regulatory interest in knowing what equipment exists in operator networks. 
 * Keywords: security, privacy

@@ -1,5 +1,5 @@
 # Agent Communication Protocols (agentproto)
-* <IETFschedule meets=true>IETF126: Thu 23 Jul 2026 09:00 - Grand Park Hall 3</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-krishnan-agent-communication-protocols/)
 * Potentially of interest because: 
 * Keywords: Agentic AI

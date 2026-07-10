@@ -1,5 +1,5 @@
 # Adaptive DNS Discovery (add)
-* <IETFschedule meets=false>ADD likely does not meet at IETF126</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About ADD](https://datatracker.ietf.org/group/add/about/)
 * Potentially of interest because: control over name resolution.
 * Keywords: encryption, DNS

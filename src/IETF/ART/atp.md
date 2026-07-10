@@ -1,7 +1,7 @@
 # Authenticated Transfer (atp) 
 <IETFornithology forcepublication=false />
 
-* <IETFschedule meets=true>IETF126: Thu 23 Jul 2026 16:30 - Grand Klimt Hall 1</IETFschedule>
+<IETFschedule meets=false></IETFschedule>
 * [About ATP](https://datatracker.ietf.org/group/atp/about/)
 * Potentially of interest because: Social media portability and interoperability and autonomy of users.
 * Keywords: Social media, (user) autonomy
