@@ -4,7 +4,7 @@
 
 This document serves as an aid for people who are observing the work in the Internet Engineering Task Force (IETF) from a policy-based perspective. We have tried to indicate which activities might be of policy interest.
 
-This is not the only curated list for people with other than technical interest of IETF activity. [Article 19 produced a web page](https://almanac.article19.org/orgs/3_ietf.html) with an overview of working groups whose work that has human right considerations. Also, the IETF itself publishes lists of new topics at IETF meetings through a blog article which we anticipate to appear at [Suggested IETF 126 Sessions for Getting Familiar with New Topics](https://www.ietf.org/blog/ietf126-new-topics/).
+This is not the only curated list for people with other than technical interest of IETF activity. [Article 19 produced a web page](https://almanac.article19.org/orgs/3_ietf.html) with an overview of working groups whose work that has human right considerations. Also, the IETF itself publishes lists of new topics at IETF meetings through a blog article which we anticipate to appear at [Suggested IETF 127 Sessions for Getting Familiar with New Topics](https://www.ietf.org/blog/ietf127-new-topics/).
 
  ## Curation
 
@@ -19,11 +19,12 @@ Our approach is as follows:
 
 Working groups that are clearly technical building blocks and do not have any identifiable public policy angles are not mentioned. For the working groups that are mentioned we have tried to indicate, with the keywords, where public policy issues might arise - if only during the use of the technical building blocks when designing and implementing systems.
 
-
 This document is a living document. We try to update the information shortly before an IETF meeting, but may push new versions in between meetings too.
 
-## Recent Changes
-This version of the Ornithology has been updated for IETF 126.
+Finally, for transparency, the editor uses artificial intelligence during editing. Assessments, initial writing, and editorial decisions and responsibility are the editor's.
 
-In the Appendix have added [an agenda section](./Appendix/agenda.md) that includes links to the datatracker agenda and calendar subscriptions with all the groups discussed in this document. That section also contains a table with an overview of when the groups mentioned in this document meet.  i
+## Recent Changes
+This version of the Ornithology has been updated for IETF 127.
+
+
 

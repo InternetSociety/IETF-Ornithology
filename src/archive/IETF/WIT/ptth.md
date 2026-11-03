@@ -1,6 +1,6 @@
 # Protocol for Transposed Transactions over HTTP (ptth)
 <IETFschedule meets=false></IETFschedule>
-* [BoF request](https://datatracker.ietf.org/doc/bofreq-rosomakho-protocol-for-transposed-transactions-over-http-ptth/)
+* [Abbout PTTH](https://datatracker.ietf.org/group/ptth/about))
 * Potentially of interest because: except for a protocol offering another tool in the cybersecurity toolbox for server maintainers, we do not identify public policy links.
 * Keywords: http, zero-trust
 

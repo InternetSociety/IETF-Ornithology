@@ -1,5 +1,5 @@
-MEETING=126
-TZ=Europe/Vienna
+MEETING=127
+TZ=America/Los_Angeles
 
 SUBDIR_ELEMENTS = IETF IAB IRTF
 SUBDIR_OBJECTS = $(shell find src -name "*.md")

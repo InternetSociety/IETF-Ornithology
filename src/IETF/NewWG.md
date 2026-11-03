@@ -1,11 +1,24 @@
 # New Working Groups
 
-One working group has been chartered since IETF 125.
- * ART: JSON Schema(JSONSCHEMA) was [chartered](https://datatracker.ietf.org/doc/charter-ietf-jsonschema) 30 April 2026
-   The JavaScript Object Notation (JSON) is a widely popular data format to store and exchange data in a program language independent and human-readable way.  JSON Schema is a language to describe data structures of JSON document (with JSON Schema being JSON documents itself). This Schema language has never been standardized, even though it is in wide use. This working group will attempt to document the language in a standards track RFC.
-  
-   We do not recognize any public policy issues in this work.
+Six working groups have been chartered since IETF 126.
+ 
+ 
+ * INT: Discovery of Agents With Names(DAWN) was [chartered](https://datatracker.ietf.org/doc/charter-ietf-dawn) 22 October, 2026
+ 
+ The ability to automatically discover what capabilities certain services can offer has always been important. With the rise of Agentic AI the scale and requirements how clients discover their capabilities has changed significantly.   
 
+ This working group will specify an interoperable and generic discovery mechanism that builds on existing protocols and tools. It will allow organizations to independently, in a federated way, publish discovery information.
+
+ Beyond the fact that this methodology allows decentralized and independent publication mechanisms we do not immediatly indentify public policy issues.
+ 
+ * ART: Agent Communication Protocols(AGENTPROTO) was [chartered](https://datatracker.ietf.org/doc/charter-ietf-agentproto) 08 October, 2026
+ 
+ More information about this working can be found [elsewhere in this document](ART/agentproto.md)
+ 
+ * OPS: Benchmarking & Performance Measurements(BPM) was [chartered](https://datatracker.ietf.org/doc/charter-ietf-bpm) 29 October, 2026
+ 
+ Mor information about this group can be found [elsewhere in this document](OPS/bpm.md).
+ 
 
 The following groups are in the process of being (initially) chartered.
 
@@ -16,21 +29,9 @@ The following groups are in the process of being (initially) chartered.
     
     We do not recognize any public policy issues in this work, specifically because this work looks at technologies that are applicable on local networks like enterprise networks. 
 
- * OPS: Operationalizing Network & SErvice abstractioNs(ONSEN) ([charter](https://datatracker.ietf.org/doc/charter-ietf-onsen)). 
+ * WIT: Protocol for Transposed Transactions over HTTP (ptth) [charter](https://datatracker.ietf.org/doc/charter-ietf-ptth/)
 
-  
-   A recent IAB [report on the NEMOPS workshop](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) captures complaints and suggestions of network operators—those that run complex networks. This working group, which results from a [BOF at IETF 125](https://datatracker.ietf.org/meeting/125/session/onsen), uses that report as a starting point develop service abstractions. 
-
-   Service abstractions can be used to simplify complexities in the network and make them easier to manage by hiding the complicated details and showing only the important parts.
-
-   This group will look at the operational workflows for deploying, monitoring, troubleshooting, and evolving service abstractions. This work is purely operation in nature; we do not recognize any public policy relation.
-
-
- * RTG: Fast Network Notifications(FANN) ([charter](https://datatracker.ietf.org/doc/charter-ietf-fann)). 
-
-   The work in this group is inspired by the high demands that modern applications–the charter mentions AI and LLMs–put on (e.g. and mainly) datacenter networks. The group will work on notification mechanism that nodes in the network that detect variations in quality can use to signal these promptly so that corrective action can be taken elsewhere in the network. W
-  
-   We do not recognize any public policy issues in this work as it is also purely operational
+ This group is scheduled to meet. Except for a protocol offering another tool in the cybersecurity toolbox for server maintainers, we do not identify public policy issues.
 
  See the IETF datatracker for a full [overview of chartering or re-chartering groups](https://datatracker.ietf.org/group/chartering/)
 
