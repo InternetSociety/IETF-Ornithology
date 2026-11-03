@@ -3,6 +3,7 @@
 
 The IAB Open meeting is where the IAB reports on its ongoing activities and presents on topics of architectural interest. 
 
-The agenda is currently still being finalized.
+At the time of writing the agenda is still being finalized. However, it will feature a short update on the [IAB PQ Authentication Workshop](https://datatracker.ietf.org/group/pqws/about/) that was recently held.
+
 
 

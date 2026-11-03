@@ -1,4 +1,4 @@
-# MTA Hooks (mole)
+# Moderation Of unLinkable Endorsements (mole)
 <IETFschedule meets=false></IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-thomson-moderation-of-unlinkable-endorsements-mole/)
 * Potentially of interest because: Tokens may be gating access to the web, token provision provides potential control points for users to access services.
@@ -6,7 +6,7 @@
 
 This working group forming BOF around the following problem.
 
-Websites do not know if a new visitor is a friendly fresh set of eyes, a content scraping agent, a bot searching for vulnarability, or a bot that is in another way troublesome. Traditionally CAPTCHAs were supposed to help, but they are unfriendly to users, and bots are getting exceedingly good solving them. 
+Websites do not know if a new visitor is a friendly fresh set of eyes, a content scraping agent, a bot searching for vulnerability, or a bot that is in another way troublesome. Traditionally CAPTCHAs were supposed to help, but they are unfriendly to users, and bots are getting exceedingly good solving them. 
 
 MOLE proposes giving browsers something like a digital“good visitor” token. A website could check properties of that token when deciding whether to trust or provide service to a visitor. The system aims to make these tokens unlinkable across different contexts, limiting what websites can learn about the person using them.
 

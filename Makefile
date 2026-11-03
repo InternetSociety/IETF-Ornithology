@@ -23,14 +23,21 @@ updateagenda:
 	touch updateagenda
 
 
+archiveagenda:
+	find src/archive -name "*.md" -exec sed -i .bak 's/.*<IETFschedule.*>.*<\/IETFschedule>/<IETFschedule meets=false><\/IETFschedule>/' {}   \; | tee archivemeeting.txt
+	find src/archive/IETF   -name "*.md"  -exec  ./AgendaUpdate.py ${MEETING} ${TZ} {}  \; | tee -a archivemeeting.txt
+	find src/archive/IAB   -name "*.md"  -exec  ./AgendaUpdate.py ${MEETING} ${TZ} {}  \; | tee -a archivemeeting.txt
+	find archive/IRTF   -name "*.md"  -exec  ./AgendaUpdate.py ${MEETING} ${TZ} {}  \; | tee -a archivemeeting.txt
+	touch archiveagenda
+
 
 src/Appendix/agenda.md: updateagenda
 
 bofs:
 	./ApprovedBOFs.py ${MEETING} 
-
+	
 clean:
-	rm -Rf book updateagenda src/Appendix/agenda.md
+	rm -Rf book updateagenda src/Appendix/agenda.md archiveagenda archivemeeting.txt
 
 distclean: 
 	rm -Rf book
