@@ -1,5 +1,5 @@
 # Email Address Verification (EVP)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Tue 17 Nov 2026 14:00 - Continental 6</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-hardt-email-address-verification/)
 * Potentially of interest because: We consider this primarily a usability and security feature that reduces phishing potential and privacy exposure. We do not see fundamental public policy issues.
 * Keywords: Usability, email validation.

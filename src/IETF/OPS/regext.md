@@ -1,5 +1,5 @@
 # Registration Protocols Extensions (regext)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Tue 17 Nov 2026 11:00 - Golden Gate 7-8</IETFschedule>
 * [About REGEXT](https://datatracker.ietf.org/group/regext/about/)
  * Potentially of interest because: this touches on the relation between important parties in the DNS value chain.
 * Keywords: DNS, registration data

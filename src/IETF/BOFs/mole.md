@@ -1,5 +1,5 @@
 # Moderation Of unLinkable Endorsements (mole)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Thu 19 Nov 2026 14:00 - Continental 6</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-thomson-moderation-of-unlinkable-endorsements-mole/)
 * Potentially of interest because: Tokens may be gating access to the web, token provision provides potential control points for users to access services.
 * Keywords: privacy, centralization, bots.

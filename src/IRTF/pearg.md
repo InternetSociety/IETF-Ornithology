@@ -1,6 +1,6 @@
 # Privacy Enhancements and Assessments Research Group (oearg)
 * [About pearg](https://www.irtf.org/pearg.html)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=false>PEARG likely does not meet at IETF127</IETFschedule>
 * Potentially of interest because: Emerging privacy preserving technologies and approaches
 * keywords: privacy
 

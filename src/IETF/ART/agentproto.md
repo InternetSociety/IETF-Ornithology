@@ -1,5 +1,5 @@
 # Agent Communication Protocols (agentproto)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Mon 16 Nov 2026 14:00 - Continental 5</IETFschedule>
 * * [About AGENTPROTO](https://datatracker.ietf.org/group/agentproto/about)
 * Potentially of interest because: Interoperability between different AI agents and potential privacy implications.
 * Keywords: Agentic AI

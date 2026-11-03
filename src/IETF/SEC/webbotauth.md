@@ -1,5 +1,5 @@
 # Web Bot Auth (webbotauth)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Tue 17 Nov 2026 16:30 - Continental 4</IETFschedule>
 * [About WEBBOTAUTH](https://datatracker.ietf.org/group/webbotauth/about/)
 * Potentially of interest because: potentially more control by server operators on what bots are given access to their data.
 * Keywords: AI, search

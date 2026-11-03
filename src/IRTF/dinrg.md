@@ -1,5 +1,5 @@
 # Decentralization of the Internet Research Group (dinrg)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Mon 16 Nov 2026 14:00 - Golden Gate 4-5</IETFschedule>
 * [About DINRG](https://datatracker.ietf.org/group/dinrg/about/) 
 * Potentially of interest because: centralization of (economic) power has large societal impact
 * keywords: centralization, consolidation

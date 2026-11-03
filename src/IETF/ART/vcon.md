@@ -1,6 +1,6 @@
 # Virtualized Conversations(vcon)
 
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Tue 17 Nov 2026 11:00 - Golden Gate 2</IETFschedule>
 * [About VCON](https://datatracker.ietf.org/group/vcon/about/)
 * Potentially of interest because: privacy issues involved in handling human conversations.
 * Keywords: privacy, user data

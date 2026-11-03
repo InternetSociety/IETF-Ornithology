@@ -1,5 +1,5 @@
 # 	Standard Communication with Network Elements (scone)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Thu 19 Nov 2026 11:00 - Golden Gate 7-8</IETFschedule>
 * [About SCONE](https://datatracker.ietf.org/doc/charter-ietf-scone/)
 * Potentially of interest because: resolves tensions between various actors in the ecosystem and its relation to net neutrality (dare we say it).
 * Keywords: access/content interaction, Quality of Experience (QoE).

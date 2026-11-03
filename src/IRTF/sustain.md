@@ -1,6 +1,6 @@
 # Sustainability and the Internet Research Group (sustain)
 
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=false>SUSTAIN likely does not meet at IETF127</IETFschedule>
 * [About SUSTAIN](https://datatracker.ietf.org/group/sustain/about/)
 * Potentially of interest because: strong link to the SDG
 * keywords: equality, digital divide

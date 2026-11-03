@@ -1,5 +1,5 @@
 # Network Management Operations (nmop)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Thu 19 Nov 2026 16:30 - Golden Gate 3</IETFschedule>
 * [About NMOP](https://datatracker.ietf.org/group/nmop/about/)
 * Potentially of interest because: NOT so much - near time.
 

@@ -1,5 +1,5 @@
 # Taking IP To Other Planets (tiptop)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Tue 17 Nov 2026 14:00 - Continental 5</IETFschedule>
 * [About TIPTOP](https://datatracker.ietf.org/group/tiptop/about/) 
 * Potentially of interest because: its relation to space programs
 * Keywords: space

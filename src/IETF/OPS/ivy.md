@@ -1,6 +1,6 @@
 # Network Inventory YANG (ivy)
 
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Fri 20 Nov 2026 09:00 - Golden Gate 2</IETFschedule>
 * [About IVY](https://datatracker.ietf.org/group/ivy/about/)
 * Potentially of interest because: cybersecurity aspects of knowing ones network. There may be regulatory interest in knowing what equipment exists in operator networks. 
 * Keywords: security, privacy

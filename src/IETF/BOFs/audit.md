@@ -1,5 +1,5 @@
 # MTA Hooks (audit)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Tue 17 Nov 2026 09:00 - Continental 6</IETFschedule>
 * [Charter Proposal](https://datatracker.ietf.org/doc/charter-ietf-mtahooks/)
 * Potentially of interest because: we see no public policy issues.
 * Keywords: mail processing, mail filtering, MTA extensibility

@@ -1,5 +1,5 @@
 # Human Rights Protocol Considerations (hrpc)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Mon 16 Nov 2026 14:00 - Continental 4</IETFschedule>
 * [About HRPC](https://datatracker.ietf.org/group/hrpc/about/)
 * Potentially of interest because:the human right focus of the group.
 * Keywords: Human rights

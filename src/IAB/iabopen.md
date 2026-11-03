@@ -1,5 +1,5 @@
 # IAB Open
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Tue 17 Nov 2026 11:00 - Continental 6</IETFschedule>
 
 The IAB Open meeting is where the IAB reports on its ongoing activities and presents on topics of architectural interest. 
 

@@ -1,5 +1,5 @@
 # PKI, Logs, And Tree Signatures (plants)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Tue 17 Nov 2026 16:30 - Continental 6</IETFschedule>
 * [About Plants](https://datatracker.ietf.org/group/plants/about/)
 * Potentially of interest because: Impact of post-quantum signatures on the Internet's authentication infrastructure
 * Keywords:  security, encryption, post-quantum

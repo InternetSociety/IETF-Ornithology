@@ -1,5 +1,5 @@
 # RESTful Provisioning Protocol (rpp)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Thu 19 Nov 2026 09:00 - Golden Gate 3</IETFschedule>
 * [About RPP](https://datatracker.ietf.org/group/rpp/about/)
 *
 * Keywords: DNS value chain.

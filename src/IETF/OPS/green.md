@@ -1,5 +1,5 @@
 # Getting Ready for Energy Efficient Networking (green)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Wed 18 Nov 2026 14:00 - Golden Gate 7-8</IETFschedule>
 * [About GREEN](https://datatracker.ietf.org/doc/charter-ietf-green)
 * Potentially of interest because: understanding and limiting environmental impacts. 
 * Keywords: energy, global warming

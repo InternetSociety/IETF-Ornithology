@@ -1,5 +1,5 @@
 # Benchmarking & Performance Measurements (bpm)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=false>BPM likely does not meet at IETF127</IETFschedule>
 * [About BPM](https://datatracker.ietf.org/group/bpm/about)
 * Potentially of interest because: Benchmarking of networks may have regulatory interest.
 * Keywords: Measurements, Performance, Quality

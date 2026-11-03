@@ -1,5 +1,5 @@
 # Remote ATtestation ProcedureS (rats)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Mon 16 Nov 2026 14:00 - Golden Gate 1</IETFschedule>
 * [About RATS](https://datatracker.ietf.org/group/rats/about/)
 * Potentially of interest because: validation of remote parties in cybersecurity context.
 * Keywords: supply chain, transitive trust

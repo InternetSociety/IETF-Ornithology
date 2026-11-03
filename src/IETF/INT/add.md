@@ -1,5 +1,5 @@
 # Adaptive DNS Discovery (add)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Wed 18 Nov 2026 16:30 - Golden Gate 2</IETFschedule>
 * [About ADD](https://datatracker.ietf.org/group/add/about/)
 * Potentially of interest because: control over name resolution.
 * Keywords: encryption, DNS

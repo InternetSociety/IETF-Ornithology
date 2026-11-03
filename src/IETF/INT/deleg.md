@@ -1,5 +1,5 @@
 # DNS Delegation (deleg)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Thu 19 Nov 2026 11:00 - Golden Gate 4-5</IETFschedule>
 * [About ADD](https://datatracker.ietf.org/group/deleg/about/) 
 * Potentially of interest because:potential (but unlikely) changes in business relations in the DNS value chain
 * Keywords: operations, DNS

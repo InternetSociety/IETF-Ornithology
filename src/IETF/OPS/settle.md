@@ -1,6 +1,6 @@
 # SEcure access To Tls Local rEsources ()
 
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=false>SETTLE likely does not meet at IETF127</IETFschedule>
 * [Draft Charter](https://datatracker.ietf.org/doc/charter-ietf-settle/)
 * Potentially of interest because: improving the usability of (existing) encryption technology in local domains such as homes or for SMEs.
 * Keywords: Encryption, Certificate Authority

@@ -1,5 +1,5 @@
 # Secure Telephony Identity Revisited (stir)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Mon 16 Nov 2026 11:30 - Golden Gate 1</IETFschedule>
 * [About STIR](https://datatracker.ietf.org/group/stir/about/)
 * Potentially of interest because: prevention of telephone scams
 * Keywords: spam, anonymity, telephony.

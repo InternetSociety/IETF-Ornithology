@@ -1,6 +1,6 @@
 # Quantum Internet Research Group (qirg)
 * [About qirg](https://datatracker.ietf.org/group/qirg/about/)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=false>QIRG likely does not meet at IETF127</IETFschedule>
 * Potentially of interest because: Quantum Internet technology is potentially disruptive (dual use) technology.
 * keywords: quantum
 

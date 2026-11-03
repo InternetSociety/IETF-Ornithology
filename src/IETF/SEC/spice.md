@@ -1,5 +1,5 @@
 # Secure Patterns for Internet CrEdentials (spice)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Thu 19 Nov 2026 16:30 - Golden Gate 2</IETFschedule>
 * [About SPICE](https://datatracker.ietf.org/group/spice/about//)
 * Potentially of interest because: relevance of these technology building blocks in digital public infrastructure 
 * Keywords: identity, credential, verification, digital public infrastructure

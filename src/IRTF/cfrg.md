@@ -1,5 +1,5 @@
 # Crypto Forum (cfrg)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Thu 19 Nov 2026 16:30 - Continental 5</IETFschedule>
 * [About CFRG](https://datatracker.ietf.org/group/cfrg/about/)
 * Potentially of interest because:  cryptographic elements are at the core of our digital security. 
 * Keywords: cryptography

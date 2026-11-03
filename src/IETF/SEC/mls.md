@@ -1,5 +1,5 @@
 # Messaging Layer Security (mls)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Fri 20 Nov 2026 16:00 - Golden Gate 1</IETFschedule>
 * [About MLS](https://datatracker.ietf.org/group/mls/about/)
 * Potentially of interest because: interoperability requirements out of the European digital marketing act (DMA).
 

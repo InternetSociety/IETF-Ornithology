@@ -1,5 +1,5 @@
 # Digital Emblems (diem)
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Fri 20 Nov 2026 09:00 - Continental 4</IETFschedule>
 * [About DIEM](https://datatracker.ietf.org/group/diem/about)
 * Potentially of interest because:humanitarian significance.
 * Keywords: cyber stability, humanitarian law

@@ -1,7 +1,7 @@
 # Authenticated Transfer (atp) 
 <IETFornithology forcepublication=false />
 
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Wed 18 Nov 2026 09:00 - Continental 4</IETFschedule>
 * [About ATP](https://datatracker.ietf.org/group/atp/about/)
 * Potentially of interest because: Social media portability and interoperability and autonomy of users.
 * Keywords: Social media, (user) autonomy

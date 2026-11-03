@@ -1,5 +1,5 @@
 # Scalable QUIC-Assisted Distribution (SQUAD) 
-<IETFschedule meets=false></IETFschedule>
+* <IETFschedule meets=true>IETF127: Mon 16 Nov 2026 14:00 - Continental 6</IETFschedule>
 * [BoF request](https://datatracker.ietf.org/doc/bofreq-franke-scalable-quic-assisted-distribution-squad/)
 * Potentially of interest because: We do not perceive public policy issues
 * Keywords: one-to-many, efficiency, security
