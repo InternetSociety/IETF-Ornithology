@@ -31,45 +31,48 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     env:
       MDBOOK_VERSION: 0.4.52
       MDBOOK_PANDOC_VERSION: 0.10.5
+      PANDOC_VERSION: 3.5
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install lualatex        
+      - name: Install prebuilt mdBook tools
         run: |
-          sudo apt update
-          sudo apt-get install -y texlive-luatex texlive-latex-base  texlive-science texlive-latex-extra  fonts-open-sans
+          set -euo pipefail
+          curl --fail --location --silent --show-error \
+            "https://github.com/rust-lang/mdBook/releases/download/v${MDBOOK_VERSION}/mdbook-v${MDBOOK_VERSION}-x86_64-unknown-linux-gnu.tar.gz" \
+            --output mdbook.tar.gz
+          echo "c0b903f01dd8f4edc644372ad2b80b1fdddd12552d37b6a098657cbd8eddd768  mdbook.tar.gz" | sha256sum --check
+          tar -xzf mdbook.tar.gz mdbook
+          sudo install -m 0755 mdbook /usr/local/bin/mdbook
 
+          curl --fail --location --silent --show-error \
+            "https://github.com/max-heller/mdbook-pandoc/releases/download/v${MDBOOK_PANDOC_VERSION}/mdbook-pandoc-x86_64-unknown-linux-gnu.tar.xz" \
+            --output mdbook-pandoc.tar.xz
+          echo "4b80944a05774efd03a49c5a9facf5ea3885eca96b9a7caca1576f9f0058bb4d  mdbook-pandoc.tar.xz" | sha256sum --check
+          tar -xJf mdbook-pandoc.tar.xz mdbook-pandoc-x86_64-unknown-linux-gnu/mdbook-pandoc
+          sudo install -m 0755 mdbook-pandoc-x86_64-unknown-linux-gnu/mdbook-pandoc /usr/local/bin/mdbook-pandoc
 
-      - name: Install mdBook
-        uses: actions-rs/toolchain@v1
-        with:
-            profile: minimal
-            toolchain: stable
-
-      - run: |       
-          cargo install --version ${MDBOOK_VERSION} mdbook
-          cargo install --version ${MDBOOK_PANDOC_VERSION} mdbook-pandoc
-          cargo install mdbook-last-changed
-
-
-      - name: Install pandoc
+      - name: Download Pandoc
         run: |
-          export ACTION_ARCH=`dpkg --print-architecture`
-          wget -O pandoc.deb https://github.com/jgm/pandoc/releases/download/3.5/pandoc-3.5-1-${ACTION_ARCH}.deb
-          sudo dpkg -i $DEB pandoc.deb
+          curl --fail --location --silent --show-error \
+            "https://github.com/jgm/pandoc/releases/download/${PANDOC_VERSION}/pandoc-${PANDOC_VERSION}-1-amd64.deb" \
+            --output pandoc.deb
 
-
-      - name: Install Google Fonts
+      - name: Install PDF dependencies
         run: |
-          wget -O Hind-Light.ttf https://github.com/google/fonts/raw/main/ofl/hind/Hind-Light.ttf
-          mkdir -p /usr/share/fonts/truetype/Hind/
-          cp Hind-Light.ttf /usr/share/fonts/truetype/Hind/
-          fc-cache -fv
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            ./pandoc.deb \
+            texlive-luatex \
+            texlive-latex-base \
+            texlive-science \
+            texlive-latex-extra \
+            fonts-open-sans
 
 
 
