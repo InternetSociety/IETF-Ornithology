@@ -5,6 +5,8 @@
 
 This is a voluntary code, but one that the EU is putting a lot of pressure on AI vendors to adopt.
 
+Recently a number of vendors have announced they will honor this signal (e.g. [google](https://developers.google.com/search/blog/2026/10/ai-training-control) and [OpenAI](https://openai.com/index/helping-websites-express-ai-training-preferences/))
+
 
 * Keywords: privacy, AI, copyright, agency
 
